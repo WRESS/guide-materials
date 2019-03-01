@@ -17,7 +17,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://wress.github.io/guide-materials/info/guide/</guid>
-      <description>ガイドとは ガイドとは，ESSの活動の一種で観光地へ行き外国人観光客に声をかけ，その場所を英語で案内することによって会話を楽しむとともに，英語</description>
+      <description>ガイドとは，ESSの活動の一種で観光地へ行き外国人観光客に声をかけ，その場所を英語で案内することによって会話を楽しむとともに，英語で話す力を</description>
     </item>
     
     <item>
@@ -26,7 +26,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://wress.github.io/guide-materials/meiji-jingu/spots/first-tori/</guid>
-      <description>南参道鳥居（第一の鳥居）とは 明治神宮に原宿駅方面から向かった時，一番初めに遭遇する鳥居。ここがガイドの集合場所になる。明治神宮の鳥居はすべて</description>
+      <description>明治神宮に原宿駅方面から向かった時，一番初めに遭遇する鳥居。ここがガイドの集合場所になる。明治神宮の鳥居はすべて白木(樹皮をむいた建築用材)</description>
     </item>
     
     <item>
@@ -35,7 +35,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://wress.github.io/guide-materials/info/materials/</guid>
-      <description>マテリアルとは マテリアルは，ガイドをするための資料のことです。各観光地に何があり，どのようなことを説明したらよいのかを記載してあります。 各大</description>
+      <description>マテリアルは，ガイドをするための資料のことです。各観光地に何があり，どのようなことを説明したらよいのかを記載してあります。 各大学が独自に製作</description>
     </item>
     
     <item>
@@ -44,16 +44,16 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://wress.github.io/guide-materials/meiji-jingu/spots/minami-sando/</guid>
-      <description>南参道 道幅は8間(約14.4m)であり明治神宮内の他の参道と比べて一番広い。お正月には参拝者で埋め尽くされる。 玉砂利 この参道には玉砂利と呼ば</description>
+      <description>道幅は8間(約14.4m)であり明治神宮内の他の参道と比べて一番広い。お正月には参拝者で埋め尽くされる。 この参道には玉砂利と呼ばれる白く小さ</description>
     </item>
     
     <item>
-      <title>必要度</title>
-      <link>https://wress.github.io/guide-materials/info/necessity/</link>
+      <title>Webマテリアル</title>
+      <link>https://wress.github.io/guide-materials/info/this-mate/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://wress.github.io/guide-materials/info/necessity/</guid>
-      <description>必要度とは 各ガイド地の知識がどれくらい必要かを☆の数で表したものです。 ☆，☆☆，☆☆☆の三段階で評価しており，☆が雑学など，ガイドするにあた</description>
+      <guid>https://wress.github.io/guide-materials/info/this-mate/</guid>
+      <description>今までのマテリアルはPDF形式で制作されていました。PDF形式では印刷しやすく，表示も崩れにくいという利点もありますが，見たい記事にすぐには</description>
     </item>
     
     <item>
@@ -62,7 +62,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://wress.github.io/guide-materials/meiji-jingu/spots/sakadaru/</guid>
-      <description>酒樽について 南参道には全国から明治天皇に献上された酒樽201本とフランスから送られたワインの樽がある。残念ながらこれらは展示用であり、空であ</description>
+      <description>南参道には全国から明治天皇に献上された酒樽201本とフランスから送られたワインの樽がある。残念ながらこれらは展示用であり、空であるがそのデザ</description>
     </item>
     
     <item>
@@ -71,7 +71,16 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://wress.github.io/guide-materials/meiji-jingu/spots/otori/</guid>
-      <description>大鳥居について 日本一大きいヒノキ製の木造鳥居であり、高さ12m、柱間9.1m、柱の径1.2m、重さ13tもある。実はこの鳥居は二代目であり、</description>
+      <description>日本一大きいヒノキ製の木造鳥居であり、高さ12m、柱間9.1m、柱の径1.2m、重さ13tもある。実はこの鳥居は二代目であり、初代は昭和41</description>
+    </item>
+    
+    <item>
+      <title>必要度</title>
+      <link>https://wress.github.io/guide-materials/info/necessity/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://wress.github.io/guide-materials/info/necessity/</guid>
+      <description>各ガイド地の知識がどれくらい必要かを☆の数で表したものです。 ☆，☆☆，☆☆☆の三段階で評価しており，☆が雑学など，ガイドするにあたってあまり</description>
     </item>
     
     <item>
@@ -89,7 +98,7 @@
       <pubDate>Fri, 01 Mar 2019 00:42:56 +0900</pubDate>
       
       <guid>https://wress.github.io/guide-materials/meiji-jingu/spots/kaguraden/</guid>
-      <description>神楽殿とは 神楽殿は地下に警官 ガイドスタイル 説明したいならすればいいがそんなに重要でもない</description>
+      <description>神楽殿は地下に警官 説明したいならすればいいがそんなに重要でもない</description>
     </item>
     
     <item>
@@ -107,7 +116,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://wress.github.io/guide-materials/asakusa/about/</guid>
-      <description>浅草について 浅草について</description>
+      <description>浅草とは</description>
     </item>
     
     <item>
@@ -116,7 +125,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://wress.github.io/guide-materials/kokyo/about/</guid>
-      <description>皇居東御苑について</description>
+      <description>皇居東御苑とは</description>
     </item>
     
   </channel>
