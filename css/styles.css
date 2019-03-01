@@ -121,3 +121,8 @@ article p{
 label{
   color: #212529!important;
 }
+@media screen and (max-width: 576px){
+  article-card{
+    margin: 0;
+  }
+}
