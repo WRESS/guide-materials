@@ -1,0 +1,123 @@
+.footer {
+  bottom: 0;
+  width: 100%;
+  color: white;
+  font-size: 1rem;
+  font-weight: 400;
+  line-height: 1.5;
+  padding: 1.2rem 1.5rem;
+  text-align: center;
+  align-items: center;
+  font-size: 1rem;
+  box-shadow: 0 4px 5px 0 rgba(0,0,0,.14), 0 1px 10px 0 rgba(0,0,0,.12), 0 2px 4px -1px rgba(0,0,0,.2);
+  font-family: 'Josefin Sans', sans-serif;
+}
+body {
+  padding-top: 3rem;
+  color: #5a5a5a;
+}
+.carousel {
+  margin-bottom: 4rem;
+}
+.carousel-caption {
+  bottom: 3rem;
+  z-index: 10;
+}
+.carousel-item {
+  height: 32rem;
+  background-color: #777;
+}
+.carousel-item > img {
+  position: absolute;
+  top: 0;
+  left: 0;
+  min-width: 100%;
+  height: 32rem;
+  object-fit: cover;
+}
+@media (min-width: 40em) {
+  .carousel-caption p {
+    margin-bottom: 1.25rem;
+    font-size: 1.25rem;
+    line-height: 1.4;
+  }
+}
+.enh1{
+    margin-bottom: .5rem!important;
+    font-family: inherit!important;
+    font-weight: 400!important;
+    line-height: 1.2!important;
+}
+.navbar-brand{
+  font-family: 'Josefin Sans', sans-serif;
+}
+.jingu-pic{
+  background-image: url(../img/meji-jingu.jpg);
+    position: relative;
+    top: 0;
+    left: 0;
+    min-width: 100%;
+    height: 16rem;
+    background-size: cover;
+}
+.jingu-pic .caption{
+  bottom: 3rem;
+  position: absolute;
+  left: 50%;
+  transform: translate(-50%,0);
+}
+.asakusa-pic{
+  background-image: url(../img/asakusa.jpg);
+    position: relative;
+    top: 0;
+    left: 0;
+    min-width: 100%;
+    height: 16rem;
+    background-size: cover;
+}
+.asakusa-pic .caption{
+  bottom: 3rem;
+  position: absolute;
+  left: 50%;
+  transform: translate(-50%,0);
+}
+.kokyo-pic{
+  background-image: url(../img/kokyo.jpg);
+    position: relative;
+    top: 0;
+    left: 0;
+    min-width: 100%;
+    height: 16rem;
+    background-size: cover;
+}
+.kokyo-pic .caption{
+  bottom: 3rem;
+  position: absolute;
+  left: 50%;
+  transform: translate(-50%,0);
+}
+.navbar{
+  z-index: 1030;
+}
+h1{
+  text-align: center;
+}
+article p{
+  text-indent: 1em;
+}
+.article-info{
+  text-indent: 0;
+}
+.main-area article{
+  background-color: white;
+  border-radius: 2px;
+  box-shadow: 0 4px 5px 0 rgba(0,0,0,.14), 0 1px 10px 0 rgba(0,0,0,.12), 0 2px 4px -1px rgba(0,0,0,.2);
+}
+@media screen and (min-width: 1200px) {
+  .main-area{
+    width: 70vw;
+  }
+}
+label{
+  color: #212529!important;
+}
