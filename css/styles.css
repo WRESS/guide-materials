@@ -127,6 +127,7 @@ label{
     width: 100vw;
   }
   .row{
+    margin: 0;
     width: 100vw;
   }
 }
