@@ -126,4 +126,7 @@ label{
     padding: 0;
     width: 100vw;
   }
+  .row{
+    width: 100vw;
+  }
 }
