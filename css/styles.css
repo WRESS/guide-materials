@@ -123,6 +123,6 @@ label{
 }
 @media screen and (max-width: 576px){
   article-card{
-    margin: 0;
+    padding: 0;
   }
 }
