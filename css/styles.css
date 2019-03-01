@@ -122,7 +122,7 @@ label{
   color: #212529!important;
 }
 @media screen and (max-width: 576px){
-  article-card{
+  .article-card{
     padding: 0;
   }
 }
