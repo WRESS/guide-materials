@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>トップページ on Guide Materials</title>
+    <title>Guide Materials</title>
     <link>https://wress.github.io/guide-materials/</link>
-    <description>Recent content in トップページ on Guide Materials</description>
+    <description>Recent content on Guide Materials</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja</language>
     <lastBuildDate>Fri, 01 Mar 2019 00:42:56 +0900</lastBuildDate>

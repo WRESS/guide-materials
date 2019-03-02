@@ -121,13 +121,18 @@ article p{
 label{
   color: #212529!important;
 }
-@media screen and (max-width: 576px){
+/* @media screen and (max-width: 576px){
   .article-card{
     padding: 0;
     width: 100vw;
   }
   .row{
     margin: 0;
+    padding: 0;
     width: 100vw;
   }
-}
+  .container{
+    margin: 0;
+    padding: 0;
+  }
+} */
