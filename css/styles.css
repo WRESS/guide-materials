@@ -121,18 +121,15 @@ article p{
 label{
   color: #212529!important;
 }
-/* @media screen and (max-width: 576px){
-  .article-card{
-    padding: 0;
-    width: 100vw;
+.breadcrumb{
+  font-size: 0.75em;
+}
+
+@media screen and (max-width: 576px){
+  article h1{
+    font-size: 1.8em!important;
   }
-  .row{
-    margin: 0;
-    padding: 0;
-    width: 100vw;
+  article h2{
+    font-size: 1.4em!important;
   }
-  .container{
-    margin: 0;
-    padding: 0;
-  }
-} */
+}
