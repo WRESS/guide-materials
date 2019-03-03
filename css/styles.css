@@ -133,3 +133,14 @@ label{
     font-size: 1.4em!important;
   }
 }
+.ashbox{
+  background-color: #f5f5f5;
+  color: black;
+  border-radius: 2px;
+}
+.ashbox p{
+  text-indent: 0;
+}
+.monospace{
+font-family: monospace;
+}

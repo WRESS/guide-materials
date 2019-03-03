@@ -109,54 +109,135 @@
 
   </div>
 <article class="p-3 p-sm-5">
-  <h1>記事の追加</h1>
-    
+  <div class="mb-4">
+    <h1>記事の追加</h1>
+      
+    </div>
   
 
 <h2 id="記事を書いていただける方へ">記事を書いていただける方へ</h2>
 
-<p>このマテリアルは記事を簡単に追加できる構造になっています。ここでは記事を書いていただける方向けに，どのように記事を書けばよいかを記載します。</p>
+<p>このマテリアルはガイドスポット・食事スポットの記事を簡単に追加できる構造になっています。ここでは記事を書いていただける方向けに，どのように記事を書けばよいかを記載します。</p>
+
+<h2 id="記事の管理">記事の管理</h2>
+
+<p>現在は記事をWRESSのGoogleドライブGuideフォルダ内で管理しています。ここにURLを載せるわけにはいかないので，記事を書いていただける方はOUESS・WRESSガイドセクションまでご連絡ください。</p>
+
+<p>contentフォルダがルートフォルダの役割を持っており，各ファイルには次の対応関係があります。
+<div class="ashbox py-2 px-3 my-1 ">
+  <p><strong>Markdownで書いた記事のファイル名</strong><br />
+content/meiji-jingu/spots/first-tori.md<br />
+<br />
+<strong>WebサイトでのURL</strong><a href="https://wress.github.io/guidematerials/meiji-jingu/spots/first-tori/" target="_blank">
+  <p><a href="https://wress.github.io/guide-materials/meiji-jingu/spots/first-tori/">https://wress.github.io/guide-materials/meiji-jingu/spots/first-tori/</a></p></p>
+
+<p></a></p>
+
+</div>
+
+spotsフォルダにはガイドスポットの，foodフォルダには食事スポットの記事が入っています。</p>
 
 <h2 id="記事の形式">記事の形式</h2>
 
 <p>このマテリアルでは，Markdown形式で書いた文書をHTMLに変換することにより記事が書かれています。よって，記事はすべてMarkdown形式で作成してください。Markdown形式については次のサイトをご覧ください。</p>
 
-<p>・<a href="http://www.markdown.jp/what-is-markdown/">Markdownとは</a></p>
+<ul>
+<li><a href="http://www.markdown.jp/what-is-markdown/">Markdownとは</a><br /></li>
+<li><a href="https://qiita.com/tbpgr/items/989c6badefff69377da7">Markdown記法　サンプル集</a></li>
+</ul>
 
-<p>Markdownファイルの編集には，Atomなどのソフトが便利です。</p>
+<p>Markdownファイルの編集には，<a href="https://atom.io">Atom</a>や<a href="https://code.visualstudio.com/">Visual Studio Code</a>などのソフトが便利です。</p>
 
 <h2 id="記事のフロントマター">記事のフロントマター</h2>
 
 <p>上述のMarkdown形式で文章を書いていくのですが，その前にフロントマターと呼ばれるパーツを組み込む必要があります。フロントマターは次のように記述します。
-<br />
----<br />
+<div class="ashbox py-2 px-3 my-1 monospace">
+  <p>---<br />
 title: &ldquo;《記事のタイトルをここに書く》&rdquo;<br />
 weight: 《記事の順番の指定》<br />
 necessity: 《必要度の指定》<br />
 ---</p>
 
-<p>titleは記事のタイトルになります。&rdquo;&ldquo;でくくるのを忘れないでください。</p>
+</div>
 
-<p>weightは，一覧のページで順番を決めるのに重要になる数字です。この数字が大きいほど後に並びます。記事をガイドする順に並べる役割を担っています。</p>
+---でくくるのを忘れないでください。以降は各項目について解説します。</p>
 
-<p>necessityは☆の数になります。星の数を半角数字で入力してください。</p>
+<h3 id="title">title</h3>
+
+<p>titleは記事のタイトルになります。各記事の一番上の中央に出てくるのがこれです。&rdquo;&ldquo;でくくるのを忘れないでください。
+<div class="ashbox py-2 px-3 my-1 monospace">
+  <p>title: &ldquo;記事のタイトル&rdquo;</p>
+
+</div>
+</p>
+
+<h3 id="weight">weight</h3>
+
+<p>weightは，一覧のページ（ex: <a href="https://wress.github.io/guide-materials/meiji-jingu/spots/" target="_blank">
+  ガイドスポット
+</a>
+で順番を決めるのに重要になる数字です。1以上の整数で指定し，数字が小さいほど前に，大きいほど後ろに並びます。主に記事をガイドする順に並べるためにこの数字を使っています。この数字はGoogleドライブ内のSpreadSheet（Excelファイル）で管理しています。詳しくはガイドセクションに尋ねてください。
+<div class="ashbox py-2 px-3 my-1 monospace">
+  <p>weight: 3</p>
+
+</div>
+</p>
+
+<h3 id="necessity">necessity</h3>
+
+<p>necessityはspotsフォルダ内の記事に必要です。必要度の指定をしており，これがそのまま☆の数になります。1,2,3のいずれかの数字を指定してください。</p>
+
+<p>なお，spotsフォルダ内の記事にこの値を指定し忘れたり，無効な値が設定されていると <strong>重要度：未設定</strong> と表示され，<a href="https://wress.github.io/guide-materials/meiji-jingu/spots/" target="_blank">
+  一覧ページ
+</a>
+でチェックボックスの有無にかかわらず常に表示されるようになってしまいます。ガイドスポットの記事を書く際には必ず指定してください。</p>
+
+<p>逆に，foodフォルダ内の記事には不要です。指定しても☆は出ません。
+<div class="ashbox py-2 px-3 my-1 monospace">
+  <p>necessity: 3</p>
+
+</div>
+</p>
 
 <h2 id="記事の見出し">記事の見出し</h2>
 
-<p>見出しは#ではなく，##から始めてください。理由は，#はすでに一番上の中央ぞろえのタイトルとして使われているからです。</p>
+<p>本来Markdownでは見出しは#から始まます。しかし，このサイトでは#が見出し（フロントマターのtitleに指定した文字が出る位置）に使われています。そのため，#は使わずに，##から始めてください。
+<div class="ashbox py-2 px-3 my-1 monospace">
+  <p>## 記事を書いていただける方へ<br />
+このマテリアルは記事を簡単に追加できる構造になっています。ここでは記事を書いていただける方向けに，どのように記事を書けばよいかを記載します。</p>
+
+<p>## 記事の管理<br />
+現在は記事をWRESSのGoogleドライブGuideフォルダ内で管理しています。ここにURLを載せるわけにはいかないので，記事を書いていただける方はOUESS・WRESSガイドセクションまでご連絡ください。</p>
+
+</div>
+</p>
 
 <h2 id="記事の例">記事の例</h2>
 
-<p><a href="../../meiji-jingu/spots/minami-sando/">南参道鳥居</a>の例を示します。<br />
+<p><a href="http://wress.github.io/guide-materials/meiji-jingu/spots/otori/">大鳥居</a>の例を示します。
+<div class="ashbox py-2 px-3 my-1 monospace">
+  <p>---<br />
+title: &ldquo;大鳥居&rdquo;<br />
+weight: 4<br />
+image: &ldquo;img/meji-jingu.jpg&rdquo;<br />
+necessity: 3<br />
 ---<br />
-title: &ldquo;南参道鳥居（第一の鳥居）&rdquo;<br />
-order: 1<br />
-necessity: 1<br />
----<br />
-## 南参道鳥居（第一の鳥居）とは<br />
-明治神宮に原宿駅方面から向かった時，一番初めに遭遇する鳥居。ここがガイドの集合場所になる。明治神宮の鳥居はすべて白木(樹皮をむいた建築用材) の状態で作られている。<br />
+日本一大きいヒノキ製の木造鳥居であり、高さ12m、柱間9.1m、柱の径1.2m、重さ13tもある。実はこの鳥居は二代目であり、初代は昭和41年(1966)に落雷のため破損してしまい、現在は昭和50年(1975)12月に新しくできたものである。鳥居の上の方には皇室のご紋である十六葉八重表菊がついている。<br />
 <br />
-また本堂まで鳥居がいくつかあるが，これは奥に行くにつれて敷居が高くなるのを表している。\</p>
+## 鳥居の三つの役割<br />
+1. 神社の神域と私たちの世界との境界を示すもの<br />
+2. 邪悪なものを入れないようにする結界<br />
+3. 私たちの身を清めるため。</p>
+
+</div>
+
+<figure class="text-center">
+  <a href="adding.png" target="_blank">
+    <img src="adding.png" class="m-2 w-75">
+  </a>
+  <figcaption>このような形で反映されます。</figcaption>
+</figure>
+</p>
 
 </article>
 <div class="text-center m-3">
@@ -177,7 +258,7 @@ necessity: 1<br />
 <script src="https://unpkg.com/bootstrap-material-design@4.1.1/dist/js/bootstrap-material-design.js" integrity="sha384-CauSuKpEqAFajSpkdjv3z9t8E7RlpJ1UP0lKM/+NdtSarroVKu069AlsRPKkFBz9" crossorigin="anonymous"></script>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery-cookie/1.4.1/jquery.cookie.js"></script>
 
-<script>$(document).ready(function() { $('body').bootstrapMaterialDesign(); });</script>
+<script>$(document).ready(function() { $('body').bootstrapMaterialDesign();  $("a[href^='http']:not([href*='" + location.hostname + "'])").attr('target', '_blank'); });</script>
 </body>
 </html>
 
