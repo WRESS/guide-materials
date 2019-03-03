@@ -144,6 +144,9 @@ font-family: monospace;
   article h2{
     font-size: 1.4em!important;
   }
+  article h3{
+    font-size: 1.2em!important;
+  }
 }
 article h2{
   border-left: 6px solid #80CBC4;
