@@ -1,12 +1,363 @@
-<!doctype html><html lang=ja class=h-100><head><meta name=generator content="Hugo 0.54.0"><meta charset=utf-8><meta http-equiv=x-ua-compatible content="IE=edge"><meta name=theme-color content=#009688><meta name=”ROBOTS” content=”NOINDEX,NOFOLLOW,NOARCHIVE”><meta name=viewport content="width=device-width,initial-scale=1,shrink-to-fit=no"><title>記事の追加 - Guide Materials</title><link rel=stylesheet href="https://fonts.googleapis.com/css?family=Roboto:300,400,500,700|Material+Icons"><link rel=stylesheet href=https://unpkg.com/bootstrap-material-design@4.1.1/dist/css/bootstrap-material-design.min.css integrity=sha384-wXznGJNEXNG1NFsbm0ugrLFMQPWswR3lds2VeinahP8N0zJw9VWSopbjv2x7WCvX crossorigin=anonymous><link rel=stylesheet href=/guide-materials/css/jpn.min.css><link href="https://fonts.googleapis.com/css?family=Josefin+Sans:300" rel=stylesheet><link rel=stylesheet href=/guide-materials/css/styles.css?6b8788d89f></head><body class="d-flex flex-column h-100"><header><nav class="fixed-top navbar navbar-expand-lg navbar-dark bg-dark"><div class=container><a class=navbar-brand href=https://wress.github.io/guide-materials/>Guide Materials</a>
-<button class=navbar-toggler type=button data-toggle=collapse data-target=#navbar aria-controls=navbar aria-expanded=false aria-label="Toggle navigation">
-<span class=navbar-toggler-icon></span></button><div class="collapse navbar-collapse" id=navbar><ul class="navbar-nav bd-navbar-nav mr-auto"><li class="nav-item dropdown active"><a class=nav-link href=https://wress.github.io/guide-materials/info/>基本情報</a></li><li class="nav-item dropdown"><a class="nav-link dropdown-toggle" href=https://wress.github.io/guide-materials/ id=navbarDropdown role=button data-toggle=dropdown aria-haspopup=true aria-expanded=false>明治神宮</a><div class=dropdown-menu aria-labelledby=navbarDropdown><a class=dropdown-item href=https://wress.github.io/guide-materials/meiji-jingu>明治神宮</a><div class=dropdown-divider></div><a class=dropdown-item href=https://wress.github.io/guide-materials/meiji-jingu/about/>明治神宮について</a>
-<a class=dropdown-item href=https://wress.github.io/guide-materials/meiji-jingu/spots/>ガイドスポット</a>
-<a class=dropdown-item href=https://wress.github.io/guide-materials/meiji-jingu/food/>食事スポット</a></div></li><li class="nav-item dropdown"><a class="nav-link dropdown-toggle" href=https://wress.github.io/guide-materials/ id=navbarDropdown role=button data-toggle=dropdown aria-haspopup=true aria-expanded=false>皇居</a><div class=dropdown-menu aria-labelledby=navbarDropdown><a class=dropdown-item href=https://wress.github.io/guide-materials/kokyo>皇居東御苑</a><div class=dropdown-divider></div><a class=dropdown-item href=https://wress.github.io/guide-materials/kokyo/about/>皇居東御苑について</a>
-<a class=dropdown-item href=https://wress.github.io/guide-materials/kokyo/spots/>ガイドスポット</a>
-<a class=dropdown-item href=https://wress.github.io/guide-materials/kokyo/food/>食事スポット</a></div></li><li class="nav-item dropdown"><a class="nav-link dropdown-toggle" href=https://wress.github.io/guide-materials/ id=navbarDropdown role=button data-toggle=dropdown aria-haspopup=true aria-expanded=false>浅草</a><div class=dropdown-menu aria-labelledby=navbarDropdown><a class=dropdown-item href=https://wress.github.io/guide-materials/asakusa>浅草</a><div class=dropdown-divider></div><a class=dropdown-item href=https://wress.github.io/guide-materials/asakusa/about/>浅草について</a>
-<a class=dropdown-item href=https://wress.github.io/guide-materials/asakusa/spots/>ガイドスポット</a>
-<a class=dropdown-item href=https://wress.github.io/guide-materials/asakusa/food/>食事スポット</a></div></li></ul></div></div></nav></header><main class="flex-shrink-0 my-2"><div class="main-area container"><div class=mt-3><nav aria-label=breadcrumb><ol class=breadcrumb><li class=breadcrumb-item><a href=https://wress.github.io/guide-materials/>トップページ</a></li><li class=breadcrumb-item><a href=https://wress.github.io/guide-materials/info/>基本情報</a></li><li class="breadcrumb-item active">記事の追加</li></ol></nav></div><article class="p-3 p-sm-5"><div class=mb-4><h1>記事の追加</h1></div><h2 id=記事を書いていただける方へ>記事を書いていただける方へ</h2><p>このマテリアルはガイドスポット・食事スポットの記事を簡単に追加できる構造になっています。ここでは記事を書いていただける方向けに，どのように記事を書けばよいかを記載します。</p><h2 id=記事の管理>記事の管理</h2><p>現在は記事をWRESSのGoogleドライブGuideフォルダ内で管理しています。ここにURLを載せるわけにはいかないので，記事を書いていただける方はOUESS・WRESSガイドセクションまでご連絡ください。</p><p>contentフォルダがルートフォルダの役割を持っており，各ファイルには次の対応関係があります。<div class="ashbox py-2 px-3 my-1"><p><strong>Markdownで書いた記事のファイル名</strong><br>content/meiji-jingu/spots/first-tori.md<br><br><strong>WebサイトでのURL</strong><a href=https://wress.github.io/guidematerials/meiji-jingu/spots/first-tori/ target=_blank><p><a href=https://wress.github.io/guide-materials/meiji-jingu/spots/first-tori/>https://wress.github.io/guide-materials/meiji-jingu/spots/first-tori/</a></p></p><p></a></p></div>spotsフォルダにはガイドスポットの，foodフォルダには食事スポットの記事が入っています。</p><h2 id=記事の形式>記事の形式</h2><p>このマテリアルでは，Markdown形式で書いた文書をHTMLに変換することにより記事が作られています。よって，記事はすべてMarkdown形式で作成してください。Markdown形式については次のサイトをご覧ください。Markdownはある程度直感的に書けるので，そこまで難しくないです。</p><ul><li><a href=http://www.markdown.jp/what-is-markdown/>Markdownとは</a><br></li><li><a href=https://qiita.com/tbpgr/items/989c6badefff69377da7>Markdown記法　サンプル集</a></li></ul><p>Markdownファイルの編集には，<a href=https://atom.io>Atom</a>や<a href=https://code.visualstudio.com/>Visual Studio Code</a>などのソフトが便利です。</p><h2 id=記事のフロントマター>記事のフロントマター</h2><p>上述のMarkdown形式で文章を書いていくのですが，その前にフロントマターと呼ばれるパーツを組み込む必要があります。フロントマターは次のように記述します。<div class="ashbox py-2 px-3 my-1 monospace"><p>---<br>title: &ldquo;《記事のタイトルをここに書く》&rdquo;<br>weight: 《記事の順番の指定》<br>necessity: 《必要度の指定》<br>---</p></div>---でくくるのを忘れないでください。以降は各項目について解説します。</p><h3 id=title>title</h3><p>titleは記事のタイトルになります。各記事の一番上の中央に出てくるのがこれです。&rdquo;&ldquo;でくくるのを忘れないでください。<div class="ashbox py-2 px-3 my-1 monospace"><p>title: &ldquo;記事のタイトル&rdquo;</p></div></p><h3 id=weight>weight</h3><p>weightは，一覧のページ（ex: <a href=https://wress.github.io/guide-materials/meiji-jingu/spots/ target=_blank>ガイドスポット</a>
-で順番を決めるのに重要になる数字です。1以上の整数で指定し，数字が小さいほど前に，大きいほど後ろに並びます。主に記事をガイドする順に並べるためにこの数字を使っています。この数字はGoogleドライブ内のSpreadSheet（Excelファイル）で管理しています。詳しくはガイドセクションに尋ねてください。<div class="ashbox py-2 px-3 my-1 monospace"><p>weight: 3</p></div></p><h3 id=necessity>necessity</h3><p>necessityはspotsフォルダ内の記事に必要です。必要度の指定をしており，これがそのまま☆の数になります。1,2,3のいずれかの数字を指定してください。</p><p>なお，spotsフォルダ内の記事にこの値を指定し忘れたり，無効な値が設定されていると <strong>重要度：未設定</strong> と表示され，<a href=https://wress.github.io/guide-materials/meiji-jingu/spots/ target=_blank>
-一覧ページ</a>
-でチェックボックスの有無にかかわらず常に表示されるようになってしまいます。ガイドスポットの記事を書く際には必ず指定してください。</p><p>逆に，foodフォルダ内の記事には不要です。指定しても☆は出ません。<div class="ashbox py-2 px-3 my-1 monospace"><p>necessity: 3</p></div></p><h2 id=記事の見出し>記事の見出し</h2><p>本来Markdownでは見出しは#から始まます。しかし，このサイトでは#が見出し（フロントマターのtitleに指定した文字が出る位置）に使われています。そのため，#は使わずに，##から始めてください。<div class="ashbox py-2 px-3 my-1 monospace"><p>## 記事を書いていただける方へ<br>このマテリアルは記事を簡単に追加できる構造になっています。ここでは記事を書いていただける方向けに，どのように記事を書けばよいかを記載します。</p><p>## 記事の管理<br>現在は記事をWRESSのGoogleドライブGuideフォルダ内で管理しています。ここにURLを載せるわけにはいかないので，記事を書いていただける方はOUESS・WRESSガイドセクションまでご連絡ください。</p></div></p><h2 id=記事の例>記事の例</h2><p><a href=http://wress.github.io/guide-materials/meiji-jingu/spots/otori/>大鳥居</a>の例を示します。<div class="ashbox py-2 px-3 my-1 monospace"><p>---<br>title: &ldquo;大鳥居&rdquo;<br>weight: 4<br>image: &ldquo;img/meji-jingu.jpg&rdquo;<br>necessity: 3<br>---<br>日本一大きいヒノキ製の木造鳥居であり、高さ12m、柱間9.1m、柱の径1.2m、重さ13tもある。実はこの鳥居は二代目であり、初代は昭和41年(1966)に落雷のため破損してしまい、現在は昭和50年(1975)12月に新しくできたものである。鳥居の上の方には皇室のご紋である十六葉八重表菊がついている。<br><br>## 鳥居の三つの役割<br>1. 神社の神域と私たちの世界との境界を示すもの<br>2. 邪悪なものを入れないようにする結界<br>3. 私たちの身を清めるため。</p></div><figure class=text-center><a href=/guide-materials/info/adding/adding.png?1551615359 target=_blank><img alt=adding.png width=75% src=/guide-materials/info/adding/adding_hu581513ce57f1857f97af665ba9cbc189_204119_384x0_resize_box_2.png?1551615359 srcset="/guide-materials/info/adding/adding_hu581513ce57f1857f97af665ba9cbc189_204119_384x0_resize_box_2.png?1551615359 384w, /guide-materials/info/adding/adding_hu581513ce57f1857f97af665ba9cbc189_204119_576x0_resize_box_2.png?1551615359 586w, /guide-materials/info/adding/adding_hu581513ce57f1857f97af665ba9cbc189_204119_768x0_resize_box_2.png?1551615359 768w, /guide-materials/info/adding/adding_hu581513ce57f1857f97af665ba9cbc189_204119_1024x0_resize_box_2.png?1551615359 1024w" title=adding.png></a><figcaption>各パラメータはこのように表示されます。</figcaption></figure></p></article><div class="text-center m-3"><a role=button class="btn btn-primary" href=https://wress.github.io/guide-materials/info/free-talk/>前のページへ</a></div></main><footer class="footer mt-auto py-3 bg-dark"><div class=container><p>&copy; 2019 OUESS & WRESS</p></div></footer><script src=https://code.jquery.com/jquery-3.2.1.min.js></script><script src=https://unpkg.com/popper.js@1.12.6/dist/umd/popper.js integrity=sha384-fA23ZRQ3G/J53mElWqVJEGJzU0sTs+SvzG8fXVWP+kJQ1lwFAOkcUOysnlKJC33U crossorigin=anonymous></script><script src=https://unpkg.com/bootstrap-material-design@4.1.1/dist/js/bootstrap-material-design.js integrity=sha384-CauSuKpEqAFajSpkdjv3z9t8E7RlpJ1UP0lKM/+NdtSarroVKu069AlsRPKkFBz9 crossorigin=anonymous></script><script src=https://cdnjs.cloudflare.com/ajax/libs/jquery-cookie/1.4.1/jquery.cookie.js></script><script>$(document).ready(function(){$('body').bootstrapMaterialDesign();$("a[href^='http']:not([href*='"+location.hostname+"'])").attr('target','_blank');});</script></body></html>
+<!DOCTYPE html>
+<html lang="ja" class="h-100">
+<head>
+	<meta name="generator" content="Hugo 0.54.0" />
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="theme-color" content="#80CBC4">
+	<meta NAME=”ROBOTS” CONTENT=”NOINDEX,NOFOLLOW,NOARCHIVE”>
+  <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+  <title>記事の追加（その１） - Guide Materials</title>
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto:300,400,500,700|Material+Icons">
+  <link rel="stylesheet" href="https://unpkg.com/bootstrap-material-design@4.1.1/dist/css/bootstrap-material-design.min.css" integrity="sha384-wXznGJNEXNG1NFsbm0ugrLFMQPWswR3lds2VeinahP8N0zJw9VWSopbjv2x7WCvX" crossorigin="anonymous">
+	<link rel="stylesheet" href="/guide-materials/css/jpn.min.css">
+	<link href="https://fonts.googleapis.com/css?family=Josefin+Sans:300" rel="stylesheet">
+  <link rel="stylesheet" href="/guide-materials/css/styles.css?9990f533ab">
+</head>
+<body class="d-flex flex-column h-100">
+<header>
+  <nav class="fixed-top navbar navbar-expand-lg navbar-dark bg-dark">
+    <div class="container">
+      <a class="navbar-brand" href="https://wress.github.io/guide-materials/">
+        Guide Materials
+      </a>
+      <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbar" aria-controls="navbar" aria-expanded="false" aria-label="Toggle navigation">
+        <span class="navbar-toggler-icon"></span>
+      </button>
+
+      <div class="collapse navbar-collapse" id="navbar">
+        <ul class="navbar-nav bd-navbar-nav mr-auto">
+          <li class="nav-item dropdown active">
+            <a class="nav-link" href="https://wress.github.io/guide-materials/info/">基本情報</a>
+          </li>
+					<li class="nav-item dropdown ">
+		        <a class="nav-link dropdown-toggle" href="https://wress.github.io/guide-materials/" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+		          明治神宮
+		        </a>
+		        <div class="dropdown-menu" aria-labelledby="navbarDropdown">
+		          <a class="dropdown-item" href="https://wress.github.io/guide-materials/meiji-jingu">明治神宮</a>
+		          <div class="dropdown-divider"></div>
+		          <a class="dropdown-item" href="https://wress.github.io/guide-materials/meiji-jingu/about/">明治神宮について</a>
+		          <a class="dropdown-item" href="https://wress.github.io/guide-materials/meiji-jingu/spots/">ガイドスポット</a>
+		          <a class="dropdown-item" href="https://wress.github.io/guide-materials/meiji-jingu/food/">食事スポット</a>
+		        </div>
+		      </li>
+					<li class="nav-item dropdown ">
+						<a class="nav-link dropdown-toggle" href="https://wress.github.io/guide-materials/" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+							皇居
+						</a>
+						<div class="dropdown-menu" aria-labelledby="navbarDropdown">
+							<a class="dropdown-item" href="https://wress.github.io/guide-materials/kokyo">皇居東御苑</a>
+							<div class="dropdown-divider"></div>
+							<a class="dropdown-item" href="https://wress.github.io/guide-materials/kokyo/about/">皇居東御苑について</a>
+							<a class="dropdown-item" href="https://wress.github.io/guide-materials/kokyo/spots/">ガイドスポット</a>
+							<a class="dropdown-item" href="https://wress.github.io/guide-materials/kokyo/food/">食事スポット</a>
+						</div>
+					</li>
+					<li class="nav-item dropdown ">
+						<a class="nav-link dropdown-toggle" href="https://wress.github.io/guide-materials/" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+							浅草
+						</a>
+						<div class="dropdown-menu" aria-labelledby="navbarDropdown">
+							<a class="dropdown-item" href="https://wress.github.io/guide-materials/asakusa">浅草</a>
+							<div class="dropdown-divider"></div>
+							<a class="dropdown-item" href="https://wress.github.io/guide-materials/asakusa/about/">浅草について</a>
+							<a class="dropdown-item" href="https://wress.github.io/guide-materials/asakusa/spots/">ガイドスポット</a>
+							<a class="dropdown-item" href="https://wress.github.io/guide-materials/asakusa/food/">食事スポット</a>
+						</div>
+					</li>
+        </ul>
+      </div>
+    </div>
+  </nav>
+</header>
+<main class="flex-shrink-0 my-2">
+
+<div class="main-area container">
+  <div class="mt-3">
+      <nav aria-label="breadcrumb">
+  <ol class="breadcrumb">
+      
+  
+      
+  
+      
+  
+  
+  <li class="breadcrumb-item">
+    <a href="https://wress.github.io/guide-materials/">トップページ</a>
+  </li>
+  
+
+  
+  
+  <li class="breadcrumb-item">
+    <a href="https://wress.github.io/guide-materials/info/">基本情報</a>
+  </li>
+  
+
+  
+  
+  <li class="breadcrumb-item active">
+    記事の追加（その１）
+  </li>
+  
+
+  </ol>
+</nav>
+
+
+  </div>
+<article class="p-3 p-sm-5">
+  <div class="mb-4">
+    <h1>記事の追加（その１）</h1>
+      
+    </div>
+  
+
+<h2 id="記事を書いていただける方へ">記事を書いていただける方へ</h2>
+
+<p>このマテリアルはガイドスポット・食事スポットの記事を簡単に追加できる構造になっています。ここでは記事を書いていただける方向けに，どのように記事を書けばよいかを記載します。</p>
+
+<h2 id="記事の管理">記事の管理</h2>
+
+<p>現在は記事をWRESSのGoogleドライブGuideフォルダ内で管理しています。ここにURLを載せるわけにはいかないので，記事を書いていただける方はOUESS・WRESSガイドセクションまでご連絡ください。</p>
+
+<p>WRESS2019ルートフォルダ/Guide/新マテリアル/guide-materials内のcontentフォルダがルートフォルダの役割を持っており，各ファイルには次の対応関係があります。
+<div class="ashbox py-2 px-3 my-1 ">
+  <p><strong>Markdownで書いた記事のファイル名</strong><br />
+WRESS2019ルートフォルダ/Guide/新マテリアル/guide-materials/content/meiji-jingu/spots/first-tori/index.md<br />
+<br />
+<strong>WebサイトでのURL</strong><a href="https://wress.github.io/guidematerials/meiji-jingu/spots/first-tori/" target="_blank">
+  <p><a href="https://wress.github.io/guide-materials/meiji-jingu/spots/first-tori/">https://wress.github.io/guide-materials/meiji-jingu/spots/first-tori/</a></p></p>
+
+<p></a></p>
+
+</div>
+
+spotsフォルダにはガイドスポットの，foodフォルダには食事スポットの記事が入っています。</p>
+
+<h2 id="記事の形式">記事の形式</h2>
+
+<p>このマテリアルでは，Markdown形式で書いた文書をHTMLに変換することにより記事が作られています。よって，記事はすべてMarkdown形式で作成してください。Markdown記法については次のサイトをご覧ください。また，次のページで主に使うと思われるMarkdown記法について解説します。Markdownはある程度直感的に書けるので，そこまで難しくないです。</p>
+
+<ul>
+<li><a href="http://www.markdown.jp/what-is-markdown/">Markdownとは</a><br /></li>
+<li><a href="https://qiita.com/tbpgr/items/989c6badefff69377da7">Markdown記法　サンプル集</a></li>
+</ul>
+
+<p>Markdownファイルの編集には，<a href="https://atom.io">Atom</a>や<a href="https://code.visualstudio.com/">Visual Studio Code</a>などのソフトが便利です。</p>
+
+<h2 id="googleドライブ上でのmarkdownの扱い">Googleドライブ上でのMarkdownの扱い</h2>
+
+<p>Markdownのファイルは拡張子.mdをもつテキストファイルです。よって，普通にメモ帳などでテキストファイルを作成し，拡張子を.txtから.mdに変換することで，簡単にMarkdownのファイルを作ることができます。このMarkdownのファイルは，AtomやVScodeなどのエディタを用いると，シンタックスハイライト付きでわかりやすく編集できます。</p>
+
+<p>また，Googleドライブ上にアプリを追加することにより，<strong>ブラウザ上でもMarkdownファイルの作成・編集が行えます。</strong> GoogleドライブでMarkdownを管理している都合上，こちらをお勧めします。ここでは，こちらの方法を解説します。</p>
+
+<p>まずはGoogleドライブにアプリを追加する方法を説明します。Googleドライブを開き，何もない場所で右クリックした後，「その他」にマウスカーソルを合わせてください。すると新たなメニューが出てくるはずなので，一番下まで移動して，「アプリを追加」を選択してください。
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<figure class="text-center p-3 my-1 ">
+  <a href="/guide-materials/info/adding/apps.png?1551624388" target="_blank">
+  <img
+  alt="apps.png"
+  
+  width="75%"
+  
+  src="/guide-materials/info/adding/apps_hu717a282089fc60a2e245c1cd4a0be77a_66372_384x0_resize_box_2.png?1551624388"
+  srcset="/guide-materials/info/adding/apps_hu717a282089fc60a2e245c1cd4a0be77a_66372_384x0_resize_box_2.png?1551624388 384w, /guide-materials/info/adding/apps_hu717a282089fc60a2e245c1cd4a0be77a_66372_576x0_resize_box_2.png?1551624388 586w, /guide-materials/info/adding/apps_hu717a282089fc60a2e245c1cd4a0be77a_66372_768x0_resize_box_2.png?1551624388 768w, /guide-materials/info/adding/apps_hu717a282089fc60a2e245c1cd4a0be77a_66372_1024x0_resize_box_2.png?1551624388 1024w"
+  title="apps.png"
+  ></a>
+</figure>
+</p>
+
+<p>アプリを追加ウィンドウが出てくると思うので，右上の検索窓に「Markdown」と入力してください。すると，「StackEdit」というものが一番上に出てくるはずです。今回はこれを使います。右の「接続」ボタンを押しましょう。</p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<figure class="text-center p-3 my-1 ">
+  <a href="/guide-materials/info/adding/apps2.png?1551624389" target="_blank">
+  <img
+  alt="apps2.png"
+  
+  width="75%"
+  
+  src="/guide-materials/info/adding/apps2_hu1fcaf7a76d321df35e764d9a581623e8_226904_384x0_resize_box_2.png?1551624389"
+  srcset="/guide-materials/info/adding/apps2_hu1fcaf7a76d321df35e764d9a581623e8_226904_384x0_resize_box_2.png?1551624389 384w, /guide-materials/info/adding/apps2_hu1fcaf7a76d321df35e764d9a581623e8_226904_576x0_resize_box_2.png?1551624389 586w, /guide-materials/info/adding/apps2_hu1fcaf7a76d321df35e764d9a581623e8_226904_768x0_resize_box_2.png?1551624389 768w, /guide-materials/info/adding/apps2_hu1fcaf7a76d321df35e764d9a581623e8_226904_1024x0_resize_box_2.png?1551624389 1024w"
+  title="apps2.png"
+  ></a>
+</figure>
+
+
+<p>数クリックで追加が完了します。そのままOKを押します。</p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<figure class="text-center p-3 my-1 ">
+  <a href="/guide-materials/info/adding/apps3.png?1551624389" target="_blank">
+  <img
+  alt="apps3.png"
+  
+  width="75%"
+  
+  src="/guide-materials/info/adding/apps3_hud34ed64a21766dfd96788f8ed9309681_77529_384x0_resize_box_2.png?1551624389"
+  srcset="/guide-materials/info/adding/apps3_hud34ed64a21766dfd96788f8ed9309681_77529_384x0_resize_box_2.png?1551624389 384w, /guide-materials/info/adding/apps3_hud34ed64a21766dfd96788f8ed9309681_77529_576x0_resize_box_2.png?1551624389 586w, /guide-materials/info/adding/apps3_hud34ed64a21766dfd96788f8ed9309681_77529_768x0_resize_box_2.png?1551624389 768w, /guide-materials/info/adding/apps3.png?1551624389 1024w"
+  title="apps3.png"
+  ></a>
+</figure>
+
+
+<p>これで，Googleドライブ上で，すべての拡張子が.mdのファイルをダブルクリックするだけで開けるほか，右クリックメニューからStackEditを選択することで，Markdownファイルを作成することも可能になりました。</p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<figure class="text-center p-3 my-1 ">
+  <a href="/guide-materials/info/adding/apps4.png?1551624389" target="_blank">
+  <img
+  alt="apps4.png"
+  
+  width="75%"
+  
+  src="/guide-materials/info/adding/apps4_hu4261f9811be0af7932a1ac3bf0792692_78846_384x0_resize_box_2.png?1551624389"
+  srcset="/guide-materials/info/adding/apps4_hu4261f9811be0af7932a1ac3bf0792692_78846_384x0_resize_box_2.png?1551624389 384w, /guide-materials/info/adding/apps4_hu4261f9811be0af7932a1ac3bf0792692_78846_576x0_resize_box_2.png?1551624389 586w, /guide-materials/info/adding/apps4_hu4261f9811be0af7932a1ac3bf0792692_78846_768x0_resize_box_2.png?1551624389 768w, /guide-materials/info/adding/apps4.png?1551624389 1024w"
+  title="apps4.png"
+  ></a>
+</figure>
+
+
+<p>StackEditでは，左側にMarkdown形式で記入すると，右側に見出しが大きくなったり，リンクが貼られたりしたプレビューが表示されるようになっています。
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<figure class="text-center p-3 my-1 ">
+  <a href="/guide-materials/info/adding/apps5.png?1551624389" target="_blank">
+  <img
+  alt="apps5.png"
+  
+  width="75%"
+  
+  src="/guide-materials/info/adding/apps5_hu80f694e3626fe7f248a48b1ddda192f9_164881_384x0_resize_box_2.png?1551624389"
+  srcset="/guide-materials/info/adding/apps5_hu80f694e3626fe7f248a48b1ddda192f9_164881_384x0_resize_box_2.png?1551624389 384w, /guide-materials/info/adding/apps5_hu80f694e3626fe7f248a48b1ddda192f9_164881_576x0_resize_box_2.png?1551624389 586w, /guide-materials/info/adding/apps5_hu80f694e3626fe7f248a48b1ddda192f9_164881_768x0_resize_box_2.png?1551624389 768w, /guide-materials/info/adding/apps5_hu80f694e3626fe7f248a48b1ddda192f9_164881_1024x0_resize_box_2.png?1551624389 1024w"
+  title="apps5.png"
+  ></a>
+</figure>
+</p>
+
+</article>
+<div class="text-center m-3">
+  
+  <a  role="button" class="btn btn-primary" href="https://wress.github.io/guide-materials/info/free-talk/">前のページへ</a>
+  
+  
+  <a  role="button" class="btn btn-primary" href="https://wress.github.io/guide-materials/info/adding2/">次のページへ</a>
+  
+</div>
+
+</main>
+<footer class="footer mt-auto py-3 bg-dark">
+  <div class="container">
+    <p>&copy; 2019 OUESS & WRESS</p>
+  </div>
+</footer>
+<script src="https://code.jquery.com/jquery-3.2.1.min.js"></script><script src="https://unpkg.com/popper.js@1.12.6/dist/umd/popper.js" integrity="sha384-fA23ZRQ3G/J53mElWqVJEGJzU0sTs+SvzG8fXVWP+kJQ1lwFAOkcUOysnlKJC33U" crossorigin="anonymous"></script>
+<script src="https://unpkg.com/bootstrap-material-design@4.1.1/dist/js/bootstrap-material-design.js" integrity="sha384-CauSuKpEqAFajSpkdjv3z9t8E7RlpJ1UP0lKM/+NdtSarroVKu069AlsRPKkFBz9" crossorigin="anonymous"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery-cookie/1.4.1/jquery.cookie.js"></script>
+
+<script>$(document).ready(function() { $('body').bootstrapMaterialDesign();  $("a[href^='http']:not([href*='" + location.hostname + "'])").attr('target', '_blank'); });</script>
+</body>
+</html>
+

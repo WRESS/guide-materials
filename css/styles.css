@@ -125,14 +125,6 @@ label{
   font-size: 0.75em;
 }
 
-@media screen and (max-width: 576px){
-  article h1{
-    font-size: 1.8em!important;
-  }
-  article h2{
-    font-size: 1.4em!important;
-  }
-}
 .ashbox{
   background-color: #f5f5f5;
   color: black;
@@ -143,4 +135,22 @@ label{
 }
 .monospace{
 font-family: monospace;
+}
+
+@media screen and (max-width: 576px){
+  article h1{
+    font-size: 1.8em!important;
+  }
+  article h2{
+    font-size: 1.4em!important;
+  }
+}
+article h2{
+  border-left: 6px solid #80CBC4;
+  border-bottom: 1px solid #80CBC4;
+  padding-left: 0.25em;
+}
+article h3{
+  border-left: 3px solid #80CBC4;
+  padding-left: 0.5em;
 }
