@@ -157,3 +157,12 @@ article h3{
   border-left: 3px solid #80CBC4;
   padding-left: 0.5em;
 }
+.ie_alert{
+  padding: 20px 20px;
+color: #000;
+background: #fc3;
+}
+.ie_alert a{
+ color: #f00;
+ text-decoration: underline;
+}
