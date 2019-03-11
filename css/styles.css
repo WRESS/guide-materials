@@ -166,3 +166,8 @@ background: #fc3;
  color: #f00;
  text-decoration: underline;
 }
+.logo{
+  height: 1.25em;
+  margin: 0.125rem;
+  vertical-align: top;
+}
