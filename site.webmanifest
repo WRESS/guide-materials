@@ -3,12 +3,12 @@
     "short_name": "Guide Materials",
     "icons": [
         {
-            "src": "/android-chrome-192x192.png?v=476egEROJN",
+            "src": "https://wress.github.io/guide-materials/android-chrome-192x192.png?v=476egEROJN",
             "sizes": "192x192",
             "type": "image/png"
         },
         {
-            "src": "/android-chrome-512x512.png?v=476egEROJN",
+            "src": "https://wress.github.io/guide-materials/android-chrome-512x512.png?v=476egEROJN",
             "sizes": "512x512",
             "type": "image/png"
         }
