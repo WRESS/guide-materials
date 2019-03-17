@@ -154,7 +154,7 @@ font-family: 'Source Code Pro', monospace;
 }
 article h2{
   border-bottom: double 4px #80CBC4;
-  padding-top: 0.5em;
+  padding-top: 0.25em;
   padding-left: 0.25em;
 }
 article h2:first-letter {
