@@ -1,3 +1,4 @@
+@import url('https://fonts.googleapis.com/css?family=Source+Code+Pro');
 .footer {
   bottom: 0;
   width: 100%;
@@ -134,7 +135,7 @@ label{
   text-indent: 0;
 }
 .monospace{
-font-family: monospace;
+font-family: 'Source Code Pro', monospace;
 }
 
 @media screen and (max-width: 576px){
@@ -149,12 +150,13 @@ font-family: monospace;
   }
 }
 article h2{
-  border-left: 6px solid #80CBC4;
-  border-bottom: 1px solid #80CBC4;
+  border-bottom: double 4px #80CBC4;
+  padding-top: 0.5em;
   padding-left: 0.25em;
 }
 article h3{
   border-left: 3px solid #80CBC4;
+  margin-top: 0.5em;
   padding-left: 0.5em;
 }
 .ie_alert{
