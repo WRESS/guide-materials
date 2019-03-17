@@ -147,7 +147,6 @@ font-family: 'Source Code Pro', monospace;
   }
   article h2:first-letter {
     font-size: 1.5em;
-    color: #80CBC4;
   }
   article h3{
     font-size: 1.2em!important;
@@ -160,7 +159,7 @@ article h2{
 }
 article h2:first-letter {
   font-size: 1.2em;
-  color: #80CBC4;
+  color: #009688;
 }
 article h3{
   border-left: 3px solid #80CBC4;
