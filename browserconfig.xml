@@ -2,7 +2,7 @@
 <browserconfig>
     <msapplication>
         <tile>
-            <square150x150logo src="https://wress.github.io/guide-materials/mstile-150x150.png?v=476egEROJN"/>
+            <square150x150logo src="/guide-materials/mstile-150x150.png?v=476egEROJN"/>
             <TileColor>#009688</TileColor>
         </tile>
     </msapplication>
