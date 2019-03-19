@@ -137,7 +137,9 @@ label{
 .monospace{
 font-family: 'Source Code Pro', monospace;
 }
-
+.image-shortcode{
+  width: 75%
+}
 @media screen and (max-width: 576px){
   article h1{
     font-size: 1.8em!important;
@@ -150,6 +152,9 @@ font-family: 'Source Code Pro', monospace;
   }
   article h3{
     font-size: 1.2em!important;
+  }
+  .image-shortcode{
+    width: 100%
   }
 }
 article h2{
