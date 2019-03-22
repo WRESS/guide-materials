@@ -216,58 +216,10 @@ date: "0001-01-01T00:00:00Z",
 body: ""
 },
 {
-url: "https://wress.github.io/guide-materials/asakusa/spots/",
-title: "ガイドスポット",
-date: "0001-01-01T00:00:00Z",
-body: "ガイドスポット"
-},
-{
-url: "https://wress.github.io/guide-materials/kokyo/spots/",
-title: "ガイドスポット",
-date: "0001-01-01T00:00:00Z",
-body: "ガイドスポット"
-},
-{
-url: "https://wress.github.io/guide-materials/meiji-jingu/spots/",
-title: "ガイドスポット",
-date: "0001-01-01T00:00:00Z",
-body: "ガイドスポット"
-},
-{
-url: "https://wress.github.io/guide-materials/search/",
-title: "サイト内検索",
-date: "0001-01-01T00:00:00Z",
-body: "サイト内検索"
-},
-{
-url: "https://wress.github.io/guide-materials/",
-title: "トップページ",
-date: "0001-01-01T00:00:00Z",
-body: "トップページ"
-},
-{
-url: "https://wress.github.io/guide-materials/info/",
-title: "基本情報",
-date: "0001-01-01T00:00:00Z",
-body: "基本情報"
-},
-{
-url: "https://wress.github.io/guide-materials/meiji-jingu/",
-title: "明治神宮",
-date: "0001-01-01T00:00:00Z",
-body: "明治神宮 明治神宮 トップページ 明治神宮 明治神宮について 明治神宮の基本情報です。 View details \u0026raquo; ガイドスポット 明治神宮のガイドスポットの解説。 View details \u0026raquo; 食事スポット 明治神宮周辺の食事スポットを紹介します。 View details \u0026raquo;"
-},
-{
 url: "https://wress.github.io/guide-materials/meiji-jingu/about/",
 title: "明治神宮について",
 date: "0001-01-01T00:00:00Z",
 body: "明治神宮について 明治神宮について 明治神宮は1920年(大正9年)に創建され、総面積は70万m2、明治天皇と昭憲皇太后が祀られてい る神社である。年間参拝者数は800万人であり、初詣の参拝者数は日本一の300万人である。また 横綱の土俵入りや子供の祭りといった幅広い行事を行っている。自然にあふれており、夏でも涼しく、 東京都心のオアシスともいえる観光地である。 所要時間 基本的には30~40分くらいで一周できる。場合によっては1時間以上かかることもある。またキャ ッチ時間は10分くらいである。一回のガイドで2~3組ぐらいがちょうどいいでしょう。 ガイドスタイル 皇居ほどフリートークの比重は大きくなく，浅草ほどフリートークしづらくない。初心者にはうってつけのガイド地。 アクセス JR原宿駅表参道口・東京メトロ明治神宮前駅2番口→徒歩1分で南参道口 JR代々木駅西口・都営地下鉄代々木駅A1出口→徒歩5分で北参道口 小田急電鉄参宮橋駅→徒歩3分で西参道口"
-},
-{
-url: "https://wress.github.io/guide-materials/asakusa/",
-title: "浅草寺",
-date: "0001-01-01T00:00:00Z",
-body: "浅草寺 浅草寺 トップページ 浅草寺 浅草寺について 浅草寺の基本情報です。 View details \u0026raquo; ガイドスポット 浅草寺のガイドスポットの解説です。 View details \u0026raquo; 食事スポット 浅草寺周辺の食事スポットを紹介します。 View details \u0026raquo;"
 },
 {
 url: "https://wress.github.io/guide-materials/asakusa/about/",
@@ -276,33 +228,9 @@ date: "0001-01-01T00:00:00Z",
 body: "浅草寺について 浅草とは"
 },
 {
-url: "https://wress.github.io/guide-materials/kokyo/",
-title: "皇居東御苑",
-date: "0001-01-01T00:00:00Z",
-body: "皇居東御苑 皇居東御苑 トップページ 皇居 皇居東御苑について 皇居東御苑の基本情報です。 View details \u0026raquo; ガイドスポット 皇居東御苑のガイドスポットの解説です。 View details \u0026raquo; 食事スポット 皇居東御苑周辺の食事スポットを紹介します。 View details \u0026raquo;"
-},
-{
 url: "https://wress.github.io/guide-materials/kokyo/about/",
 title: "皇居東御苑について",
 date: "0001-01-01T00:00:00Z",
 body: "皇居東御苑について 皇居東御苑とは"
-},
-{
-url: "https://wress.github.io/guide-materials/asakusa/food/",
-title: "食事スポット",
-date: "0001-01-01T00:00:00Z",
-body: "食事スポット"
-},
-{
-url: "https://wress.github.io/guide-materials/kokyo/food/",
-title: "食事スポット",
-date: "0001-01-01T00:00:00Z",
-body: "食事スポット"
-},
-{
-url: "https://wress.github.io/guide-materials/meiji-jingu/food/",
-title: "食事スポット",
-date: "0001-01-01T00:00:00Z",
-body: "食事スポット"
 },
 ];
