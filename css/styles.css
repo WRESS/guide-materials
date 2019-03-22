@@ -193,3 +193,28 @@ background: #fc3;
 .pn-1, .pn-2, .pn-3, .pn-12, .pn-23, .pn-31{
   display: none;
 }
+
+  #result {
+    margin: 1rem;
+  }
+  .item_title {
+    font-weight: bolder;
+  }
+  .item_excerpt {
+    background: white;
+    margin: 0.5em 2em 1em;
+    padding: 0.5em;
+    border: dashed 1px lightgray;
+    font-size: smaller;
+  }
+  .item_excerpt b {
+    background: pink;
+  }
+  .form-group{
+    width: 75%;
+    margin: 1rem auto;
+  }
+  #searchword{
+    width: 100%;
+    margin: 0 auto;
+  }
