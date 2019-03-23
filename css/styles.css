@@ -219,6 +219,6 @@ background: #fc3;
     margin: 0 auto;
   }
   ::selection {
-      background: #009688;
+      background-color: rgba(0,150,136,0.7);
       color: white;
   }
