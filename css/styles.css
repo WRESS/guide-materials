@@ -218,3 +218,7 @@ background: #fc3;
     width: 100%;
     margin: 0 auto;
   }
+  ::selection {
+      background: #009688;
+      color: white;
+  }
