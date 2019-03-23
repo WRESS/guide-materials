@@ -45,7 +45,7 @@ body: "提灯 \r\r提灯 この提灯の下を覗くと、竜の彫刻を見る�
 url: "https://wress.github.io/guide-materials/kokyo/spots/bansho/",
 title: "番所",
 date: "0001-01-01T00:00:00Z",
-body: "番所 番所 「番所」とは警備の詰こであり、現在３つ残っている。奥にほど位高「番所」とは警備の詰こであり、奥にほど位高役人が配属されていた。 同心番所 「同心」とは下級の武士こである。主に「同心」とは下級の武士こである。主に大名の従者を監視するが仕事であった。 百人番所 50mを超える長さの建物である。名前のとおり、百人同心４組が昼夜交代で護衛していた。 大番所 他の番所より格上で、最も強い同心がいた。 英語の例 This is the main gate of former Edo Castle. In 1620, they reformed it to square shape to prevent from the enemies attack. There are also small windows in the wall. There are to attack outside enemies. \r"
+body: "番所 番所 「番所」とは警備用の小屋であり、現在３つ残っている。奥にほど位の高い役人が配属されていた。 同心番所 「同心」とは下級の武士ことである。主に大名の従者を監視することが仕事であった。 Dohshin-bansho This is Dohshin-bansho. Dohshin means a guard-man, and bansho means guardhouse. Guardhouses were set at important places near the gates. \r百人番所 50mを超える長さの建物である。名前のとおり、百人同心４組が昼夜交代で護衛していた。1チーム100人のグループが4つあり、ローテーションを組んで警備に当たっていた。 百人番所の奥には、さりげなく百人番所と同じ形に剪定された植え込みがある。かわいいのでチェックしてみよう。 注意 近くにある「セルフガイド」という看板には「25人組×4」と書かれている。え!このマテリアルの説明は嘘なのか?!そうではない。まぁ落ち着こう。 「100人組×4」は、皇居を管理している宮内庁のホームページ記載のデータ。そこには「甲賀組、根来組、伊賀組、二十五騎組の 4つの組があり、それぞれの組に同心100 人ずつが配属されていた」と書かれている。 Hyakunin-bansho This is Hyakunin-bansho. Hyakunin means one hundred people, and bansho means guardhouse. More than 400 guardians made four groups and guarded by turns. \r大番所 他の番所より格上で、最も強い同心がいた。 ただ、同心番所と百人番所が十分強かったために、ここまで敵が到達することはなかったと言われている。 Ohbansho The strongest guardiands guarded here. However, it is said that they don\u0026rsquo;t have to fight enemies because Dohshin-bansho and Hyakunin-bansho were strong enough. \r大番所先の坂 大番所から本丸広場に向けてえらく急な坂がある。これには、敵の乗ってくる馬が進みにくくする目的があった。よくみてみると、坂の横の壁には大手門と同じような小さい穴が見つけられる。この坂の勾配により、スピードが落ちた馬をその穴から狙う作戦だったようだ。 また、坂が右側にカーブしているのも、馬が反時計周りのカーブが苦手だったからと言われている。 In old days, enemies attacked with horses. Horses are not good at going up a steep hill and turning to the right compare to turning to the left. The center of the castle was over there. So, it is difficult for enemies to attack the main castle. \r"
 },
 {
 url: "https://wress.github.io/guide-materials/info/guide-materials/",
@@ -78,6 +78,12 @@ date: "0001-01-01T00:00:00Z",
 body: "必要度 各ガイド地の知識がどれくらい必要かを☆の数で表したものです。 ☆，☆☆，☆☆☆の三段階で評価しています。 ☆　：ガイドするにあたってあまり必要とされない知識 ☆☆　：ガイドするのに知っていると便利だが，必ずしも必須というわけではない知識 ☆☆☆：ガイドするなら必ず知っておいてほしい知識 各地のガイドスポットページの上部にあるチェックボックスをオンオフすることで各必要度の表示をオンオフすることができます。これに応じて各記事の一番下にある「前のページへ」「次のページへ」のボタンも，チェックボックスを外した必要度の記事を除いたものに変化します。"
 },
 {
+url: "https://wress.github.io/guide-materials/kokyo/spots/honmaru/",
+title: "本丸広場",
+date: "0001-01-01T00:00:00Z",
+body: "本丸広場 \r\r本丸広場 かつての江戸城の中心。36000平方メートルの御殿があった。本丸広場の南半分が「表」と呼ばれる将軍の昼の仕事場、北半分に「裏」と呼ばれた夜の仕事場があった。 今は、ピクニックとして使う人が多い。 ただ、お酒だけは飲めない ので注意！ ここの周辺は長いですが、フリートークで盛り上げましょう！！ the grass of the trace of Honmaru Here used to be the center of the Edo castle and a great palace existed. In the southern half of the Honmaru called \u0026ldquo;Omote (Front)\u0026rdquo;. Shogun(The leader of the samurai and also of the government) worked in daytime. In the northern half of the Honmaru called “Ura (back)” Shogun worked at night. \rTips 将軍の正妻を象徴として形成された大奥は、ここに存在した。大奥は将軍以外の男性は一切立ち入り禁止。本丸大奥だけでも500~600人の女性がおり、他の場所も合わせると優に1000人を超える女性が江戸城で生活をしていた計算になる。 ちなみに忠臣蔵で有名な松の廊下は本丸大広間と将軍に拝謁する白書院とを結んだもの(忠臣蔵を知らない外国人に対し説明するのは超難関 +「ふーん、でも分かんないと苦労のわりに報われない確率高し)"
+},
+{
 url: "https://wress.github.io/guide-materials/asakusa/spots/hozo-mon/",
 title: "宝蔵門",
 date: "0001-01-01T00:00:00Z",
@@ -90,6 +96,12 @@ date: "0001-01-01T00:00:00Z",
 body: "明治神宮御苑 \r\r\r大鳥居を超えてしばらく進むと明治神宮御苑の入り口がある。基本的にはそっちにはいかないが，もし行きたいと言われたら行っても良い。コースがかなり長いので個人的におすすめはしません。なお，入園料として500円かかるので注意。 The gate is a entrance of Meiji Jingu Garden. It takes 500 yen to enter. \r"
 },
 {
+url: "https://wress.github.io/guide-materials/kokyo/spots/stone-cellar/",
+title: "石室",
+date: "0001-01-01T00:00:00Z",
+body: "石室 石室 「いしむろ」と読む。 火事やその他の緊急時に大事なものが延焼しないように運びこんだらしい。 なお、中には入れません。（もし入ったら、皇居警察が飛んで来ます） また、ここは暗くて奥が見えないので、隠し穴が東京大学に繋がっているという伝説もあります。 the Stone-cellar This is Ishimuro. It means stone-cellar. People carried furniture and books here in cases of emergency. \r"
+},
+{
 url: "https://wress.github.io/guide-materials/info/catch/",
 title: "キャッチ",
 date: "0001-01-01T00:00:00Z",
@@ -100,6 +112,12 @@ url: "https://wress.github.io/guide-materials/asakusa/spots/five/",
 title: "五重の塔",
 date: "0001-01-01T00:00:00Z",
 body: "五重の塔 \r\r五重の塔 浅草寺本堂・雷門・宝蔵門と同じ942年に建立されたといわれる。 高さは48.32mで、京都の東寺の五重の塔に次いで日本で2番目に大きい。 各階はそれぞれ、下から順に、地・水・火・風・空の世界を表しており、一つの塔で仏教的な宇宙観を表していると言われている。 the Five-storied Pagoda The Five Storied Pagoda in Asakusa seemed to be built in 942. If we consider only the height of pagoda, it is the second tallest pagoda in Japan (the tallest one is in To-ji　Temple in Kyoto). On the fifth floor, the bone　of Buddha given from a temple in Sri Lanka is placed. Each floor has each meaning. First floor represents the ground. Second floor represents water. Third floor represents fire. Fourth floor represents wind. Fifth floor represents the sky. So it is said that this five-storied pagoda itself represents the earth. \r"
+},
+{
+url: "https://wress.github.io/guide-materials/kokyo/spots/tenshudai/",
+title: "天守台",
+date: "0001-01-01T00:00:00Z",
+body: "天守台 天守台 江戸城の天守台があったところ。1657年の「振袖火事」で全焼してしまった。 また、ここで集合写真を取ることが多い。 the foundation of observation tower This is the foundation of Observation tower. There were six storied tower. It was burned out in the big fire of 1657. \r振袖火事 ある女の人が、火事のときに一度助けられたカッコいい消防士のことが忘れられず、もう一度会いたいと思い、自分の着物に火を付けたところ、それが広がって江戸の町の3分の2が焼けてしまったと言われている。 Once a woman had been helped by a fire-fighter. He was very cool guy, so she wanted to meet him again, then, she set fire to her own kimono, and the fire burned out two-thirds of Tokyo (Edo). \r日本武道館 1964 年に東京オリンピックで使用するためにつくられた。いまでも、柔道や剣道やコンサートに利用されている。また、2020年の東京オリンピックでも、ここが柔道と空手の会場予定となっている。 ここでコンサートをすることは有名アーティストとしてのステータス・シンボルでもある。ちなみに、ここで初めてコンサートをしたのは、あのビートルズである。 イギリスの方は特に、このビートルズの話を伝えると喜ばれます。 ちなみに、天守台の上から指差して示す時は、You can see the golden onion! というとわかりやすいかもしれないです。 That was built in 1964 for Tokyo Olympic Games. That is used for Judo and any other sports and concerts. In 2020, that will be used for the match venue of karate and judo. Concert in that hall is the status symbol of famous musicians. The first musician who held a concert there is The Beatles. \r"
 },
 {
 url: "https://wress.github.io/guide-materials/meiji-jingu/spots/masugata/",
@@ -126,16 +144,34 @@ date: "0001-01-01T00:00:00Z",
 body: "大草履 \r\r大草履 仁王像制作者である村岡久作氏の出身地と言うご縁で山県村山市楯岡の有志らが村から奉納したもの。浅草寺は、その信者も多くおり、彼らもそのうちの何人かである。浅草寺にはこんな大きなわらじをはく人がいるならと驚いて魔が去っていくという、魔除けと健脚を願い「わらじ」に触れていく人も多い。左右一対になっている。 Big Straw Sandals On the back side of Hozo-mon Gate, we can see a pair of big straw sandals. They were donated from the village in Yamagata Prefecture (in the north area of Japan) as believers of Senso-ji Temple. People believed that evil spirits would escape from the temple when they saw the big sandals thinking that God in Asakusa is so big. \r"
 },
 {
+url: "https://wress.github.io/guide-materials/kokyo/spots/music-hall/",
+title: "桃華楽堂",
+date: "0001-01-01T00:00:00Z",
+body: "桃華楽堂 桃華楽堂 皇太后良子(ながこ)の還暦を記念して造られた八角形の建物で各面はタイルで優雅な絵が描かれている。音書効果が素晴らしいようだが一般人が使うことは許されていない。 また、屋根は梅の花の形をしている。 Tokagakudo music hall This building was built in commemoration of the ex-Empress’s 61st birthday in 1963. (This building was the birthday present for the ex-Empress.) It is octagonal and the acoustics are excellent. Each face has an elegant picture of tiles. It has the flower-shaped roof. If you could see the roof from the sky, it would look like the plum flower. \rTips この先に、ベージュ色の謎の建物がありますが、もし聞かれたら、 This is the office for workers here. と答えればOK。ちなみに、皇居の場合、謎の建物は大抵これでかわせ、しかもあながち間違いではない。"
+},
+{
 url: "https://wress.github.io/guide-materials/info/core/",
 title: "コア",
 date: "0001-01-01T00:00:00Z",
 body: "コア コアとは コアというのはガイドの班のリーダーのことです。"
 },
 {
+url: "https://wress.github.io/guide-materials/kokyo/spots/shiomi/",
+title: "汐見坂",
+date: "0001-01-01T00:00:00Z",
+body: "汐見坂 汐見坂 昔はこの坂から海が見えたのでこう呼ばれる。 海岸が埋め立てられた上に、高層ビルが建てられたので、今は海を見ることはできない。 ちょっと先は高層ビルなのに、周りは自然でいっぱいなところが意外と外国の方に人気。 Shiomizaka, or Sea-viewing slope This slope is called Shiomizaka, or Sea-viewing slope. Literally, in old days the ocean could be seen　from this slope. \rTips seaとseeの発音で混乱を招き、必死にシーシー連呼する人が時々いますが、そんな時はoceanという逃げ方があります。 watchには「動くものを観察する、じっと見る」というニュアンスがあるので、「海流を観察した」ならともかく、単に「海を眺めた」程度であろうこの場面に用いると非常に不自然。You could got a good [nice/ fine] view of the sea at that time. はOK。"
+},
+{
 url: "https://wress.github.io/guide-materials/asakusa/spots/burner/",
 title: "香炉",
 date: "0001-01-01T00:00:00Z",
 body: "香炉 \r\r香炉 この香炉には屋根がついており、常に煙が上がっているので、常香炉とも呼ばれる。 身体の調子のよくない部分に煙を洗うようにつけるとそれが回復するといわれている。 また、科学的には、この線香の香りに気持ちを落ち着ける効果があると言われている。 Incense Burner The smoke of this incense burner is believed to cure bad parts and illness of our body. If you have any problems with your body or you would like to improve your health, please try to put the smoke on bad parts. Moreover, the smoke is scientifically proven to make us feel calm. \r"
+},
+{
+url: "https://wress.github.io/guide-materials/kokyo/spots/garden/",
+title: "三の丸庭園",
+date: "0001-01-01T00:00:00Z",
+body: "三の丸庭園 三の丸庭園 かつては二の丸があり、表と奥とからなる御殿があった。前将軍の個室があり、晩年を過ごす場所となっていた。3度の火事で焼失し、今あるのは30年前に作り直されたもの。 この庭園は説明よりも、ただ日本庭園を楽しんでもらうことに注力するのもいいと思います！ This place was once called Ninomaru or The Second citadel. There used to be a wonderful palace consist of Omote and Oku. Ninomaru was used as the place where a pre-Shogun\u0026rsquo;s wife spent her last years. It was burned out three times and reconstructed 30 years ago. \r池の鯉 この庭園の池には、金色やいろんな色の鯉がいる。この鯉は、インドネシアと日本のハーフである。この鯉が綺麗と、意外と人気。ちなみに、鯉は英語でCarpですが、こちらよりも Koi fish のほうが通じる。むしろ、Carpだと通じないことも。 花菖蒲 庭園の出口の近くに、木札が添えられて植えられている花菖蒲がある。 見頃は6月。しかし、ガイドする際は時期的に、ほとんど花が見れないのでイネみたいになっているが、実は花菖蒲。 英語名はIris。もし聞かれたら答えれば良い。 都道府県の木 47 都道府県から寄贈されたもの(沖縄の木は当初なかった)。 全30種類、木の本数は260。 ちなみに、東京の木は奥の方にある。 余裕があれば、下見の時に場所だけでも確認しておくと安心。 Tips フリートークのネタとして、ここで自分の出身地の木について紹介したり、外国の方がこれまで訪れた場所や、行く予定の場所を木をきっかけにして話したりすると盛り上がることがあります。 These trees were presented by each prefecture. They are symbol trees of it. Its variety amounts to 30 kinds with the total number of 260. \r茶室 火災などで焼失後、11代将軍・徳川家斉の時に創建。建物は、明治45年に再建されたもので、現在は茶室としての利用はできない。 In old days, this room was used for tea ceremonies. Now, we are not allowed to use it. \r"
 },
 {
 url: "https://wress.github.io/guide-materials/meiji-jingu/spots/chozu/",
