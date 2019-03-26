@@ -36,12 +36,6 @@ date: "0001-01-01T00:00:00Z",
 body: "南参道 \r\r\r道幅は8間(約14.4m)であり明治神宮内の他の参道と比べて一番広い。お正月には参拝者で埋め尽くされる。 この参道には玉砂利と呼ばれる白く小さい石が敷き詰められている。日本人にとって神社にこのような砂利が引かれているのは当たり前だが，外国人にとっては「どうしてわざわざ歩きづらくするのか」と不思議に思うこともあるらしい。もはや当たり前すぎて詳しい理由はわかっていないそうだが，一説には，清浄な石を踏むことで身を清める効果があるとのこと（参考：明治神宮-Q\u0026amp;A-）。"
 },
 {
-url: "https://wress.github.io/guide-materials/asakusa/spots/lantern/",
-title: "提灯",
-date: "0001-01-01T00:00:00Z",
-body: "提灯 提灯 この提灯の下を覗くと、竜の彫刻を見ることができる。これは、最初の雷門が火災によって焼失したため、水の神である竜が火災から門を守ってくれるようにという願いが込められている。 竜の彫刻の写真を撮りたいようなら、インカメを使うように勧めると喜ばれます 約10年ごとに和紙を張り替えて新調している。 ↓この英語、不安なので誰か添削してほしいです\u0026hellip; the Lantern (提灯の下で指をさしながら) You can see a dragon here. The dragon is the God of Water. In old days, this temple was destroyed by fire, so this lantern has the statue of the dragon to protect this temple from fire. The lantern is made new every 10 years by re-covering washi. \r"
-},
-{
 url: "https://wress.github.io/guide-materials/kokyo/spots/bansho/",
 title: "番所",
 date: "0001-01-01T00:00:00Z",
@@ -111,7 +105,7 @@ body: "キャッチ 外国人を捕まえることをキャッチといいます
 url: "https://wress.github.io/guide-materials/asakusa/spots/five/",
 title: "五重の塔",
 date: "0001-01-01T00:00:00Z",
-body: "五重の塔 \r\r五重の塔 浅草寺本堂・雷門・宝蔵門と同じ942年に建立されたといわれる。 高さは48.32mで、京都の東寺の五重の塔に次いで日本で2番目に大きい。 各階はそれぞれ、下から順に、地・水・火・風・空の世界を表しており、一つの塔で仏教的な宇宙観を表していると言われている。 the Five-storied Pagoda The Five Storied Pagoda in Asakusa seemed to be built in 942. If we consider only the height of pagoda, it is the second tallest pagoda in Japan (the tallest one is in To-ji　Temple in Kyoto). On the fifth floor, the bone　of Buddha given from a temple in Sri Lanka is placed. Each floor has each meaning. First floor represents the ground. Second floor represents water. Third floor represents fire. Fourth floor represents wind. Fifth floor represents the sky. So it is said that this five-storied pagoda itself represents the earth. \r"
+body: "五重の塔 \r\r五重の塔 浅草寺本堂・雷門・宝蔵門と同じ942年に建立されたといわれる。 高さは48.32mで、京都の東寺の五重の塔に次いで日本で2番目に大きい。 各階はそれぞれ、下から順に、地・水・火・風・空の世界を表しており、一つの塔で仏教的な宇宙観を表していると言われている。 the Five-storied Pagoda The Five Storied Pagoda in Asakusa seemed to be built in 942. If we consider only the height of pagoda, it is the second tallest pagoda in Japan (the tallest one is in To-ji Temple in Kyoto). On the fifth floor, the bone of Buddha given from a temple in Sri Lanka is placed. Each floor has each meaning. First floor represents the ground. Second floor represents water. Third floor represents fire. Fourth floor represents wind. Fifth floor represents the sky. So it is said that this five-storied pagoda itself represents the earth. \r"
 },
 {
 url: "https://wress.github.io/guide-materials/kokyo/spots/tenshudai/",
@@ -189,7 +183,7 @@ body: "本堂 \r\r本堂 942年に元々の浅草寺は建立された。その�
 url: "https://wress.github.io/guide-materials/meiji-jingu/spots/honden/",
 title: "本殿",
 date: "0001-01-01T00:00:00Z",
-body: "本殿 本殿 \r\r1920年創建。第二次世界大戦中の1945（昭和20）年4月14日に空襲により焼失（このあたりはセンシティブなので触れなくても良い）。1958年に再建されて今に至ります。 屋根は銅でできており，2018年の春頃に張り替えられました。そのため今は銅の茶色をしていますが，少し前までは緑青が生じ緑色の屋根でした。 本殿の中には平時は入れません。 ここでの参拝が終わったら集合写真を撮ることが多いです。 That building is the main shrine. It was burned down during WWII. It is reconstracted in 1958. The roof is made from copper. It is reroofed in 2018. Now the roof is brown but it was green before 2018 because of oxidation of copper. \r柱の傷 本殿の柱には傷がたくさんついています。これは昔，初詣の列に並んだ客がお賽銭を投げてあたったときにできたものだそうです。 よって、柱の裏側にはこの傷がほとんどありません。 Those pillars have many scratches bacause many visitors threw coins on New Year\u0026rsquo;s Day. \r五円とご縁 お賽銭には五円玉を使うのが一般的です。理由は\u0026rdquo;五円\u0026rdquo;と\u0026rdquo;ご縁\u0026rdquo;が同じ発音だからです。本殿についたら五円玉を持っているか聞いてみましょう。 また，十円玉は\u0026rdquo;遠縁\u0026rdquo;となり縁起が悪いので，五円玉がないからといって似た十円玉を代用しようとしていたら教えてあげてください。たくさん五円玉を集めておいて両替してあげるのが良いでしょう。 You can make a wish in front of the main building. Do you have 5 yen coins? In Japanese, they are called goen and it is homonym. Goen also means good relationship. So they are the best coins to make a wish with, and we usually use 5 yen coins. \r誰か五円とご縁の説明洗練させてくだせえ 二礼二拍手一礼 言わずと知れた神社の参拝方法ですが外国人にとっては異国のしきたり，丁寧に説明しましょう。 1. お賽銭を投げる。 1. 二回お辞儀をする。 2. 手を二回たたく。 3. 祈る。 4. もう一度お辞儀をする。 Throw a coin. Bow twice. Clap your hands twice. Make a wish. Finally, bow once again. \r一応英語の説明書きもありますが，一緒に実演すると良いでしょう。 また，一応願い事は口外しない方が良いと言われているので，あまり何を願ったかという話をするのはお勧めしません。 注意 本殿の階段はたくさんの人が行きかうため，あまりここで立ち止まらないようにしましょう。 結婚式 よくここで結婚式が開かれています。日本式の結婚式ということで外国の方の注目を集めるポイントです。もし結婚式の列を見たら日本の結婚式について説明できると良いでしょう。 また，日本の結婚式はほとんどキリスト教式の教会で行われていることや，ほとんどの日本人が無宗教なことも派生して説明できると面白いでしょう。 \r"
+body: "本殿 本殿 \r\r1920年創建。第二次世界大戦中の1945（昭和20）年4月14日に空襲により焼失（このあたりはセンシティブなので触れなくても良い）。1958年に再建されて今に至ります。 屋根は銅でできており，2018年の春頃に張り替えられました。そのため今は銅の茶色をしていますが，少し前までは緑青が生じ緑色の屋根でした。 本殿の中には平時は入れません。 ここでの参拝が終わったら集合写真を撮ることが多いです。 That building is the main shrine. It was burned down during WWII. It is reconstracted in 1958. The roof is made from copper. It is reroofed in 2018. Now the roof is brown but it was green before 2018 because of oxidation of copper. \r柱の傷 本殿の柱には傷がたくさんついています。これは昔，初詣の列に並んだ客がお賽銭を投げてあたったときにできたものだそうです。 よって、柱の裏側にはこの傷がほとんどありません。 Those pillars have many scratches bacause many visitors threw coins on New Year\u0026rsquo;s Day. \r注意 本殿の階段はたくさんの人が行きかうため，あまりここで立ち止まらないようにしましょう。 五円とご縁 お賽銭には五円玉を使うのが一般的です。理由は\u0026rdquo;五円\u0026rdquo;と\u0026rdquo;ご縁\u0026rdquo;が同じ発音だからです。本殿についたら五円玉を持っているか聞いてみましょう。 また，十円玉は\u0026rdquo;遠縁\u0026rdquo;となり縁起が悪いので，五円玉がないからといって似た十円玉を代用しようとしていたら教えてあげてください。たくさん五円玉を集めておいて両替してあげるのが良いでしょう。 You can make a wish in front of the main building. Do you have 5 yen coins? In Japanese, they are called goen and it is homonym. Goen also means good relationship. So they are the best coins to make a wish with, and we usually use 5 yen coins. \r二礼二拍手一礼 言わずと知れた神社の参拝方法ですが外国人にとっては異国のしきたり，丁寧に説明しましょう。 お賽銭を投げる。 二回お辞儀をする。 手を二回たたく。 祈る。 もう一度お辞儀をする。 Throw a coin. Bow twice. Clap your hands twice. Make a wish. Finally, bow once again. \r一応英語の説明書きもありますが，一緒に実演すると良いでしょう。 また，一応願い事は口外しない方が良いと言われているので，あまり何を願ったかという話をするのはお勧めしません。 結婚式 よくここで結婚式が開かれています。日本式の結婚式ということで外国の方の注目を集めるポイントです。もし結婚式の列を見たら日本の結婚式について説明できると良いでしょう。 また，日本の結婚式はほとんどキリスト教式の教会で行われていることや，ほとんどの日本人が無宗教なことも派生して説明できると面白いでしょう。 \r"
 },
 {
 url: "https://wress.github.io/guide-materials/info/adding/",
@@ -258,6 +252,12 @@ date: "0001-01-01T00:00:00Z",
 body: ""
 },
 {
+url: "https://wress.github.io/guide-materials/asakusa/food/montblanc/",
+title: "モンブラン",
+date: "0001-01-01T00:00:00Z",
+body: "モンブラン 有名人のサインがいっぱいある(ので、私は有名だと思ってる)ハンバーグやさん。がっつり洋食の割には、1000円前後で食べられ、しかも美味しい。いつも店の外まで待っている人が居るが、以外と回転が早く、見た目ほど待たない。　食べログも参照してみてください！ https://tabelog.com/tokyo/A1311/A131102/13009804/"
+},
+{
 url: "https://wress.github.io/guide-materials/meiji-jingu/about/",
 title: "明治神宮について",
 date: "0001-01-01T00:00:00Z",
@@ -279,6 +279,12 @@ body: "皇居東御苑について 皇居東御苑とは"
 url: "https://wress.github.io/guide-materials/asakusa/food/hanamizuki/",
 title: "花みずき",
 date: "0001-01-01T00:00:00Z",
-body: "花みずき"
+body: "花みずき \r\r\rお蕎麦屋さん。夜は居酒屋らしい。 予算は600円~1000円でリーズナブル。内装は古風で歴史を感じる。 食べログも参照してみてください！ https://tabelog.com/tokyo/A1311/A131102/13037106/"
+},
+{
+url: "https://wress.github.io/guide-materials/asakusa/food/toriyoshi/",
+title: "鶏よし",
+date: "0001-01-01T00:00:00Z",
+body: "鶏よし モンブランのすぐ近くのお店。鶏メニューしかないので、鶏嫌いな人がいる班は要注意。でも、親子丼、そぼろ丼、つくね丼など鳥だけにはなるが、ランチメニューは豊富です。価格も1000円前後。 ぐるなびも参照してみてください！ https://r.gnavi.co.jp/g194901/menu4/"
 },
 ];
