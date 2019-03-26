@@ -21,7 +21,7 @@ body: "大手門 大手門 旧江戸城の正門である。１６２０年に�
 url: "https://wress.github.io/guide-materials/asakusa/spots/kaminari-mon/",
 title: "雷門",
 date: "0001-01-01T00:00:00Z",
-body: "雷門 \r\r雷門 正式名称は「風神雷神門」という。門に向かって右側に、袋を持った風神、左側に太鼓を持った雷神がいる。五穀豊穣により、平和な世界になることを願ってつくられた。 高さは約12m、現在の門は1960年に松下幸之助によってつくられた。 Kaminari-mon Gate This outer gate of Senso-ji Temple is called Kaminari-mon. You can see two statues of God: on your right hand the God of Wind is placed, and on your left hand the God of Thunder is placed. The God of Wind has a sack to blow wind, and the God of Thunder has drums to make thunderclap. People believed that those two Gods were protecting this temple from evil spirits and would bring appropriate amount of wind and rain enough to get many crops. \r阿吽 風神と雷神ですが、風神が「あ」雷神が「うん」の口をしています。 これは、ひらがなの最初が「あ」、最後が「ん」であることに由来しており、生と死を表していると言われています。門の両サイドに生と死を表す仏像をおくことで、生と死の間にいる「生き物」にしか通れないようにしていると言われています。つまり、死神や魔物から参道、そして本堂を守っているのです。 英語で説明する場合、「あ」と「ん」ではなく、A と Z で説明すると、外国の方もイメージしやすいかと思います。ただ、入り口なので大混雑ですし、苦労の割に伝わらないので、だいたい割愛します。 もしくは、 Facial expression of the God of Wind represents the birth, and that of the God of Thunder represents the death. It means only living things are allowed to pass through these two statues, and prevents evil spirits from coming inside. 程度で良いでしょう。 \r"
+body: "雷門 \r\r雷門 正式名称は「風神雷神門」という。門に向かって右側に、袋を持った風神、左側に太鼓を持った雷神がいる。五穀豊穣により、平和な世界になることを願ってつくられた。 高さは約12m、現在の門は1960年に松下幸之助によってつくられた。 Kaminari-mon Gate This outer gate of Senso-ji Temple is called Kaminari-mon. You can see two statues of God: on your right hand the God of Wind is placed, and on your left hand the God of Thunder is placed. The God of Wind has a sack to blow wind, and the God of Thunder has drums to make thunderclap. People believed that those two Gods were protecting this temple from evil spirits and would bring appropriate amount of wind and rain enough to get many crops. \r阿吽 風神と雷神ですが、風神が「あ」雷神が「うん」の口をしています。 これは、ひらがなの最初が「あ」、最後が「ん」であることに由来しており、生と死を表していると言われています。門の両サイドに生と死を表す仏像をおくことで、生と死の間にいる「生き物」にしか通れないようにしていると言われています。つまり、死神や魔物から参道、そして本堂を守っているのです。 英語で説明する場合、「あ」と「ん」ではなく、A と Z で説明すると、外国の方もイメージしやすいかと思います。ただ、入り口なので大混雑ですし、苦労の割に伝わらないので、だいたい割愛します。 もしくは、 Facial expression of the God of Wind represents the birth, and that of the God of Thunder represents the death. It means only living things are allowed to pass through these two statues, and prevents evil spirits from coming inside. 程度で良いでしょう。 \r提灯 この提灯の下を覗くと、竜の彫刻を見ることができる。これは、最初の雷門が火災によって焼失したため、水の神である竜が火災から門を守ってくれるようにという願いが込められている。 竜の彫刻の写真を撮りたいようなら、インカメを使うように勧めると喜ばれます 約10年ごとに和紙を張り替えて新調している。 ↓この英語、不安なので誰か添削してほしいです\u0026hellip; \r\r\r\r\rthe Lantern (提灯の下で指をさしながら) You can see a dragon here. The dragon is the God of Water. In old days, this temple was destroyed by fire, so this lantern has the statue of the dragon to protect this temple from fire. The lantern is made new every 10 years by re-covering washi. \r"
 },
 {
 url: "https://wress.github.io/guide-materials/info/materials/",
@@ -39,7 +39,7 @@ body: "南参道 \r\r\r道幅は8間(約14.4m)であり明治神宮内の他の�
 url: "https://wress.github.io/guide-materials/asakusa/spots/lantern/",
 title: "提灯",
 date: "0001-01-01T00:00:00Z",
-body: "提灯 \r\r提灯 この提灯の下を覗くと、竜の彫刻を見ることができる。これは、最初の雷門が火災によって焼失したため、水の神である竜が火災から門を守ってくれるようにという願いが込められている。 竜の彫刻の写真を撮りたいようなら、インカメを使うように勧めると喜ばれます 約10年ごとに和紙を張り替えて新調している。 ↓この英語、不安なので誰か添削してほしいです\u0026hellip; the Lantern (提灯の下で指をさしながら) You can see a dragon here. The dragon is the God of Water. In old days, this temple was destroyed by fire, so this lantern has the statue of the dragon to protect this temple from fire. The lantern is made new every 10 years by re-covering washi. \r"
+body: "提灯 提灯 この提灯の下を覗くと、竜の彫刻を見ることができる。これは、最初の雷門が火災によって焼失したため、水の神である竜が火災から門を守ってくれるようにという願いが込められている。 竜の彫刻の写真を撮りたいようなら、インカメを使うように勧めると喜ばれます 約10年ごとに和紙を張り替えて新調している。 ↓この英語、不安なので誰か添削してほしいです\u0026hellip; the Lantern (提灯の下で指をさしながら) You can see a dragon here. The dragon is the God of Water. In old days, this temple was destroyed by fire, so this lantern has the statue of the dragon to protect this temple from fire. The lantern is made new every 10 years by re-covering washi. \r"
 },
 {
 url: "https://wress.github.io/guide-materials/kokyo/spots/bansho/",
@@ -69,7 +69,7 @@ body: "酒樽・ワイン樽 南参道には酒樽201本とワインの樽があ
 url: "https://wress.github.io/guide-materials/meiji-jingu/spots/otori/",
 title: "大鳥居",
 date: "0001-01-01T00:00:00Z",
-body: "大鳥居 大鳥居 \r日本一大きいヒノキ製の木造鳥居であり、高さ12m、柱間9.1m、柱の径1.2m、重さ13tもある。 実はこの鳥居は二代目であり、初代は昭和41年(1966)に落雷のため破損してしまい、現在は昭和50年(1975年)12月に新しくできたものである。鳥居の上の方には皇室のご紋である十六葉八重表菊がついている。 再建の際には日本に大樹が残っていなかったことからわざわざ台湾から樹齢1500年以上の大樹を取り寄せたそう。 \u0026ldquo;Can you guess how tall the gate is?\u0026ldquo;みたいな感じでクイズ形式にするのも面白いかも。 \r\r\r\r\rThis is the biggest wooden Torii in Japan. It is made with cedar and the height is 12 m, column 9. 1 m, beam diameter 1.2 m, weight is 13 t. This Torii is not the original. The original one was destroyed by lightning in 1966 and this one was put in place in 1975. Because there was no huge tree enough to be made into tori in Japan, trees which is 1500 years old were imported from Taiwan. \r鳥居の三つの役割 鳥居には三つ役割があります。この鳥居に来たら説明することの定番です！　明治神宮以外でも使えるので、まずはぜひこれを覚えてください。 神社の神域と私たちの世界との境界を示すもの 邪悪なものを入れないようにする結界 私たちの身を清めるため。 It is the boundary between human area and sacred area. It prevents evil spirits from coming into sacred area. It purifies people passing through. \r"
+body: "大鳥居 大鳥居 \r日本一大きいヒノキ製の木造鳥居であり、高さ12m、柱間9.1m、柱の径1.2m、重さ13tもある。 実はこの鳥居は二代目であり、初代は昭和41年(1966)に落雷のため破損してしまい、現在は昭和50年(1975年)12月に新しくできたものである。鳥居の上の方には皇室のご紋である十六葉八重表菊がついている。 再建の際には日本に大樹が残っていなかったことからわざわざ台湾から樹齢1500年以上の大樹を取り寄せたそう。 \u0026ldquo;Can you guess how tall the gate is?\u0026ldquo;みたいな感じでクイズ形式にするのも面白いかも。 \r\r\r\r\rThis is the biggest wooden Torii in Japan. It is made with cedar and the height is 12m, column 9.1m, beam diameter 1.2m, weight is 13t. This Torii is not the original. The original one was destroyed by lightning in 1966 and this one was put in place in 1975. Because there was no huge tree enough to be made into tori in Japan, trees which is 1500 years old were imported from Taiwan. \r鳥居の三つの役割 鳥居には三つ役割があります。この鳥居に来たら説明することの定番です！　明治神宮以外でも使えるので、まずはぜひこれを覚えてください。 神社の神域と私たちの世界との境界を示すもの 邪悪なものを入れないようにする結界 私たちの身を清めるため。 It is the boundary between human area and sacred area. It prevents evil spirits from coming into sacred area. It purifies people passing through. \r菊の紋章 鳥居の上の方に見える丸い紋章は菊の花。秋頃ガイドに行くと、菊が参道に飾られているのも、菊が皇室の紋章だからである。 菊(Chrysanthemum) = 太陽 = 太陽の子 = 天皇　ということで、皇室の紋章は菊になった。太陽と聞けば、「sun flower = ひまわり」となりそうだが、現在見かけるひまわりは、西洋ひまわりといい元々日本にあるものではない。ちなみに、形が似て見えるタンポポも西洋タンポポがほとんど。日本原産のものはほぼ絶滅に近い。 ちなみに、菊は国花でもある(桜と菊の二つ)。ただし、原産国は中国で7世紀ごろに日本にもたらされた。"
 },
 {
 url: "https://wress.github.io/guide-materials/info/necessity/",
@@ -105,7 +105,7 @@ body: "石室 石室 「いしむろ」と読む。 火事やその他の緊急�
 url: "https://wress.github.io/guide-materials/info/catch/",
 title: "キャッチ",
 date: "0001-01-01T00:00:00Z",
-body: "キャッチ 外国人を捕まえることをキャッチといいます（あまり聞こえのいい言葉ではないですが……）。"
+body: "キャッチ 外国人を捕まえることをキャッチといいます（あまり聞こえのいい言葉ではないですが……）。 キャッチのフレーズ まず、英語圏の方か確認しましょう。 Excuse me, do you speak English? \rYesとかえってきたらまず、私たちの身分を明かし、目的を伝えましょう。 We are university students learning English. We would like guide you around here to improve our English skills and to enjoy talking with you. \r無料であることを伝えるのも大切です。 Of course, it\u0026rsquo;s free of charge. \r最後にもう一回確認しましょう。 Could I join you? \r相手が承諾してくれたら、いよいよガイドスタートです！自己紹介をして、ガイドを始めましょう！ なお、急いでいる人や、すでに何回かきたことがあると言って、ガイドを断る方ももちろんいます。そんな方には、 Have a good time :) などと気持ちよく挨拶して別れましょう。 キャッチのポイント あまり急いでなさそうなゆっくり観光している方がオススメです。 仲の良さそうな若いカップル(手を繋いでいるなど)は遠慮しましょう。きっと二人で仲良く観光したいはずです。 子どもづれもやめましょう。子どもが飽きてしまいます。 もちろん、日本人がすでについているグループもやめておきましょう。"
 },
 {
 url: "https://wress.github.io/guide-materials/asakusa/spots/five/",
@@ -129,13 +129,13 @@ body: "桝形 桝形 \r\r桝形とはいわゆる直角の曲がり角である�
 url: "https://wress.github.io/guide-materials/asakusa/spots/fortune/",
 title: "おみくじ",
 date: "0001-01-01T00:00:00Z",
-body: "おみくじ おみくじ 参道を歩いているとカラカラ音がして、「なにこの音？」と突っ込んできた外国の方がいたら説明して一緒にやるか聞いてみましょう。（もちろん、突っ込まれる前に説明するのも大丈夫です◎） \r\rおみくじのひき方 百円玉を入れる 箱を振る 箱をひっくり返して振る 出てきた棒の先に書かれた番号を見つけておみくじを引く おみくじを読む 運が悪ければ紐に結ぶ Fortune-telling paper Insert ¥100 coin Shake the box Turn it upside down and shake again Find the same number as is written at the tip of the stick and take one paper Read it carefully If the fortune on the paper is bad, tie it on the rope to brush away bad fortune \r"
+body: "おみくじ おみくじ 参道を歩いているとカラカラ音がして、「なにこの音？」と突っ込んできた外国の方がいたら説明して一緒にやるか聞いてみましょう。（もちろん、突っ込まれる前に説明するのも大丈夫です◎） \r\rおみくじのひき方 百円玉を入れる 箱を振る 箱をひっくり返して振る 出てきた棒の先に書かれた番号を見つけておみくじを引く おみくじを読む 運が悪ければ紐に結ぶ Fortune-telling Paper Insert ¥100 coin Shake the box Turn it upside down and shake again Find the same number as is written at the tip of the stick and take one paper Read it carefully If the fortune on the paper is bad, tie it on the rope to brush away bad fortune \r"
 },
 {
 url: "https://wress.github.io/guide-materials/info/free-talk/",
 title: "フリートーク",
 date: "0001-01-01T00:00:00Z",
-body: "フリートーク フリートーク ガイドの一番の目的は，案内することではなく，会話を楽しむことです。実際各ガイド地にはガイドするスポット間の距離が離れており，フリートークが必要になる場面も多くあります。そこで，このページではフリートークのノウハウを記述します。 話題 フリートークの話題にはある程度典型的なものがあります。この項ではその話題に関して記述します。 出身地系 Where are you from? 鉄板です。キャッチが成功したら真っ先に聞きましょう。派生の話題として，自分が行ったことがあるかどうかや，その地で有名なものの話題につながります。 旅系 When did you come to Japan? Why did you come to Japan? かなり重要な質問です。 Is this your first trip to Japan? 日本に初めて来たかどうか。 Where did you go in Japan? Where will you go in Japan? What do you do?"
+body: "フリートーク フリートーク ガイドの一番の目的は，案内することではなく，会話を楽しむことです。実際各ガイド地にはガイドするスポット間の距離が離れており，フリートークが必要になる場面も多くあります。そこで，このページではフリートークのノウハウを記述します。 話題 フリートークの話題にはある程度典型的なものがあります。この項ではその話題に関して記述します。 出身地系 Where are you from? 鉄板です。キャッチが成功したら真っ先に聞きましょう。派生の話題として，自分が行ったことがあるかどうかや，その地で有名なものの話題につながります。 旅系 When did you come to Japan? Why did you come to Japan? かなり重要な質問です。 Is this your first trip to Japan? 日本に初めて来たかどうか。 Where did you go in Japan? Where will you go in Japan? What do you do? 食べ物系 Did you try Japanese food? 日本食は食べたことがある人がほとんどですが、この質問から、昨日あれを食べたとか、オススメはなに？とかいろんな話題に広がります。 好きな日本食やぜひ行ってほしいレストランがあればオススメしてみましょう。 イベント系 How do you spend on Christmas day? How do you spend on New Year\u0026rsquo;s Day? What is the most big event in your country? クリスマス、正月、バレンタイン、ハロウィンなど日本でもメジャーなイベントも海外では、違った楽しみ方、伝統的な過ごし方があるかもしれません。日本のも紹介しつつ、文化の違いが聞けるのもガイドの楽しみの一つです。"
 },
 {
 url: "https://wress.github.io/guide-materials/asakusa/spots/straw/",
@@ -153,7 +153,7 @@ body: "桃華楽堂 桃華楽堂 皇太后良子(ながこ)の還暦を記念し
 url: "https://wress.github.io/guide-materials/info/core/",
 title: "コア",
 date: "0001-01-01T00:00:00Z",
-body: "コア コアとは コアというのはガイドの班のリーダーのことです。"
+body: "コア コアとは コアというのは簡単にいうとガイドの班のリーダーのことです。"
 },
 {
 url: "https://wress.github.io/guide-materials/kokyo/spots/shiomi/",
@@ -177,7 +177,7 @@ body: "三の丸庭園 三の丸庭園 かつては二の丸があり、表と�
 url: "https://wress.github.io/guide-materials/meiji-jingu/spots/chozu/",
 title: "手水舎",
 date: "0001-01-01T00:00:00Z",
-body: "手水舎 手水 一応手水（ちょうず）を説明しておくと，神社やお寺に参拝する際，本殿に入る前に水で体を清める行為です。水場にひしゃくが置いてあり，決められた作法に従って手水を行う。 \r\r手水のやり方 ここは実演しながら説明できる場所なので，初心者でもだいぶやりやすいです！　ぜひ覚えてください！ ひしゃくで水をすくう。 ひしゃくを右手に持って，左手を洗う。 ひしゃくを左手に持ち替えて，右手を洗う。 ひしゃくを右手に持ち替えて，左手で水をすくい，口を漱ぐ。 左手をあらう。 ひしゃくの柄を洗う。 \r\r\r\r\rこれを一杯の水で行います！ Over there, there is a main area of this shrine. We should purify our body in that. There is a particular way to purify. I\u0026rsquo;ll show you. Please imitate me! Scoop the water. Wash your left hand. Wash your right hand. If you are OK, rinse your mouth.（嫌そうだったら強要する必要はありません） Wash your left hand again. Finally, wash the stick. Now you are purified! \r"
+body: "手水舎 手水 一応手水（ちょうず）を説明しておくと，神社やお寺に参拝する際，本殿に入る前に水で体を清める行為です。水場にひしゃくが置いてあり，決められた作法に従って手水を行う。 \r\r手水のやり方 ここは実演しながら説明できる場所なので，初心者でもだいぶやりやすいです！　ぜひ覚えてください！ ひしゃくで水をすくう。 ひしゃくを右手に持って，左手を洗う。 ひしゃくを左手に持ち替えて，右手を洗う。 ひしゃくを右手に持ち替えて，左手で水をすくい，口を漱ぐ。 左手をあらう。 ひしゃくの柄を洗う。 \r\r\r\r\rこれを一杯の水で行います！ Over there, there is a main area of this shrine. We should purify our body in that. There is a particular way to purify. I\u0026rsquo;ll show you. Please imitate me! Scoop the water. Wash your left hand. Wash your right hand. If you are OK, rinse your mouth.（嫌そうだったら強要する必要はありません） Wash your left hand again. Finally, wash the stick. Now you are purified! \r口をゆすぐは、必ずrinse your mouthです！ 間違えても、wash your mouthとは言わないように！ wash your mouth は汚い言葉を使った小さい子をなだめる慣用句として使われているようなので。"
 },
 {
 url: "https://wress.github.io/guide-materials/asakusa/spots/main/",
@@ -231,7 +231,13 @@ body: "記事の追加（その３） このページでは，実際にどのよ
 url: "https://wress.github.io/guide-materials/meiji-jingu/spots/omamori/",
 title: "お守り",
 date: "0001-01-01T00:00:00Z",
-body: "お守り \r\rお守り おみくじ"
+body: "お守り \r\rお守り おみくじ 現在見られる吉凶を占う「おみくじ」の形は、近世以降のもの。明治神宮のおみくじは第二次世界大戦後、明治天皇、昭憲皇太后の合わせて約13万首の中から30首を選んで作った独自の形。「明治」の元号も明治天皇がくじを引いて決めた。即位当時16才で今の中学3年相当。数え年ですから15才ですね。 上にあるように、ここのおみくじは吉凶などの運勢は出ない。「おみくじ」というと自分の運勢を占うものだと思う方が多いので、ここのおみくじは運勢ではなく、天皇からのメッセージがもらえるが、それでもいいかということをきちんと確認すること。引いた後にがっかりしたら、お互いに気まずいので。 You can buy a fortune-telling paper here. The fortune-telling paper is different from other one. You cannot know whether you are lucky or unlucky but get a message form Meiji Emperor. \rまた、おみくじは英語版があるので、そっちを引いてもらうのがベター。 日本語版は和歌なので、古文の解釈もできて、かつ英語で訳さないと納得してくれません。 逐語訳をするだけでは、意味が全く伝わらないと考えてください。 ただ、挑戦してみたい！という方は挑戦してみる価値はあるかもしれないですね！"
+},
+{
+url: "https://wress.github.io/guide-materials/info/gude-info/",
+title: "ガイドの基本知識",
+date: "0001-01-01T00:00:00Z",
+body: "ガイドの基本知識 ガイドの基本スタンス 基本的には、外国の方と話すことで、こちらの英語力を高めるとともに、日本について少しでも多く知ってもらいつつ、お話を楽しむことが目的です。 ガイド地のことを紹介するだけでなく、趣味の洋画・洋楽のことを話したり、ワインが好きなら本場フランスの方のオススメを聞いたり、旅行するときのオススメを聞いたりといろんなことをお話してみてください！！ ただ、一点だけ注意。あくまでもこちらは、ガイド「させてもらっている」立場なので、お金は絶対にいただかないでください！ たまに、気前の良い方もいらっしゃいますが、ルールだからと言ってちゃんと断ってください。 ちなみに、SNSを聞くのは大丈夫です！実際、ガイド後もSNS上で仲良く喋っている子もいます！外国の方に人気なfacebookやInstagramは、もしお互いで交換してもいいというのであれば記念に交換してもいいかもしれません。 ガイドの頻出単語 ここでは、ガイドでよく使う単語を紹介します。みんな使うので、すぐに慣れると思います。 コア コアというのはガイドの班のリーダーのことです。 ガイドでは、いつも3-6人の班に分かれて、その班で一日行動します。 ディビジョン(略してディビ) 班のチーム分け表のことです。ガイドの前日ぐらいに、発表されます。 キャッチ ガイドする外国人の方をつかまえることです。"
 },
 {
 url: "https://wress.github.io/guide-materials/info/adding4/",
@@ -243,7 +249,7 @@ body: "記事の追加（その４） この記事ではMarkdown記法を独自�
 url: "https://wress.github.io/guide-materials/meiji-jingu/spots/kaguraden/",
 title: "神楽殿",
 date: "0001-01-01T00:00:00Z",
-body: "神楽殿 \r\r\r正式名所は明治神宮神楽殿。1993年10月に工事が完了 した。周囲の景観を損なわないように地下に空間を作ってお り、この施設では祈願祭を行っている。"
+body: "神楽殿 \r\r\r正式名所は明治神宮神楽殿。1993年10月に工事が完了した。周囲の景観を損なわないように地下に空間を作っており、この施設では祈願祭を行っている。 実は3階建ての建物で、地上に見える部分は3階に当たる。 結婚式もこちらで行われている。 結婚式の関係者、神宮関係者出ないと入れないので注意。"
 },
 {
 url: "https://wress.github.io/guide-materials/search/data.js",
@@ -268,5 +274,11 @@ url: "https://wress.github.io/guide-materials/kokyo/about/",
 title: "皇居東御苑について",
 date: "0001-01-01T00:00:00Z",
 body: "皇居東御苑について 皇居東御苑とは"
+},
+{
+url: "https://wress.github.io/guide-materials/asakusa/food/hanamizuki/",
+title: "花みずき",
+date: "0001-01-01T00:00:00Z",
+body: "花みずき"
 },
 ];
