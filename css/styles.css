@@ -60,6 +60,7 @@ body {
     min-width: 100%;
     height: 16rem;
     background-size: cover;
+    background-position: center;
 }
 .jingu-pic .caption{
   bottom: 3rem;
@@ -75,6 +76,7 @@ body {
     min-width: 100%;
     height: 16rem;
     background-size: cover;
+    background-position: center;
 }
 .asakusa-pic .caption{
   bottom: 3rem;
@@ -90,6 +92,7 @@ body {
     min-width: 100%;
     height: 16rem;
     background-size: cover;
+    background-position: center;
 }
 .kokyo-pic .caption{
   bottom: 3rem;
