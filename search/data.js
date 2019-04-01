@@ -92,7 +92,7 @@ body: "石室 石室 「いしむろ」と読む。 火事やその他の緊急�
 {
 url: "https://wress.github.io/guide-materials/info/catch/",
 title: "キャッチ",
-body: "キャッチ 外国人を捕まえることをキャッチといいます（あまり聞こえのいい言葉ではないですが……）。 キャッチのフレーズ まず、英語圏の方か確認しましょう。 Excuse me, do you speak English? \rYesとかえってきたらまず、私たちの身分を明かし、目的を伝えましょう。 We are university students learning English. We would like guide you around here to improve our English skills and to enjoy talking with you. \r無料であることを伝えるのも大切です。 Of course, it\u0026rsquo;s free of charge. \r最後にもう一回確認しましょう。 Could I join you? \r相手が承諾してくれたら、いよいよガイドスタートです！自己紹介をして、ガイドを始めましょう！ なお、急いでいる人や、すでに何回かきたことがあると言って、ガイドを断る方ももちろんいます。そんな方には、 Have a good time :) などと気持ちよく挨拶して別れましょう。 キャッチのポイント あまり急いでなさそうなゆっくり観光している方がオススメです。 仲の良さそうな若いカップル(手を繋いでいるなど)は遠慮しましょう。きっと二人で仲良く観光したいはずです。 子どもづれもやめましょう。子どもが飽きてしまいます。 もちろん、日本人がすでについているグループもやめておきましょう。"
+body: "キャッチ 外国人を捕まえることをキャッチといいます（あまり聞こえのいい言葉ではないですが……）。 キャッチのフレーズ まず、英語圏の方か確認しましょう。 Excuse me, do you speak English? \rYesとかえってきたらまず、私たちの身分を明かし、目的を伝えましょう。 We are university students learning English. We would like to guide you around here to improve our English skills and to enjoy talking with you. \r無料であることを伝えるのも大切です。 Of course, it\u0026rsquo;s free of charge. \r最後にもう一回確認しましょう。 Could I join you? \r相手が承諾してくれたら、いよいよガイドスタートです！自己紹介をして、ガイドを始めましょう！ なお、急いでいる人や、すでに何回かきたことがあると言って、ガイドを断る方ももちろんいます。そんな方には、 Have a good time :) などと気持ちよく挨拶して別れましょう。 キャッチのポイント あまり急いでなさそうなゆっくり観光している方がオススメです。 仲の良さそうな若いカップル(手を繋いでいるなど)は遠慮しましょう。きっと二人で仲良く観光したいはずです。 子どもづれもやめましょう。子どもが飽きてしまいます。 もちろん、日本人がすでについているグループもやめておきましょう。"
 },
 {
 url: "https://wress.github.io/guide-materials/asakusa/spots/five/",

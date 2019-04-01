@@ -13,8 +13,11 @@
             "type": "image/png"
         }
     ],
-    "theme_color": "#ffffff",
+    "theme_color": "#009688",
     "background_color": "#ffffff",
-    "start_url": "https://wress.github.io/guide-materials/",
-    "display": "standalone"
+    "start_url": "/",
+    "display": "standalone",
+    "lang": "ja",
+    "orientation": "any",
+    "scope": "/"
 }
