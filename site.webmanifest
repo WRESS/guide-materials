@@ -14,7 +14,7 @@
         }
     ],
     "theme_color": "#009688",
-    "background_color": "#ffffff",
+    "background_color": "#5a5a5a",
     "start_url": "/guide-materials/",
     "display": "standalone",
     "lang": "ja",
