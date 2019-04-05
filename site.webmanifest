@@ -18,6 +18,5 @@
     "start_url": "/guide-materials/",
     "display": "standalone",
     "lang": "ja",
-    "orientation": "any",
     "scope": "/"
 }
