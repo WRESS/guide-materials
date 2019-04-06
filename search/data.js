@@ -20,6 +20,11 @@ title: "大手門",
 body: "大手門 大手門 旧江戸城の正門である。１６２０年に敵進行を防ぐため桝形式（直角のこと）にしたいわれてる。 外敵を撃よう穴もあけのこと）にしたいわれてる。 外敵を撃よう穴もあけのこと）にしたいわれてる。外敵を撃よう穴もあけのこと）にしたいわれてる。 英語の例 This is the main gate of former Edo Castle. In 1620, they reformed it to square shape to prevent from the enemies attack. There are also small windows in the wall. There are to attack outside enemies. \r"
 },
 {
+url: "https://wress.github.io/guide-materials/common/shinbutsu/",
+title: "神仏習合・分離",
+body: "神仏習合・分離 神仏習合 神仏習合（しんぶつしゅうごう）は、日本で外来の仏教と日本で生まれた神道が区別されず一つの状態にあったことを指す言葉です。 神仏分離 神仏分離（しんぶつぶんり）とは、明治時代に神道と仏教がはっきり区別されるようになったことを指す言葉です。"
+},
+{
 url: "https://wress.github.io/guide-materials/asakusa/spots/kaminari-mon/",
 title: "雷門",
 body: "雷門 \r\r雷門 正式名称は「風神雷神門」という。門に向かって右側に、袋を持った風神、左側に太鼓を持った雷神がいる。五穀豊穣により、平和な世界になることを願ってつくられた。 高さは約12m、現在の門は1960年に松下幸之助によってつくられた。 Kaminari-mon Gate This outer gate of Senso-ji Temple is called Kaminari-mon. You can see two statues of God: on your right hand the God of Wind is placed, and on your left hand the God of Thunder is placed. The God of Wind has a sack to blow wind, and the God of Thunder has drums to make thunderclap. People believed that those two Gods were protecting this temple from evil spirits and would bring appropriate amount of wind and rain enough to get many crops. \r阿吽 風神と雷神ですが、風神が「あ」雷神が「うん」の口をしています。 これは、ひらがなの最初が「あ」、最後が「ん」であることに由来しており、生と死を表していると言われています。門の両サイドに生と死を表す仏像をおくことで、生と死の間にいる「生き物」にしか通れないようにしていると言われています。つまり、死神や魔物から参道、そして本堂を守っているのです。 英語で説明する場合、「あ」と「ん」ではなく、A と Z で説明すると、外国の方もイメージしやすいかと思います。ただ、入り口なので大混雑ですし、苦労の割に伝わらないので、だいたい割愛します。 もしくは、 Facial expression of the God of Wind represents the birth, and that of the God of Thunder represents the death. It means only living things are allowed to pass through these two statues, and prevents evil spirits from coming inside. 程度で良いでしょう。 \r提灯 1865年に焼失したものを、1960年にPanasonicの創業者、松下幸之助が寄贈。そのため提灯の下部には「松下電器」の名前が書かれています。 最初は、942年に平公雅によって作られました。五穀豊穣。天下泰平の願いがこめられています。 川柳には「雷門風神様は居候」と詠まれています。正しくは「風雷神門」ですが、江戸時代、風も雷も鳴ることから「神が鳴る門」ということで、「雷門」と江戸っ子の間で呼ばれるようになったそうです。 This gate dates back more than 1,000 years ago. Though burned at least twice, it was rebuilt by the founder of Matsushita electronics. This gate has two images of Dragon Kings. They were put in celebration of the temple\u0026rsquo;s 1350th anniversary. Wind and Thunder both make loud sound, so Edokko began to call them \u0026ldquo;Kaminari-mon\u0026rdquo;, which means \u0026ldquo;Thunder Gate\u0026rdquo;. \r約10年ごとに和紙を張り替えて新調してい るそうです。門の裏には「天竜」と、「金竜」の二体の像が安置されている。 The lantern is made new every 10 years by re-covering washi (Japanese paper on the surface). \rこの提灯の下を覗くと、竜の彫刻を見ることができる。これは、最初の雷門が火災によって焼失したため、水の神である竜が火災から門を守ってくれるようにという願いが込められている。 竜の彫刻の写真を撮りたいようなら、インカメを使うように勧めると喜ばれます 約10年ごとに和紙を張り替えて新調している。 ↓この英語、不安なので誰か添削してほしいです\u0026hellip; \r\r\r\r\rthe Lantern (提灯の下で指をさしながら) You can see a dragon here. The dragon is the God of Water. In old days, this temple was destroyed by fire, so this lantern has the statue of the dragon to protect this temple from fire. The lantern is made new every 10 years by re-covering washi. \rTips 提灯は高さ4m、直径3.4m、重さ670kg。松下幸之助は膝の痛みに悩まされていたが、浅草寺に参拝した結果治ったので、雷門再建のため寄付をしたそう。"
@@ -50,6 +55,11 @@ title: "仲見世",
 body: "仲見世 \r\r仲見世 浅草寺境内の掃除の仕事を課せられていた近くの人に対し、境内や参道上に出店営業の特権が与えられ、出店していたことに由来する。 現在、全部で88の店がここでお店を開いている。宝蔵門よりの店を役店と呼び、水茶屋が並ぶ。雷門よりには平店という、玩具、菓子、土産品を売る店が並ぶ。江戸初期以来300年近くの伝統を持つ店もある。 売り物に日本風のお菓子やお土産がたくさんあるので、それらも説明できると楽しいかもしれません。 例としては だるま 雷起こし 人形焼き 扇子 かんざし など……。 長い道なのでフリートークが重要になる場所でもあります！ Nakamise This street is called Nakamise. About 88 stores are opened. There are many stores which deal with food, Japanese sweets, folk crafts, toys and various souvenirs. Some stores have been opened for more than 300 years. \r"
 },
 {
+url: "https://wress.github.io/guide-materials/common/kamon/",
+title: "家紋",
+body: "家紋 家紋 家紋は日本の家庭が持つ紋章です。"
+},
+{
 url: "https://wress.github.io/guide-materials/meiji-jingu/spots/sakadaru/",
 title: "酒樽・ワイン樽",
 body: "酒樽・ワイン樽 南参道には酒樽201本とワインの樽がある。これらは明治神宮に祀られている明治天皇への献上品である。 酒樽 \r\r酒樽は日本各地から送られたものである。樽にはお酒の名前が書いてある。 残念ながらこれらは展示用であり、すべて空である。 ちなみに日本酒を英語で\u0026rdquo;sake\u0026ldquo;という。発音記号は\u0026rdquo;sάːki\u0026rdquo; 基本的にキャッチしたらざっと自己紹介した後すぐにこれを説明することになるのでパッといえるように。 These are sake ballels. Have you ever drunk sake? Meiji Jingu enshrines Meiji Emperor. They are given to him by all over Japan. They are empty and just for display. \rTips 外国の方の中には酒樽に書いてある言葉がどんな意味なのか気になる方もたまにいる。大体は地名などなので，意味を理解してもらうのは難しい。わかりやすいものとしては真ん中下段のあたりに「富士」と書いた樽がある。Mt.Fujiは日本に旅行に来る外国人にもわかるはずなのでそれを説明すると良いかも。 ワイン樽 \r\r振り向くとそこにはワイン樽がある。これらはワイン好きだった明治天皇のためにフランスから寄贈されたものである。ガイドしたヨーロッパの人から聞いた話だが，やっぱりどれも高級なワインらしい。 フランスのワインなのでそれぞれフランスの地名が名前になっている様子。 These are wine ballels. They are sent by France because Meiji Emperor loved it very much. \rTips ここから次のガイドスポットの大鳥居まではある程度距離があるので\u0026rdquo;Do you often drink wine?\u0026ldquo;なんて話をしても良いかも。"
@@ -58,6 +68,11 @@ body: "酒樽・ワイン樽 南参道には酒樽201本とワインの樽があ
 url: "https://wress.github.io/guide-materials/meiji-jingu/spots/otori/",
 title: "大鳥居",
 body: "大鳥居 大鳥居 \r日本一大きいヒノキ製の木造鳥居であり、高さ12m、柱間9.1m、柱の径1.2m、重さ13tもある。 実はこの鳥居は二代目であり、初代は昭和41年(1966)に落雷のため破損してしまい、現在は昭和50年(1975年)12月に新しくできたものである。鳥居の上の方には皇室のご紋である十六葉八重表菊がついている。 再建の際には日本に大樹が残っていなかったことからわざわざ台湾から樹齢1500年以上の大樹を取り寄せたそう。 \u0026ldquo;Can you guess how tall the gate is?\u0026ldquo;みたいな感じでクイズ形式にするのも面白いかも。 \r\r\r\r\rThis is the biggest wooden Torii in Japan. It is made with cedar and the height is 12m, column 9.1m, beam diameter 1.2m, weight is 13t. This Torii is not the original. The original one was destroyed by lightning in 1966 and this one was put in place in 1975. Because there was no huge tree enough to be made into tori in Japan, trees which is 1500 years old were imported from Taiwan. \r鳥居の三つの役割 鳥居には三つ役割があります。この鳥居に来たら説明することの定番です！　明治神宮以外でも使えるので、まずはぜひこれを覚えてください。 神社の神域と私たちの世界との境界を示すもの 邪悪なものを入れないようにする結界 私たちの身を清めるため。 It is the boundary between human area and sacred area. It prevents evil spirits from coming into sacred area. It purifies people passing through. \r菊の紋章 鳥居の上の方に見える丸い紋章は菊の花。秋頃ガイドに行くと、菊が参道に飾られているのも、菊が皇室の紋章だからである。 菊(Chrysanthemum) = 太陽 = 太陽の子 = 天皇　ということで、皇室の紋章は菊になった。太陽と聞けば、「sun flower = ひまわり」となりそうだが、現在見かけるひまわりは、西洋ひまわりといい元々日本にあるものではない。ちなみに、形が似て見えるタンポポも西洋タンポポがほとんど。日本原産のものはほぼ絶滅に近い。 ちなみに、菊は国花でもある(桜と菊の二つ)。ただし、原産国は中国で7世紀ごろに日本にもたらされた。"
+},
+{
+url: "https://wress.github.io/guide-materials/common/tenno/",
+title: "天皇制",
+body: "天皇制 天皇 天皇は日本の His Majesty 天照大神 神武天皇 実在は推古天皇 元号"
 },
 {
 url: "https://wress.github.io/guide-materials/asakusa/spots/hozo-mon/",
@@ -73,6 +88,11 @@ body: "必要度 必要度とは 各記事の知識がどれくらいガイド�
 url: "https://wress.github.io/guide-materials/kokyo/spots/honmaru/",
 title: "本丸広場",
 body: "本丸広場 \r\r本丸広場 かつての江戸城の中心。36000平方メートルの御殿があった。本丸広場の南半分が「表」と呼ばれる将軍の昼の仕事場、北半分に「裏」と呼ばれた夜の仕事場があった。 今は、ピクニックとして使う人が多い。 ただ、お酒だけは飲めない ので注意！ ここの周辺は長いですが、フリートークで盛り上げましょう！！ the grass of the trace of Honmaru Here used to be the center of the Edo castle and a great palace existed. In the southern half of the Honmaru called \u0026ldquo;Omote (Front)\u0026rdquo;. Shogun(The leader of the samurai and also of the government) worked in daytime. In the northern half of the Honmaru called “Ura (back)” Shogun worked at night. \rTips 将軍の正妻を象徴として形成された大奥は、ここに存在した。大奥は将軍以外の男性は一切立ち入り禁止。本丸大奥だけでも500~600人の女性がおり、他の場所も合わせると優に1000人を超える女性が江戸城で生活をしていた計算になる。 ちなみに忠臣蔵で有名な松の廊下は本丸大広間と将軍に拝謁する白書院とを結んだもの(忠臣蔵を知らない外国人に対し説明するのは超難関 +「ふーん、でも分かんないと苦労のわりに報われない確率高し)"
+},
+{
+url: "https://wress.github.io/guide-materials/common/omikuji/",
+title: "おみくじ",
+body: "おみくじ おみくじ"
 },
 {
 url: "https://wress.github.io/guide-materials/asakusa/spots/straw/",
@@ -108,6 +128,11 @@ body: "五重の塔 \r\r五重の塔 浅草寺本堂・雷門・宝蔵門と同�
 url: "https://wress.github.io/guide-materials/kokyo/spots/tenshudai/",
 title: "天守台",
 body: "天守台 天守台 江戸城の天守台があったところ。1657年の「振袖火事」で全焼してしまった。 また、ここで集合写真を取ることが多い。 the foundation of observation tower This is the foundation of Observation tower. There were six storied tower. It was burned out in the big fire of 1657. \r振袖火事 ある女の人が、火事のときに一度助けられたカッコいい消防士のことが忘れられず、もう一度会いたいと思い、自分の着物に火を付けたところ、それが広がって江戸の町の3分の2が焼けてしまったと言われている。 Once a woman had been helped by a fire-fighter. He was very cool guy, so she wanted to meet him again, then, she set fire to her own kimono, and the fire burned out two-thirds of Tokyo (Edo). \r日本武道館 1964 年に東京オリンピックで使用するためにつくられた。いまでも、柔道や剣道やコンサートに利用されている。また、2020年の東京オリンピックでも、ここが柔道と空手の会場予定となっている。 ここでコンサートをすることは有名アーティストとしてのステータス・シンボルでもある。ちなみに、ここで初めてコンサートをしたのは、あのビートルズである。 イギリスの方は特に、このビートルズの話を伝えると喜ばれます。 ちなみに、天守台の上から指差して示す時は、You can see the golden onion! というとわかりやすいかもしれないです。 That was built in 1964 for Tokyo Olympic Games. That is used for Judo and any other sports and concerts. In 2020, that will be used for the match venue of karate and judo. Concert in that hall is the status symbol of famous musicians. The first musician who held a concert there is The Beatles. \r"
+},
+{
+url: "https://wress.github.io/guide-materials/common/chozu/",
+title: "手水",
+body: "手水 手水 あああ"
 },
 {
 url: "https://wress.github.io/guide-materials/meiji-jingu/spots/masugata/",
