@@ -17,7 +17,7 @@ body: "南参道鳥居 \r\r\r明治神宮に原宿駅方面から向かった時
 {
 url: "https://wress.github.io/guide-materials/kokyo/spots/otemon/",
 title: "大手門",
-body: "大手門 \r\r大手門 旧江戸城の正門である。１６２０年に敵進行を防ぐため桝形式（直角のこと）にしたいわれてる。 外敵を撃よう穴もあけのこと）にしたいわれてる。 外敵を撃よう穴もあけのこと）にしたいわれてる。外敵を撃よう穴もあけのこと）にしたいわれてる。 英語の例 This is the main gate of former Edo Castle. In 1620, they reformed it to square shape to prevent from the enemies attack. There are also small windows in the wall. There are to attack outside enemies. \r"
+body: "大手門 \r\r大手門 旧江戸城の正門である。１６２０年に敵進行を防ぐため桝形式（直角のこと）にしたといわれてる。。壁にはところどころに穴があり、そこから銃の先を出して攻めてくる敵を撃てるようになっている。 2つの門が直角に設けられているのは、敵が侵入する際、速度を落とさせ、猛スピードで攻めてこられないようにするためである。これは全国のお城に共通のよく見られる構造であり、二つの門に挟まれた広間を桝形と呼ぶ。 This gate is called \u0026ldquo;Ote-mon\u0026rdquo;. It served as the main gate of Edo Castle during the time of the Tokugawa shogunate. The gate is made up of two gates set in order to make enemies slow down. There are small windows in the wall to attack outside enemies. \r"
 },
 {
 url: "https://wress.github.io/guide-materials/common/shinbutsu/",
@@ -35,24 +35,29 @@ title: "マテリアル",
 body: "マテリアル マテリアルとは マテリアルとは，ガイドをするための資料のことです。各観光地に何があり，どのようなことを説明したらよいのかを記載してあります。 各大学のESSが独自に製作しており，このマテリアルもそのうちの一つです。 2019年現在では東京外国語大学ESSや東京大学ESSの作ったマテリアルが主流なようです。 マテリアルの使い方 マテリアルには様々な知識が書いてあり，英文も記載しています。丸暗記しても良いのですが，会話の中で取り出す知識や言い回しを覚えておいて，会話の中で自然に取り出せるようになると良いでしょう。 ガイドの一番の目的は，案内することではなく，会話などを通して楽しむことです。もちろん案内させていただく以上最低限の知識がないとまずいですが，まずは異国の地からはるばるやってきた方と会話を楽しむことを忘れないでください。"
 },
 {
+url: "https://wress.github.io/guide-materials/kokyo/spots/shozokan/",
+title: "三の丸尚蔵館",
+body: "三の丸尚蔵館 三の丸尚蔵館 時期ごとに異なる皇室所蔵の品を展示している博物館で、入場無料。すぐ近くに土産物屋（皇室ゆかりのおみやげがある）と休憩所、お手洗いがある。 展示物には英語の注釈もついているので、もし入りたいといわれても皇室に関する高度な説明を要求されることはなく、安心して入って大丈夫です。 This is Sannommaru Museum, which exhibits pictures and Japanese traditional goods. \r済寧館 向かいにある建物は済寧館と呼ばれる建物で、皇宮警察が所有する道場です。立ち入りはできませんが建物は順路から見えるので、これは何？と聞かれたら教えてあげてください。"
+},
+{
 url: "https://wress.github.io/guide-materials/meiji-jingu/spots/minami-sando/",
 title: "南参道",
 body: "南参道 \r\r\r道幅は8間(約14.4m)であり明治神宮内の他の参道と比べて一番広い。お正月には参拝者で埋め尽くされる。 この参道には玉砂利と呼ばれる白く小さい石が敷き詰められている。日本人にとって神社にこのような砂利が引かれているのは当たり前だが，外国人にとっては「どうしてわざわざ歩きづらくするのか」と不思議に思うこともあるらしい。もはや当たり前すぎて詳しい理由はわかっていないそうだが，一説には，清浄な石を踏むことで身を清める効果があるとのこと（参考：明治神宮-Q\u0026amp;A-）。"
 },
 {
-url: "https://wress.github.io/guide-materials/kokyo/spots/bansho/",
-title: "番所",
-body: "番所 番所 「番所」とは警備用の小屋であり、現在３つ残っている。奥にほど位の高い役人が配属されていた。 同心番所 「同心」とは下級の武士ことである。主に大名の従者を監視することが仕事であった。 Dohshin-bansho This is Dohshin-bansho. Dohshin means a guard-man, and bansho means guardhouse. Guardhouses were set at important places near the gates. \r\r\r\r\r百人番所 50mを超える長さの建物である。名前のとおり、百人同心４組が昼夜交代で護衛していた。1チーム100人のグループが4つあり、ローテーションを組んで警備に当たっていた。 百人番所の奥には、さりげなく百人番所と同じ形に剪定された植え込みがある。かわいいのでチェックしてみよう。 Hyakunin-bansho This is Hyakunin-bansho. Hyakunin means one hundred people, and bansho means guardhouse. More than 400 guardians made four groups and guarded by turns. \r\r\r\r\r注意 近くにある「セルフガイド」という看板には「25人組×4」と書かれている。え!このマテリアルの説明は嘘なのか?!そうではない。まぁ落ち着こう。 「100人組×4」は、皇居を管理している宮内庁のホームページ記載のデータ。そこには「甲賀組、根来組、伊賀組、二十五騎組の 4つの組があり、それぞれの組に同心100 人ずつが配属されていた」と書かれている。 大番所 他の番所より格上で、最も強い同心がいた。 ただ、同心番所と百人番所が十分強かったために、ここまで敵が到達することはなかったと言われている。 Ohbansho The strongest guardiands guarded here. However, it is said that they don\u0026rsquo;t have to fight enemies because Dohshin-bansho and Hyakunin-bansho were strong enough. \r\r\r\r\r大番所先の坂 大番所から本丸広場に向けてえらく急な坂がある。これには、敵の乗ってくる馬が進みにくくする目的があった。よくみてみると、坂の横の壁には大手門と同じような小さい穴が見つけられる。この坂の勾配により、スピードが落ちた馬をその穴から狙う作戦だったようだ。 また、坂が右側にカーブしているのも、馬が反時計周りのカーブが苦手だったからと言われている。 In old days, enemies attacked with horses. Horses are not good at going up a steep hill and turning to the right compare to turning to the left. The center of the castle was over there. So, it is difficult for enemies to attack the main castle. \r\r\r\r\r"
-},
-{
 url: "https://wress.github.io/guide-materials/info/guide-materials/",
 title: "このサイトについて",
-body: "このサイトについて Guide Materials 今までのマテリアルはPDF形式で制作されていました。PDF形式では印刷しやすく，表示も崩れにくいという利点もありますが，見たい記事にすぐには飛べない，スマホの小さい画面では見づらいなどの弱点があります。 このマテリアルはWebサイトという形で作られており，スマホでもPCでも，更に印刷しても見やすいものを目指しています。また，PDF形式では情報量を多くしすぎると縦に長くなって見づらくなるという弱点がありました。このマテリアルでは必要度によって記事を振り分けることにより，難解な記事までもカバーしつつ余計な情報は省いて見ることもできます。 また，このマテリアルは記事の追加が簡単にできるようになっています。記事の追加については記事の追加をご覧ください。 印刷について このマテリアルは印刷用のページを用意 する予定です。準備でき次第ここに記入します。 誤植を見つけた際は このマテリアルはOUESS・WRESSガイドセクションによって管理されています。誤植を見つけた際は、私たちに連絡をいただけると助かります。"
+body: "このサイトについて Guide Materials 今までのマテリアルはPDF形式で制作されていました。PDF形式では印刷しやすく，表示も崩れにくいという利点もありますが，見たい記事にすぐには飛べない，スマホの小さい画面では見づらいなどの弱点があります。 このマテリアルはWebサイトとして作られており，スマホでもPCでも，更に印刷しても見やすいものを目指しています。 また，PDF形式では情報量を多くしすぎると縦に長くなって見づらくなるという弱点がありました。このマテリアルでは必要度によって記事を振り分けることにより，難解な記事までもカバーしつつ余計な情報は省いて見ることもできます。 このマテリアルは記事の追加が簡単にできるようになっています。記事の追加については記事の追加をご覧ください。 なお、制作にあたっては東京大学ESS，東京外国語大学ESS制作のマテリアル，および明治神宮公式サイト，宮内庁参観音声ガイドアプリ，浅草寺公式サイトなどを参考にさせていただきました。この場を借りて製作者の方々にはお礼申し上げます。 印刷について このマテリアルは印刷用のページを用意 する予定です。準備でき次第ここに記入します。 誤植を見つけた際は このマテリアルはOUESS・WRESSガイドセクションによって管理されています。誤植を見つけた際は、私たちに連絡をいただけると助かります。"
 },
 {
 url: "https://wress.github.io/guide-materials/asakusa/spots/nakamise/",
 title: "仲見世",
 body: "仲見世 \r\r仲見世 浅草寺境内の掃除の仕事を課せられていた近くの人に対し、境内や参道上に出店営業の特権が与えられ、出店していたことに由来する。 現在、全部で88の店がここでお店を開いている。宝蔵門よりの店を役店と呼び、水茶屋が並ぶ。雷門よりには平店という、玩具、菓子、土産品を売る店が並ぶ。江戸初期以来300年近くの伝統を持つ店もある。 売り物に日本風のお菓子やお土産がたくさんあるので、それらも説明できると楽しいかもしれません。 例としては だるま 雷起こし 人形焼き 扇子 かんざし など……。 長い道なのでフリートークが重要になる場所でもあります！ Nakamise This street is called Nakamise. About 88 stores are opened. There are many stores which deal with food, Japanese sweets, folk crafts, toys and various souvenirs. Some stores have been opened for more than 300 years. \r"
+},
+{
+url: "https://wress.github.io/guide-materials/kokyo/spots/doshin/",
+title: "同心番所",
+body: "同心番所 番所 「番所」とは警備用の小屋であり、現在３つ残っている。奥にほど位の高い役人が配属されていた。 同心番所 「同心」とは下級の武士ことである。主に大名の従者を監視することが仕事であった。 This is Dohshin-bansho. Dohshin means a guard-man, and bansho means guardhouse. Guardhouses were set at important places near the gates. \r\r\r\r\r"
 },
 {
 url: "https://wress.github.io/guide-materials/common/kamon/",
@@ -85,14 +90,19 @@ title: "必要度",
 body: "必要度 必要度とは 各記事の知識がどれくらいガイドに必要かを☆の数で表したものです。 ☆，☆☆，☆☆☆の三段階で評価しています。 星の数 説明 ☆ ガイドするにあたってあまり必要とされない知識 ☆☆ ガイドするのに知っていると便利だが，必ずしも必須というわけではない知識 ☆☆☆ ガイドするなら必ず知っておいてほしい知識 各地のガイドスポットページの上部にあるチェックボックスをオンオフすることで各必要度の表示をオンオフすることができます。これに応じて各記事の一番下にある「前のページへ」「次のページへ」のボタンも，チェックボックスを外した必要度の記事を除いたものに変化します。"
 },
 {
-url: "https://wress.github.io/guide-materials/kokyo/spots/honmaru/",
-title: "本丸広場",
-body: "本丸広場 \r\r本丸広場 かつての江戸城の中心。36000平方メートルの御殿があった。本丸広場の南半分が「表」と呼ばれる将軍の昼の仕事場、北半分に「裏」と呼ばれた夜の仕事場があった。 今は、ピクニックとして使う人が多い。 ただ、お酒だけは飲めない ので注意！ ここの周辺は長いですが、フリートークで盛り上げましょう！！ the grass of the trace of Honmaru Here used to be the center of the Edo castle and a great palace existed. In the southern half of the Honmaru called \u0026ldquo;Omote (Front)\u0026rdquo;. Shogun(The leader of the samurai and also of the government) worked in daytime. In the northern half of the Honmaru called “Ura (back)” Shogun worked at night. \rTips 将軍の正妻を象徴として形成された大奥は、ここに存在した。大奥は将軍以外の男性は一切立ち入り禁止。本丸大奥だけでも500~600人の女性がおり、他の場所も合わせると優に1000人を超える女性が江戸城で生活をしていた計算になる。 ちなみに忠臣蔵で有名な松の廊下は本丸大広間と将軍に拝謁する白書院とを結んだもの(忠臣蔵を知らない外国人に対し説明するのは超難関 +「ふーん、でも分かんないと苦労のわりに報われない確率高し)"
+url: "https://wress.github.io/guide-materials/kokyo/spots/hyakunin/",
+title: "百人番所",
+body: "百人番所 百人番所 50mを超える長さの建物である。名前のとおり、百人同心４組が昼夜交代で護衛していた。1チーム100人のグループが4つあり、ローテーションを組んで警備に当たっていた。 百人番所の奥には、さりげなく百人番所と同じ形に剪定された植え込みがある。かわいいのでチェックしてみよう。 This is Hyakunin-bansho. Hyakunin means one hundred people, and bansho means guardhouse. More than 400 guardians made four groups and guarded by turns. \r\r\r\r\r注意 近くにある「セルフガイド」という看板には「25人組×4」と書かれている。「100人組×4」は、皇居を管理している宮内庁のホームページ記載のデータ。そこには「甲賀組、根来組、伊賀組、二十五騎組の 4つの組があり、それぞれの組に同心100人ずつが配属されていた」と書かれている。"
 },
 {
 url: "https://wress.github.io/guide-materials/common/omikuji/",
 title: "おみくじ",
 body: "おみくじ おみくじ"
+},
+{
+url: "https://wress.github.io/guide-materials/kokyo/spots/oh-bansho/",
+title: "大番所・中之門跡",
+body: "大番所・中之門跡 中之門 江戸時代には中之門と呼ばれる門がありました。本丸に入る前の最初の門として厳重に作られており、今でも石垣にその様子を伺うことができます。 In Edo period, a gate called Nakano-mon. The structure is built strongly because the gate was the most important as the first gate on the slope leading up the Hon-maru. \r大番所 他の番所より格上で、最も強い同心がいた。 ただ、同心番所と百人番所が十分強かったために、ここまで敵が到達することはなかったと言われている。 The strongest guardiands guarded here. However, it is said that they don\u0026rsquo;t have to fight enemies because Dohshin-bansho and Hyakunin-bansho were strong enough. \r\r\r\r\r大番所先の坂 大番所から本丸広場に向けてえらく急な坂がある。これには、敵の乗ってくる馬が進みにくくする目的があった。よくみてみると、坂の横の壁には大手門と同じような小さい穴が見つけられる。この坂の勾配により、スピードが落ちた馬をその穴から狙う作戦だったようだ。 また、坂が右側にカーブしているのも、馬が反時計周りのカーブが苦手だったからと言われている。 In old days, enemies attacked with horses. Horses are not good at going up a steep hill and turning to the right compare to turning to the left. The center of the castle was over there. So, it is difficult for enemies to attack the main castle. \r\r\r\r\r"
 },
 {
 url: "https://wress.github.io/guide-materials/asakusa/spots/straw/",
@@ -103,11 +113,6 @@ body: "大草履 \r\r大草履 仁王像制作者である村岡久作氏の出�
 url: "https://wress.github.io/guide-materials/meiji-jingu/spots/gyoen/",
 title: "明治神宮御苑",
 body: "明治神宮御苑 \r\r\r大鳥居を超えてしばらく進むと明治神宮御苑の入り口がある。基本的にはそっちにはいかないが，もし行きたいと言われたら行っても良い。コースがかなり長いので個人的におすすめはしません。なお，入園料として500円かかるので注意。 The gate is a entrance of Meiji Jingu Garden. It takes 500 yen to enter. \r"
-},
-{
-url: "https://wress.github.io/guide-materials/kokyo/spots/stone-cellar/",
-title: "石室",
-body: "石室 \r\r石室 「いしむろ」と読む。 火事やその他の緊急時に大事なものが延焼しないように運びこんだらしい。 なお、中には入れません。（もし入ったら、皇居警察が飛んで来ます） また、ここは暗くて奥が見えないので、隠し穴が東京大学に繋がっているという伝説もあります。 the Stone-cellar This is Ishimuro. It means stone-cellar. People carried furniture and books here in cases of emergency. \r"
 },
 {
 url: "https://wress.github.io/guide-materials/info/question/",
@@ -123,11 +128,6 @@ body: "キャッチ 外国人を捕まえることをキャッチといいます
 url: "https://wress.github.io/guide-materials/asakusa/spots/five/",
 title: "五重の塔",
 body: "五重の塔 \r\r五重の塔 浅草寺本堂・雷門・宝蔵門と同じ942年に建立されたといわれる。現在のものは戦後1973年に再建されたもの。 高さは48.32mで、京都の東寺の五重の塔に次いで日本で2番目に大きい。 ５階にはスリランカから送られた仏陀の骨（聖仏舎利）がおさめられている。 各階はそれぞれ、下から順に、地・水・火・風・空の世界を表しており、一つの塔で仏教的な宇宙観を表していると言われている。 the Five-storied Pagoda The Five Storied Pagoda in Asakusa seemed to be built in 942. The today’s pagoda was rebuilt in 1973 after World War II. If we consider only the height of pagoda, it is the second tallest pagoda in Japan (the tallest one is in To-ji Temple in Kyoto). On the fifth floor, the bone of Buddha given from a temple in Sri Lanka is placed. Each floor has each meaning. First floor represents the ground. Second floor represents water. Third floor represents fire. Fourth floor represents wind. Fifth floor represents the sky. So it is said that this five-storied pagoda itself represents the earth. \rTips 戦前は、本堂の東にあったが、戦後再建の時西側に移された。建物の上に塔を建てる塔院造りが採用されていて、中には、信徒食堂・会議室・文庫もある。また永代供養の霊牌12000鉢、観音像100体が安置されている。 江戸時代には江戸四塔または江戸六塔の一つとして数えられ、絵画には必ず描かれる浅草のランドマークであった。"
-},
-{
-url: "https://wress.github.io/guide-materials/kokyo/spots/tenshudai/",
-title: "天守台",
-body: "天守台 \r\r天守台 江戸城の天守台があったところ。1657年の「振袖火事」で全焼してしまった。 また、ここで集合写真を取ることが多い。 the foundation of observation tower This is the foundation of Observation tower. There were six storied tower. It was burned out in the big fire of 1657. \r振袖火事 ある女の人が、火事のときに一度助けられたカッコいい消防士のことが忘れられず、もう一度会いたいと思い、自分の着物に火を付けたところ、それが広がって江戸の町の3分の2が焼けてしまったと言われている。 Once a woman had been helped by a fire-fighter. He was very cool guy, so she wanted to meet him again, then, she set fire to her own kimono, and the fire burned out two-thirds of Tokyo (Edo). \r日本武道館 1964 年に東京オリンピックで使用するためにつくられた。いまでも、柔道や剣道やコンサートに利用されている。また、2020年の東京オリンピックでも、ここが柔道と空手の会場予定となっている。 ここでコンサートをすることは有名アーティストとしてのステータス・シンボルでもある。ちなみに、ここで初めてコンサートをしたのは、あのビートルズである。 イギリスの方は特に、このビートルズの話を伝えると喜ばれます。 ちなみに、天守台の上から指差して示す時は、You can see the golden onion! というとわかりやすいかもしれないです。 That was built in 1964 for Tokyo Olympic Games. That is used for Judo and any other sports and concerts. In 2020, that will be used for the match venue of karate and judo. Concert in that hall is the status symbol of famous musicians. The first musician who held a concert there is The Beatles. \r"
 },
 {
 url: "https://wress.github.io/guide-materials/common/chozu/",
@@ -150,19 +150,9 @@ title: "フリートーク",
 body: "フリートーク フリートーク ガイドの一番の目的は，案内することではなく，会話を楽しむことです。実際各ガイド地にはガイドするスポット間の距離が離れており，フリートークが必要になる場面も多くあります。そこで，このページではフリートークのノウハウを記述します。 話題 フリートークの話題にはある程度典型的なものがあります。この項ではその話題に関して記述します。 出身地系 Where are you from? 鉄板です。キャッチが成功したら真っ先に聞きましょう。派生の話題として，自分が行ったことがあるかどうかや，その地で有名なものの話題につながります。 旅系 When did you come to Japan? Why did you come to Japan? かなり重要な質問です。 Is this your first trip to Japan? 日本に初めて来たかどうか。 Where did you go in Japan? Where will you go in Japan? What do you do? 食べ物系 Did you try Japanese food? 日本食は食べたことがある人がほとんどですが、この質問から、昨日あれを食べたとか、オススメはなに？とかいろんな話題に広がります。 好きな日本食やぜひ行ってほしいレストランがあればオススメしてみましょう。 イベント系 How do you spend on Christmas day? How do you spend on New Year\u0026rsquo;s Day? What is the most big event in your country? クリスマス、正月、バレンタイン、ハロウィンなど日本でもメジャーなイベントも海外では、違った楽しみ方、伝統的な過ごし方があるかもしれません。日本のも紹介しつつ、文化の違いが聞けるのもガイドの楽しみの一つです。"
 },
 {
-url: "https://wress.github.io/guide-materials/kokyo/spots/music-hall/",
-title: "桃華楽堂",
-body: "桃華楽堂 \r\r桃華楽堂 皇太后良子(ながこ)の還暦を記念して造られた八角形の建物で各面はタイルで優雅な絵が描かれている。音書効果が素晴らしいようだが一般人が使うことは許されていない。 また、屋根は梅の花の形をしている。 Tokagakudo music hall This building was built in commemoration of the ex-Empress’s 61st birthday in 1963. (This building was the birthday present for the ex-Empress.) It is octagonal and the acoustics are excellent. Each face has an elegant picture of tiles. It has the flower-shaped roof. If you could see the roof from the sky, it would look like the plum flower. \rTips この先に、ベージュ色の謎の建物がありますが、もし聞かれたら、 This is the office for workers here. と答えればOK。ちなみに、皇居の場合、謎の建物は大抵これでかわせ、しかもあながち間違いではない。"
-},
-{
 url: "https://wress.github.io/guide-materials/info/core/",
 title: "コア",
 body: "コア コアとは コアというのは簡単にいうとガイドの班のリーダーのことです。"
-},
-{
-url: "https://wress.github.io/guide-materials/kokyo/spots/shiomi/",
-title: "汐見坂",
-body: "汐見坂 \r\r汐見坂 昔はこの坂から海が見えたのでこう呼ばれる。 海岸が埋め立てられた上に、高層ビルが建てられたので、今は海を見ることはできない。 ちょっと先は高層ビルなのに、周りは自然でいっぱいなところが意外と外国の方に人気。 Shiomizaka, or Sea-viewing slope This slope is called Shiomizaka, or Sea-viewing slope. Literally, in old days the ocean could be seen　from this slope. \rTips seaとseeの発音で混乱を招き、必死にシーシー連呼する人が時々いますが、そんな時はoceanという逃げ方があります。 watchには「動くものを観察する、じっと見る」というニュアンスがあるので、「海流を観察した」ならともかく、単に「海を眺めた」程度であろうこの場面に用いると非常に不自然。You could got a good [nice/ fine] view of the sea at that time. はOK。"
 },
 {
 url: "https://wress.github.io/guide-materials/asakusa/spots/burner/",
@@ -175,11 +165,6 @@ title: "お水舎",
 body: "お水舎 お水舎 浅草にも手水舎がありここで体を清める。手水のやり方に関してはcommonページを参照のこと。 なお、ここに置かれている銅像は龍神像（沙竭羅龍王像）。明治36年（1903）8月奉安、高村 光雲 作。 以前、本堂裏にあった噴水に安置されていた像である。仏法を守護する龍王の1人。龍や龍神は、水をつかさどる神である。"
 },
 {
-url: "https://wress.github.io/guide-materials/kokyo/spots/garden/",
-title: "三の丸庭園",
-body: "三の丸庭園 三の丸庭園 かつては二の丸があり、表と奥とからなる御殿があった。前将軍の個室があり、晩年を過ごす場所となっていた。3度の火事で焼失し、今あるのは30年前に作り直されたもの。 この庭園は説明よりも、ただ日本庭園を楽しんでもらうことに注力するのもいいと思います！ This place was once called Ninomaru or The Second citadel. There used to be a wonderful palace consist of Omote and Oku. Ninomaru was used as the place where a pre-Shogun\u0026rsquo;s wife spent her last years. It was burned out three times and reconstructed 30 years ago. \r池の鯉 この庭園の池には、金色やいろんな色の鯉がいる。この鯉は、インドネシアと日本のハーフである。この鯉が綺麗と、意外と人気。ちなみに、鯉は英語でCarpですが、こちらよりも Koi fish のほうが通じる。むしろ、Carpだと通じないことも。 花菖蒲 庭園の出口の近くに、木札が添えられて植えられている花菖蒲がある。 見頃は6月。しかし、ガイドする際は時期的に、ほとんど花が見れないのでイネみたいになっているが、実は花菖蒲。 英語名はIris。もし聞かれたら答えれば良い。 都道府県の木 47 都道府県から寄贈されたもの(沖縄の木は当初なかった)。 全30種類、木の本数は260。 ちなみに、東京の木は奥の方にある。 余裕があれば、下見の時に場所だけでも確認しておくと安心。 Tips フリートークのネタとして、ここで自分の出身地の木について紹介したり、外国の方がこれまで訪れた場所や、行く予定の場所を木をきっかけにして話したりすると盛り上がることがあります。 These trees were presented by each prefecture. They are symbol trees of it. Its variety amounts to 30 kinds with the total number of 260. \r茶室 火災などで焼失後、11代将軍・徳川家斉の時に創建。建物は、明治45年に再建されたもので、現在は茶室としての利用はできない。 In old days, this room was used for tea ceremonies. Now, we are not allowed to use it. \r"
-},
-{
 url: "https://wress.github.io/guide-materials/meiji-jingu/spots/chozu/",
 title: "手水舎",
 body: "手水舎 手水 一応手水（ちょうず）を説明しておくと，神社やお寺に参拝する際，本殿に入る前に水で体を清める行為です。水場にひしゃくが置いてあり，決められた作法に従って手水を行う。 \r\r手水のやり方 ここは実演しながら説明できる場所なので，初心者でもだいぶやりやすいです！　ぜひ覚えてください！ ひしゃくで水をすくう。 ひしゃくを右手に持って，左手を洗う。 ひしゃくを左手に持ち替えて，右手を洗う。 ひしゃくを右手に持ち替えて，左手で水をすくい，口を漱ぐ。 左手をあらう。 ひしゃくの柄を洗う。 \r\r\r\r\rこれを一杯の水で行います！ Over there, there is a main area of this shrine. We should purify our body in that. There is a particular way to purify. I\u0026rsquo;ll show you. Please imitate me! Scoop the water. Wash your left hand. Wash your right hand. If you are OK, rinse your mouth.（嫌そうだったら強要する必要はありません） Wash your left hand again. Finally, wash the stick. Now you are purified! \r口をゆすぐは、必ずrinse your mouthです！ 間違えても、wash your mouthとは言わないように！ wash your mouth は汚い言葉を使った小さい子をなだめる慣用句として使われているようなので。"
@@ -187,7 +172,12 @@ body: "手水舎 手水 一応手水（ちょうず）を説明しておくと�
 {
 url: "https://wress.github.io/guide-materials/asakusa/spots/main/",
 title: "本堂",
-body: "本堂 \r\r本堂 942年に元々の浅草寺は建立された。その後、関東大震災をも無事に免れ世間の話題となったが、 東京大空襲で「国宝浅草寺本堂」は焼け落ちてしまった。現在のものは1958年に建てられたものである。 戦争の歴史はタブーであることも多いので、下にある英語の内容だけ伝えられればバッチリです！ 外陣と内陣に分かれ、大扉の開いている昼間は内陣まで入れる。内陣中央にご本尊聖観世音菩薩像を安置する宮殿がある。三方扉となっていてそれは日本最大の大きさである。本尊は参拝することはできないが、本尊の前の間の「お前立ち」の本尊は33年ごとの開帳、慶祝や記念行事のときに臨時開帳が行われる。本堂では毎朝午前6時(夏)、6時30分(冬)に一日の行事が始まる。 Main Hall The original main hall seemed to be built in 942. But it was burnt many times. In 1958, today’s main hall was rebuilt. Inside the hall, beyond the curtain, the statue of the Goddess of Mercy called Kannon is placed, but we are not permitted to see it. \r注意 お寺では、参拝方法が神社と違い一礼のみです。 もし一緒にやることになったら気をつけましょう。 また、宗教上の理由から参拝したくない外国人の方もいます。 軽く上記の説明をした後、 You can make a wish here. Do you try it? と聞き、もし難色を示したら 速やかに出ましょう。"
+body: "本堂 \r\r本堂 942年に元々の浅草寺は建立された。その後、関東大震災をも無事に免れ世間の話題となったが、 東京大空襲で「国宝浅草寺本堂」は焼け落ちてしまった。現在のものは1958年に建てられたものである。 戦争の歴史はタブーであることも多いので、下にある英語の内容だけ伝えられればバッチリです！ 外陣と内陣に分かれ、大扉の開いている昼間は内陣まで入れる。内陣中央にご本尊聖観世音菩薩像を安置する宮殿がある。三方扉となっていてそれは日本最大の大きさである。本尊は参拝することはできないが、本尊の前の間の「お前立ち」の本尊は33年ごとの開帳、慶祝や記念行事のときに臨時開帳が行われる。本堂では毎朝午前6時(夏)、6時30分(冬)に一日の行事が始まる。 Main Hall The original main hall seemed to be built in 942. But it was burnt many times. In 1958, today’s main hall was rebuilt. Inside the hall, beyond the curtain, the statue of the Goddess of Mercy called Kannon is placed, but we are not permitted to see it. \r注意 お寺では、参拝方法が神社と違い一礼のみです。もし一緒にやることになったら気をつけましょう。 また、宗教上の理由から参拝したくない外国人の方もいます。例えばイスラム教では偶像崇拝が禁止されており、ご本尊に手を合わせる行為は基本的にはやってはいけない行為です。 軽く上記の説明をした後、 You can make a wish here. Do you want to try it? と聞き、もし難色を示したら 速やかに出ましょう。 天井の絵 本殿の天井には天女と龍の絵が描かれています。気づきにくいので教えてあげると喜ばれます。これは本殿を建て直した際に描かれたものです。"
+},
+{
+url: "https://wress.github.io/guide-materials/kokyo/spots/honmaru/",
+title: "本丸広場",
+body: "本丸広場 \r\r本丸広場 かつての江戸城の中心。36000平方メートルの御殿があった。本丸広場の南半分が「表」と呼ばれる将軍の昼の仕事場、北半分に「裏」と呼ばれた夜の仕事場があった。 1863年の火事で焼け、今は見ての通り広大な芝生が広がり、木々が生い茂る公園となっている。桜の時期にはここでピクニックする人も多い。 ただ、お酒だけは飲めない ので注意！（持っていくと入口の手荷物検査で引っ掛かります） ここの周辺は長いですが、フリートークで盛り上げましょう！！ Here used to be the center of the Edo castle and a great palace existed but it was burnt down in 1863 and as you see now, the vast grass spreads and many trees grow thickly. In the southern half of the Honmaru called \u0026ldquo;Omote (Front)\u0026rdquo;. Shogun(The leader of the samurai and also of the government) worked in daytime. In the northern half of the Honmaru called “Ura (back)” Shogun worked at night. \rTips 将軍の正妻を象徴として形成された大奥は、ここに存在した。大奥は将軍以外の男性は一切立ち入り禁止。本丸大奥だけでも500~600人の女性がおり、他の場所も合わせると優に1000人を超える女性が江戸城で生活をしていた計算になる。 ちなみに忠臣蔵で有名な松の廊下は本丸大広間と将軍に拝謁する白書院とを結んだもの(忠臣蔵を知らない外国人に対し説明するのは超難関 +「ふーん、でも分かんない」と苦労のわりに報われない確率高し)"
 },
 {
 url: "https://wress.github.io/guide-materials/meiji-jingu/spots/honden/",
@@ -205,9 +195,14 @@ title: "夫婦楠",
 body: "夫婦楠 \r\r夫婦楠 読み方はめおとくす。くすのきです。 上の方を見ると一つの大きな木に見えますが、実は二つの木であることからこう呼ばれます。 These trees are called \u0026ldquo;Couple Tree\u0026rdquo;. The two trees look like one big tree when you look the upper part. It is said the trees bring happy marriage and family\u0026rsquo;s safety. \rしめ縄 夫婦楠にはしめ縄がかかっています。日本ではお正月飾りをはじめとしてあちこちで当たり前のように見るしめ縄ですが，外国の方にとっては不思議な飾りなようです。 神聖なものと普通のものを分ける役割があり，神が宿っているとされるものに取り付けられます。神道では八百万の神という言葉に代表されるように，すべてのものに神が宿っていると考えます。そのような考え方から夫婦岩や大木などの自然のものの中でも特殊なものに目を向け，その神を祀るためにしめ縄をしめるそうです。 It\u0026rsquo;s a \u0026ldquo;sacred rope\u0026rdquo;. In Japan, there is a custom of winding a sacred rope around sacred things. It separates a holy place from other unclean places and is considered a barrier against evil spirits. In Shintoninsm, it is believed that every thing has each god. This sacred rope enshrine the trees\u0026rsquo; god. \r"
 },
 {
-url: "https://wress.github.io/guide-materials/asakusa/spots/difference/",
+url: "https://wress.github.io/guide-materials/common/difference/",
 title: "寺と神社の違い",
-body: "寺と神社の違い お寺と神社の違い 浅草には、お寺と神社が同じ敷地内にありこの説明をするにはぴったりのガイド地です。 寺は仏教の建物であり、神社は神道の建物である。 仏教はインドから伝わった宗教で、神道は日本固有の宗教だと説明すると、だいたい理解してくれます。 Temples are places for Buddhism, and Shrines are places for Shinto. Buddhism is from India, and Shinto is Japanese original religion. \rまた、大きな違いとしては、仏教がブッダを祀る一神教であるのに対し、神社は多神教です。「八百万の神」という言葉にもあるように、山、川、葉っぱ、玄関などいろんなものや場所に神様が宿っていると考えます。 In Shinto, people believe that gods are in everything. The god of water, the god of wind, the god of sun and so on. However, in Buddhism, people believe only Buddha. This is one of the biggest differences. \r参拝方法 仏教：一礼 神道：二礼二拍手一礼 これは実際にお参りするときに一緒にやって見せれば大丈夫です ちなみになぜお寺でお辞儀だけなのかというと、目の前にいらっしゃるから！ 神社では、手を叩くことでいろんなところにいる神様に気が付いてもらうという目的があります。"
+body: "寺と神社の違い お寺と神社の違い 浅草には、お寺と神社が同じ敷地内にあります。 寺は仏教の建物であり、神社は神道の建物であす。 仏教はインドから伝わった宗教で、神道は日本固有の宗教だと説明すると、だいたい理解してくれます。 Temples are places for Buddhism, and Shrines are places for Shinto. Buddhism is from India, and Shinto is Japanese original religion. \rまた、大きな違いとしては、仏教がブッダを祀る一神教であるのに対し、神社は多神教です。「八百万の神」という言葉にもあるように、山、川、葉っぱ、玄関などいろんなものや場所に神様が宿っていると考えます。 In Shinto, people believe that gods are in everything. The god of water, the god of wind, the god of sun and so on. However, in Buddhism, people believe only Buddha. This is one of the biggest differences. \r参拝方法 宗教 参拝方法 仏教 一礼 神道 二礼二拍手一礼 これは実際にお参りするときに一緒にやって見せれば大丈夫です ちなみになぜお寺でお辞儀だけなのかというと、目の前にご本尊がいらっしゃるから！ 神社では、手を叩くことでいろんなところにいる神様に気が付いてもらうという目的があります。"
+},
+{
+url: "https://wress.github.io/guide-materials/asakusa/spots/jinja/",
+title: "浅草神社",
+body: "浅草神社 浅草神社 \r\r浅草には、お寺と神社が同じ敷地内にあります。これは神仏習合によるものです。これに関する説明は当該ページを参照のこと。 この神社では隅田川で仏像を引き上げた2人の漁師、桧前浜成・竹成兄弟と、仏像を奉った郵司の土師直中知の3人が祠られているため、「三社さま」として親しまれています。後には徳川家康も祠られました。今の建物は、徳川家光が１６４９年に寄進したものです。 This is Asakusa Shrine. This shrine is liked as \u0026ldquo;Sanja-sama\u0026rdquo; which means \u0026ldquo;three holy gods\u0026rdquo;. The three gods are two fishmen eho found the statue of the goddess of mercy and the head of villege who enshrned it. The Shogun of 400 years ago was also enshirned later. The current building was founded by Iemitsu Tokugawa in 1649. \r"
 },
 {
 url: "https://wress.github.io/guide-materials/info/adding2/",
@@ -235,9 +230,34 @@ title: "記事の追加（その４）",
 body: "記事の追加（その４） この記事ではMarkdown記法を独自に拡張した記法を用いて，記事中に画像を挿入する方法と，記事中の項目をグレーのボックスで囲う方法をお知らせします。 グレーのボックスの追加 グレーのボックスって何かっていうとさっきから表示例とか記述例で散々出てきてるアレです。個人的には英語の例文なんかを書くときにこれで囲んだらいいんじゃないかなと思います。 記述例 {{% ashbox %}} ここがグレーのボックスの中身になります。 {{% /ashbox %}} ここは外側です。 \r表示例 ここがグレーのボックスの中身になります。 \rここは外側です。 始める方は「ashbox」なのに対して，閉じる方は「/ashbox」なことに気を付けてください。 画像の追加1 記事に画像を追加してみます。 まずは画像ファイルを用意し，その３で一覧ページ用の画像を用意した時と同じように，記事の「index.md」を入れたフォルダと同じフォルダに入れます。すると次の画像のようになります。 \r\rこの状態で，「first-tori.jpg」を記事中に表示させてみましょう。 index.mdを開き，記事中の画像を挿入したい位置に次のように記述します。 記述例 {{%image \u0026quot;first-tori.jpg\u0026quot;%}} \r\u0026quot;\u0026quot;で囲むのを忘れないでください。 これは次のように変換されます。 表示例 \rこれでいくらでも画像を挿入することができるようになりました。 画像の追加2 画像の表示の方法が少し違うものも用意しました。こちらでは，画像を文章の右側に配置することができます。 まずは「画像の追加１」と同じように画像ファイルを用意してください。そのうえでindex.mdを開き，記事中の画像を挿入したい位置に次のように記述します。 記述例 {{%image2 \u0026quot;first-tori.jpg\u0026quot;%}} 一番初めの鳥居は集合場所です。一番初めの鳥居は集合場所です。一番初めの鳥居は集合場所です。一番初めの鳥居は集合場所です。一番初めの鳥居は集合場所です。一番初めの鳥居は集合場所です。一番初めの鳥居は集合場所です。一番初めの鳥居は集合場所です。一番初めの鳥居は集合場所です。一番初めの鳥居は集合場所です。一番初めの鳥居は集合場所です。一番初めの鳥居は集合場所です。 {{%/image2%}} \r\u0026quot;\u0026quot;で囲むのを忘れないでください。 これは次のように変換されます。 表示例 一番初めの鳥居は集合場所です。一番初めの鳥居は集合場所です。一番初めの鳥居は集合場所です。一番初めの鳥居は集合場所です。一番初めの鳥居は集合場所です。一番初めの鳥居は集合場所です。一番初めの鳥居は集合場所です。一番初めの鳥居は集合場所です。一番初めの鳥居は集合場所です。一番初めの鳥居は集合場所です。一番初めの鳥居は集合場所です。一番初めの鳥居は集合場所です。 \rこれで画像を本文から回り込ませつつ表示させることができるようになりました。ちなみにスマホなどの幅が狭い端末では文章の下に画像が表示されます。 最後に ここに書いてある以外にも頼んでもらえればいくらでも拡張できるので，記事を作っているときにこんなのが欲しいというようなものがあれば気軽に伝えてください。"
 },
 {
+url: "https://wress.github.io/guide-materials/kokyo/spots/stone-cellar/",
+title: "石室",
+body: "石室 \r\r石室 「いしむろ」と読む。 火事やその他の緊急時に大事なものが延焼しないように運びこんだらしい。 なお、中には入れません。（もし入ったら、皇居警察が飛んで来ます） the Stone-cellar This is Ishimuro. It means stone-cellar. People carried furniture and books here in cases of emergency. \r"
+},
+{
 url: "https://wress.github.io/guide-materials/meiji-jingu/spots/kaguraden/",
 title: "神楽殿",
 body: "神楽殿 \r\r\r正式名所は明治神宮神楽殿。1993年10月に工事が完了した。周囲の景観を損なわないように地下に空間を作っており、この施設では祈願祭を行っている。 実は3階建ての建物で、地上に見える部分は3階に当たる。 結婚式もこちらで行われている。 結婚式の関係者、神宮関係者出ないと入れないので注意。"
+},
+{
+url: "https://wress.github.io/guide-materials/kokyo/spots/tenshudai/",
+title: "天守台",
+body: "天守台 \r\r天守台 江戸城の天守台があったところ。1657年の「振袖火事」で全焼してしまった。 また、ここで集合写真を取ることが多い。 the foundation of observation tower This is the foundation of Observation tower. There were six storied tower. It was burned out in the big fire of 1657. \r振袖火事 ある女の人が、火事のときに一度助けられたカッコいい消防士のことが忘れられず、もう一度会いたいと思い、自分の着物に火を付けたところ、それが広がって江戸の町の3分の2が焼けてしまったと言われている。 Once a woman had been helped by a fire-fighter. He was very cool guy, so she wanted to meet him again, then, she set fire to her own kimono, and the fire burned out two-thirds of Tokyo (Edo). \r日本武道館 1964 年に東京オリンピックで使用するためにつくられた。いまでも、柔道や剣道やコンサートに利用されている。また、2020年の東京オリンピックでも、ここが柔道と空手の会場予定となっている。 ここでコンサートをすることは有名アーティストとしてのステータス・シンボルでもある。ちなみに、ここで初めてコンサートをしたのは、あのビートルズである。 イギリスの方は特に、このビートルズの話を伝えると喜ばれます。 ちなみに、天守台の上から指差して示す時は、You can see the golden onion! というとわかりやすいかもしれないです。 That was built in 1964 for Tokyo Olympic Games. That is used for Judo and any other sports and concerts. In 2020, that will be used for the match venue of karate and judo. Concert in that hall is the status symbol of famous musicians. The first musician who held a concert there is The Beatles. \r"
+},
+{
+url: "https://wress.github.io/guide-materials/kokyo/spots/music-hall/",
+title: "桃華楽堂",
+body: "桃華楽堂 \r\r桃華楽堂 皇太后良子(ながこ)の還暦を記念して造られた八角形の建物で各面はタイルで優雅な絵が描かれている。音書効果が素晴らしいようだが一般人が使うことは許されていない。 また、屋根は梅の花の形をしている。 Tokagakudo music hall This building was built in commemoration of the ex-Empress’s 61st birthday in 1963. (This building was the birthday present for the ex-Empress.) It is octagonal and the acoustics are excellent. Each face has an elegant picture of tiles. It has the flower-shaped roof. If you could see the roof from the sky, it would look like the plum flower. \rTips この先に、ベージュ色の謎の建物がありますが、もし聞かれたら、 This is the office for workers here. と答えればOK。ちなみに、皇居の場合、謎の建物は大抵これでかわせ、しかもあながち間違いではない。"
+},
+{
+url: "https://wress.github.io/guide-materials/kokyo/spots/shiomi/",
+title: "汐見坂",
+body: "汐見坂 \r\r汐見坂 昔はこの坂から海が見えたのでこう呼ばれる。 海岸が埋め立てられた上に、高層ビルが建てられたので、今は海を見ることはできない。 ちょっと先は高層ビルなのに、周りは自然でいっぱいなところが意外と外国の方に人気。 Shiomizaka, or Sea-viewing slope This slope is called Shiomizaka, or Sea-viewing slope. Literally, in old days the ocean could be seen　from this slope. \rTips seaとseeの発音で混乱を招き、必死にシーシー連呼する人が時々いますが、そんな時はoceanという逃げ方があります。 watchには「動くものを観察する、じっと見る」というニュアンスがあるので、「海流を観察した」ならともかく、単に「海を眺めた」程度であろうこの場面に用いると非常に不自然。You could got a good [nice/ fine] view of the sea at that time. はOK。"
+},
+{
+url: "https://wress.github.io/guide-materials/kokyo/spots/garden/",
+title: "三の丸庭園",
+body: "三の丸庭園 三の丸庭園 かつては二の丸があり、表と奥とからなる御殿があった。前将軍の個室があり、晩年を過ごす場所となっていた。3度の火事で焼失し、今あるのは30年前に作り直されたもの。 この庭園は説明よりも、ただ日本庭園を楽しんでもらうことに注力するのもいいと思います！ This place was once called Ninomaru or The Second citadel. There used to be a wonderful palace consist of Omote and Oku. Ninomaru was used as the place where a pre-Shogun\u0026rsquo;s wife spent her last years. It was burned out three times and reconstructed 30 years ago. \r池の鯉 この庭園の池には、金色やいろんな色の鯉がいる。この鯉は、インドネシアと日本のハーフである。この鯉が綺麗と、意外と人気。ちなみに、鯉は英語でCarpですが、こちらよりも Koi fish のほうが通じる。むしろ、Carpだと通じないことも。 花菖蒲 庭園の出口の近くに、木札が添えられて植えられている花菖蒲がある。 見頃は6月。しかし、ガイドする際は時期的に、ほとんど花が見れないのでイネみたいになっているが、実は花菖蒲。 英語名はIris。もし聞かれたら答えれば良い。 都道府県の木 47 都道府県から寄贈されたもの(沖縄の木は当初なかった)。 全30種類、木の本数は260。 ちなみに、東京の木は奥の方にある。 余裕があれば、下見の時に場所だけでも確認しておくと安心。 Tips フリートークのネタとして、ここで自分の出身地の木について紹介したり、外国の方がこれまで訪れた場所や、行く予定の場所を木をきっかけにして話したりすると盛り上がることがあります。 These trees were presented by each prefecture. They are symbol trees of it. Its variety amounts to 30 kinds with the total number of 260. \r茶室 火災などで焼失後、11代将軍・徳川家斉の時に創建。建物は、明治45年に再建されたもので、現在は茶室としての利用はできない。 In old days, this room was used for tea ceremonies. Now, we are not allowed to use it. \r"
 },
 {
 url: "https://wress.github.io/guide-materials/search/data.js",
@@ -267,7 +287,7 @@ body: "坊～乃 \r\r\r海鮮丼やさん。じぇらぁとやを浅草寺方面
 {
 url: "https://wress.github.io/guide-materials/meiji-jingu/about/",
 title: "明治神宮について",
-body: "明治神宮について 明治神宮について 明治神宮は1920年(大正9年)に創建され、総面積は70万m2、明治天皇と昭憲皇太后が祀られてい る神社である。年間参拝者数は800万人であり、初詣の参拝者数は日本一の300万人である。また 横綱の土俵入りや子供の祭りといった幅広い行事を行っている。自然にあふれており、夏でも涼しく、 東京都心のオアシスともいえる観光地である。 所要時間 基本的には30~40分くらいで一周できる。場合によっては1時間以上かかることもある。またキャ ッチ時間は10分くらいである。一回のガイドで2~3組ぐらいがちょうどいいでしょう。 ガイドスタイル 皇居ほどフリートークの比重は大きくなく，浅草ほどフリートークしづらくない。初心者にはうってつけのガイド地。 アクセス JR原宿駅表参道口・東京メトロ明治神宮前駅2番口→徒歩1分で南参道口 JR代々木駅西口・都営地下鉄代々木駅A1出口→徒歩5分で北参道口 小田急電鉄参宮橋駅→徒歩3分で西参道口"
+body: "明治神宮について 明治神宮について 明治神宮は1920年(大正9年)に創建され、総面積は70万m2、明治天皇と昭憲皇太后が祀られてい る神社である。年間参拝者数は800万人であり、初詣の参拝者数は日本一の300万人である。また 横綱の土俵入りや子供の祭りといった幅広い行事を行っている。自然にあふれており、夏でも涼しく、 東京都心のオアシスともいえる観光地である。 集合場所 \r南参道鳥居（一の鳥居）前集合です。JR原宿駅・東京メトロ明治神宮前駅から明治神宮に向かって一つ目の鳥居です。 \r\r\r\r\r 所要時間 基本的には30~40分くらいで一周できる。場合によっては1時間以上かかることもある。またキャ ッチ時間は10分くらいである。一回のガイドで2~3組ぐらいがちょうどいいでしょう。 ガイドスタイル 皇居ほどフリートークの比重は大きくなく，浅草ほどキャッチの成功率も低くない，初心者にはうってつけのガイド地。ただ砂利道で少し歩きにくいかもしれないので靴には気を付けたほうがいいかも。 ただ砂利道で少し歩きにくいかもしれないので靴には気を付けたほうがいいかも。また境内は飲食禁止なので、食べ歩きから帰ってくるときは食べ物は持ち込まないようにしよう。 また境内は飲食禁止なので、食べ歩きから帰ってくるときは食べ物は持ち込まないようにしよう。 アクセス JR原宿駅表参道口・東京メトロ明治神宮前駅2番口→徒歩1分で南参道口 JR代々木駅西口・都営地下鉄代々木駅A1出口→徒歩5分で北参道口 小田急電鉄参宮橋駅→徒歩3分で西参道口"
 },
 {
 url: "https://wress.github.io/guide-materials/asakusa/about/",

@@ -18,5 +18,5 @@
     "start_url": "/guide-materials/",
     "display": "standalone",
     "lang": "ja",
-    "scope": "/"
+    "scope": "/guide-materials/"
 }
