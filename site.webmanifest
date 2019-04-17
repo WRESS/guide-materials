@@ -1,0 +1,22 @@
+{
+    "name": "Guide Materials",
+    "short_name": "Guide Materials",
+    "icons": [
+        {
+            "src": "https://wress.github.io/guide-materials/android-chrome-192x192.png?v=476egEROJN",
+            "sizes": "192x192",
+            "type": "image/png"
+        },
+        {
+            "src": "https://wress.github.io/guide-materials/android-chrome-512x512.png?v=476egEROJN",
+            "sizes": "512x512",
+            "type": "image/png"
+        }
+    ],
+    "theme_color": "#009688",
+    "background_color": "#5a5a5a",
+    "start_url": "/guide-materials/",
+    "display": "standalone",
+    "lang": "ja",
+    "scope": "/guide-materials/"
+}
