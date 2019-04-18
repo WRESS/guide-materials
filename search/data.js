@@ -5,11 +5,6 @@ title: "ガイド",
 body: "ガイド ガイドとは ガイドとは、ESSの活動の一種で観光地へ行き外国人観光客に声をかけ、その場所を英語で案内することによって会話を楽しむとともに、英語で話す力を鍛える活動です。 ESSの活動の中でも特に一番外国の方と接する機会が多い活動です。ネイティブの英語はもちろん、それだけでなく、欧州や南米の各地の訛りを持った“生きた英語”を聞くことができ、実践的な英語を身に着けることができます。 OUESS・WRESSは東京学生ガイド連盟に加盟しており、普段は明治神宮・皇居・浅草の三か所で活動しています。 夏休みには京都ガイドというイベントで京都をガイドしたり、お誘いを受けた際には鎌倉をガイドすることもあります。 WRESS公式サイトのガイド紹介ページ も併せてご覧ください。"
 },
 {
-url: "https://wress.github.io/guide-materials/info/gude-info/",
-title: "ガイドの基本知識",
-body: "ガイドの基本知識 ガイドの基本スタンス 基本的には、外国の方と話すことで、こちらの英語力を高めるとともに、日本について少しでも多く知ってもらいつつ、お話を楽しむことが目的です。 ガイド地のことを紹介するだけでなく、趣味の洋画・洋楽のことを話したり、ワインが好きなら本場フランスの方のオススメを聞いたり、旅行するときのオススメを聞いたりといろんなことをお話してみてください！！ ただ、一点だけ注意。あくまでもこちらは、ガイド「させてもらっている」立場なので、お金は絶対にいただかないでください！ たまに、気前の良い方もいらっしゃいますが、ルールだからと言ってちゃんと断ってください。 ちなみに、SNSを聞くのは大丈夫です！実際、ガイド後もSNS上で仲良く喋っている子もいます！外国の方に人気なfacebookやInstagramは、もしお互いで交換してもいいというのであれば記念に交換してもいいかもしれません。 ガイドの頻出単語 ここでは、ガイドでよく使う単語を紹介します。みんな使うので、すぐに慣れると思います。 コア コアというのはガイドの班のリーダーのことです。 ガイドでは、いつも3-6人の班に分かれて、その班で一日行動します。 ディビジョン((略してディビ) 班のチーム分け表のことです。ガイドの前日ぐらいに発表されます。 キャッチ 観光に来ている外国人に声をかけてガイドさせてもらえないかとお願いすることです。 ガイドの種類 ガイドには大規模ジョイント、（小規模）ジョイント、インナーといった種類があります。 インナーガイド 同じサークル内で開催するガイドのことです。OUESSとWRESSにおいては、この２サークルのみで行うガイドのことを指します。良く見知ったメンバーとガイドできるので安心です。 小規模ジョイントガイド 東京学生ガイド連盟に加盟している大学と一緒に活動するガイドです。３～５大学のサークルでグループを組んでガイドします。同じ班で一日行動するため、OUESS・WRESS外にも友好の輪を広げることができます。 大規模ジョイントガイド 東京学生ガイド連盟に加盟している全サークルが参加するガイドです。規模が大きいため更に友好の輪を広げることができます。毎年決まった時期に開かれており、メトロポリタンジョイント（６月）、サマージョイント（９月）、中大ガイド（９月）、ファイナルガイド（１２月）、東京ガイド（３月）があります。"
-},
-{
 url: "https://wress.github.io/guide-materials/meiji-jingu/spots/first-tori/",
 title: "南参道鳥居",
 body: "南参道鳥居 \r\r\r明治神宮に原宿駅方面から向かった時、一番初めに遭遇する鳥居。別名「第一の鳥居」。ここがガイドの集合場所になる。明治神宮の鳥居はすべて白木(樹皮をむいた建築用材) の状態で作られている。 また本堂まで鳥居がいくつかあるが、これは奥に行くにつれて敷居が高くなるのを表している。"
@@ -32,12 +27,12 @@ body: "神仏習合・分離 神仏習合 神仏習合（しんぶつしゅう�
 {
 url: "https://wress.github.io/guide-materials/asakusa/spots/kaminari-mon/",
 title: "雷門",
-body: "雷門 雷門 正式名称は「風神雷神門」という。門に向かって右側に、袋を持った風神、左側に太鼓を持った雷神がいる。五穀豊穣により、平和な世界になることを願ってつくられた。 高さは約12m、現在の門は1960年に松下幸之助によってつくられた。 Kaminari-mon Gate This outer gate of Senso-ji Temple is called Kaminari-mon. You can see two statues of God: on your right hand the God of Wind is placed, and on your left hand the God of Thunder is placed. The God of Wind has a sack to blow wind, and the God of Thunder has drums to make thunderclap. People believed that those two Gods were protecting this temple from evil spirits and would bring appropriate amount of wind and rain enough to get many crops. 阿吽 風神と雷神ですが、風神が「あ」雷神が「うん」の口をしています。 これは、インドで使われていた言語である、サンスクリット語の最初が「あ」、最後が「ん」であることに由来しており、生と死を表していると言われています。門の両サイドに生と死を表す仏像をおくことで、生と死の間にいる「生き物」にしか通れないようにしていると言われています。つまり、死神や魔物から参道、そして本堂を守っているのです。 英語で説明する場合、「あ」と「うん」ではなく、A と Z で説明すると、外国の方もイメージしやすいかと思います。ただ、入り口なので大混雑ですし、苦労の割に伝わらないので、だいたい割愛します。 もしくは、 Facial expression of the God of Wind represents the birth, and that of the God of Thunder represents the death. It means only living things are allowed to pass through these two statues, and prevents evil spirits from coming inside. 程度で良いでしょう。 提灯 1865年に焼失したものを、1960年にPanasonicの創業者、松下幸之助が寄贈。そのため提灯の下部には「松下電器」の名前が書かれています。 最初は、942年に平公雅によって作られました。五穀豊穣、天下泰平の願いがこめられています。 川柳には「雷門風神様は居候」と詠まれています。正しくは「風雷神門」ですが、江戸時代、風も雷も鳴ることから「神が鳴る門」ということで、「雷門」と江戸っ子の間で呼ばれるようになったそうです。 This gate dates back more than 1,000 years ago. Though burned at least twice, it was rebuilt by the founder of Matsushita electronics. This gate has two images of Dragon Kings. They were put in celebration of the temple\u0026rsquo;s 1350th anniversary. Wind and Thunder both make loud sound, so they were called \u0026ldquo;Kaminari-mon\u0026rdquo;, which means \u0026ldquo;Thunder Gate\u0026rdquo;. 約10年ごとに和紙を張り替えて新調しているそう。門の裏には「天竜」と、「金竜」の二体の像が安置されている。 The lantern is renewaled every 10 years by re-covering washi (Japanese paper on the surface). この提灯の下を覗くと、竜の彫刻を見ることができる。これは、最初の雷門が火災によって焼失したため、水の神である竜が火災から門を守ってくれるようにという願いが込められている。 竜の彫刻の写真を撮りたいようなら、インカメを使うように勧めると喜ばれます\\ ↓この英語、不安なので誰か添削してほしいです\u0026hellip; the Lantern (提灯の下で指をさしながら) You can see a dragon here. The dragon is the God of Water. In old days, this temple was destroyed by fire, so this lantern has the statue of the dragon to protect this temple from fire. The lantern is made new every 10 years by re-covering washi. Tips 提灯は高さ4m、直径3.4m、重さ670kg。松下幸之助は膝の痛みに悩まされていたが、浅草寺に参拝した結果治ったので、雷門再建のため寄付をしたそう。"
+body: "雷門 雷門 正式名称は「風神雷神門」という。門に向かって右側に、袋を持った風神、左側に太鼓を持った雷神がいる。五穀豊穣により、平和な世界になることを願ってつくられた。 高さは約12m、現在の門は1960年に松下幸之助によってつくられた。 Kaminari-mon Gate This outer gate of Senso-ji Temple is called Kaminari-mon. You can see two statues of God: on your right hand the God of Wind is placed, and on your left hand the God of Thunder is placed. The God of Wind has a sack to blow wind, and the God of Thunder has drums to make thunderclap. People believed that those two Gods were protecting this temple from evil spirits and would bring appropriate amount of wind and rain enough to get many crops. 阿吽 風神と雷神ですが、風神が「あ」雷神が「うん」の口をしています。 これは、インドで使われていた言語である、サンスクリット語の最初が「あ」、最後が「ん」であることに由来しており、生と死を表していると言われています。門の両サイドに生と死を表す仏像をおくことで、生と死の間にいる「生き物」にしか通れないようにしていると言われています。つまり、死神や魔物から参道、そして本堂を守っているのです。 英語で説明する場合、「あ」と「うん」ではなく、A と Z で説明すると、外国の方もイメージしやすいかと思います。ただ、入り口なので大混雑ですし、苦労の割に伝わらないので、だいたい割愛します。 もしくは、 Facial expression of the God of Wind represents the birth, and that of the God of Thunder represents the death. It means only living things are allowed to pass through these two statues, and prevents evil spirits from coming inside. 程度で良いでしょう。 提灯 1865年に焼失したものを、1960年にPanasonicの創業者、松下幸之助が寄贈。そのため提灯の下部には「松下電器」の名前が書かれています。 最初は、942年に平公雅によって作られました。五穀豊穣、天下泰平の願いがこめられています。 川柳には「雷門風神様は居候」と詠まれています。正しくは「風雷神門」ですが、江戸時代、風も雷も鳴ることから「神が鳴る門」ということで、「雷門」と江戸っ子の間で呼ばれるようになったそうです。 This gate dates back more than 1,000 years ago. Though burned at least twice, it was rebuilt by the founder of Matsushita electronics. This gate has two images of Dragon Kings. They were put in celebration of the temple\u0026rsquo;s 1350th anniversary. Wind and Thunder both make loud sound, so they were called \u0026ldquo;Kaminari-mon\u0026rdquo;, which means \u0026ldquo;Thunder Gate\u0026rdquo;. 約10年ごとに和紙を張り替えて新調しているそう。門の裏には「天竜」と、「金竜」の二体の像が安置されている。 The lantern is renewaled every 10 years by re-covering washi (Japanese paper on the surface). この提灯の下を覗くと、竜の彫刻を見ることができる。これは、最初の雷門が火災によって焼失したため、水の神である竜が火災から門を守ってくれるようにという願いが込められている。 竜の彫刻の写真を撮りたいようなら、インカメを使うように勧めると喜ばれます the Lantern (提灯の下で指をさしながら) You can see a dragon here. The dragon is the God of Water. In old days, this temple was destroyed by fire, so this lantern has the statue of the dragon to protect this temple from fire. The lantern is made new every 10 years by re-covering washi. Tips 提灯は高さ4m、直径3.4m、重さ670kg。松下幸之助は膝の痛みに悩まされていたが、浅草寺に参拝した結果治ったので、雷門再建のため寄付をしたそう。"
 },
 {
-url: "https://wress.github.io/guide-materials/info/materials/",
-title: "マテリアル",
-body: "マテリアル マテリアルとは マテリアルとは、ガイドをするための資料のことです。各観光地に何があり、どのようなことを説明したらよいのかを記載してあります。 各大学のESSが独自に製作しており、このマテリアルもそのうちの一つです。 2019年現在では東京外国語大学ESSや東京大学ESSの作ったマテリアルが主流なようです。 マテリアルの使い方 マテリアルには様々な知識が書いてあり、英文も記載しています。丸暗記しても良いのですが、会話の中で取り出す知識や言い回しを覚えておいて、会話の中で自然に取り出せるようになると良いでしょう。 ガイドの一番の目的は、案内することではなく、会話などを通して楽しむことです。もちろん案内させていただく以上最低限の知識がないとまずいですが、まずは異国の地からはるばるやってきた方と会話を楽しむことを忘れないでください。"
+url: "https://wress.github.io/guide-materials/info/gude-info/",
+title: "ガイドの基本知識",
+body: "ガイドの基本知識 ガイドの基本スタンス 基本的には、外国の方と話すことで、こちらの英語力を高めるとともに、日本について少しでも多く知ってもらいつつ、お話を楽しむことが目的です。 ガイド地のことを紹介するだけでなく、趣味の洋画・洋楽のことを話したり、ワインが好きなら本場フランスの方のオススメを聞いたり、旅行するときのオススメを聞いたりといろんなことをお話してみてください！！ ただ、一点だけ注意。あくまでもこちらは、ガイド「させてもらっている」立場なので、お金は絶対にいただかないでください！ たまに、気前の良い方もいらっしゃいますが、ルールだからと言ってちゃんと断ってください。 ちなみに、SNSを聞くのは大丈夫です！実際、ガイド後もSNS上で仲良く喋っている子もいます！外国の方に人気なfacebookやInstagramは、もしお互いで交換してもいいというのであれば記念に交換してもいいかもしれません。 ガイドの頻出単語 ここでは、ガイドでよく使う単語を紹介します。みんな使うので、すぐに慣れると思います。 コア コアというのはガイドの班のリーダーのことです。 ガイドでは、いつも3-6人の班に分かれて、その班で一日行動します。 ディビジョン((略してディビ) 班のチーム分け表のことです。ガイドの前日ぐらいに発表されます。 キャッチ 観光に来ている外国人に声をかけてガイドさせてもらえないかとお願いすることです。 ガイドの種類 ガイドには大規模ジョイント、（小規模）ジョイント、インナーといった種類があります。 インナーガイド 同じサークル内で開催するガイドのことです。OUESSとWRESSにおいては、この２サークルのみで行うガイドのことを指します。良く見知ったメンバーとガイドできるので安心です。 小規模ジョイントガイド 東京学生ガイド連盟に加盟している大学と一緒に活動するガイドです。３～５大学のサークルでグループを組んでガイドします。同じ班で一日行動するため、OUESS・WRESS外にも友好の輪を広げることができます。 大規模ジョイントガイド 東京学生ガイド連盟に加盟している全サークルが参加するガイドです。規模が大きいため更に友好の輪を広げることができます。毎年決まった時期に開かれており、メトロポリタンジョイント（６月）、サマージョイント（８月）、中大ガイド（９月）、ファイナルガイド（１２月）、東京ガイド（３月）があります。"
 },
 {
 url: "https://wress.github.io/guide-materials/kokyo/spots/shozokan/",
@@ -55,9 +50,9 @@ title: "南参道",
 body: "南参道 道幅は8間(約14.4m)であり明治神宮内の他の参道と比べて一番広い。お正月には参拝者で埋め尽くされる。 この参道には玉砂利と呼ばれる白く小さい石が敷き詰められている。日本人にとって神社にこのような砂利が引かれているのは当たり前だが、外国人にとっては「どうしてわざわざ歩きづらくするのか」と不思議に思うこともあるらしい。もはや当たり前すぎて詳しい理由はわかっていないそうだが、一説には、清浄な石を踏むことで身を清める効果があるとのこと（参考：明治神宮-Q\u0026amp;A-）。"
 },
 {
-url: "https://wress.github.io/guide-materials/info/guide-materials/",
-title: "このサイトについて",
-body: "このサイトについて Guide Materials 今までのマテリアルはPDF形式で制作されていました。PDF形式では印刷しやすく、表示も崩れにくいという利点もありますが、見たい記事にすぐには飛べない、スマホの小さい画面では見づらいなどの弱点があります。 このマテリアルはWebサイトとして作られており、スマホでもPCでも、更に印刷しても見やすいものを目指しています。 また、PDF形式では情報量を多くしすぎると縦に長くなって見づらくなるという弱点がありました。このマテリアルでは必要度によって記事を振り分けることにより、難解な記事までもカバーしつつ余計な情報は省いて見ることもできます。 このマテリアルは記事の追加が簡単にできるようになっています。記事の追加については記事の追加をご覧ください。 なお、制作にあたっては東京大学ESS、東京外国語大学ESS制作のマテリアル、および明治神宮公式サイト、宮内庁参観音声ガイドアプリ、浅草寺公式サイトなどを参考にさせていただきました。 印刷について このマテリアルでは印刷用のページを用意しています。この印刷用のページを用いることで、全てのページを一度に印刷することができます。印刷する場合は次のページをそれぞれご利用ください。 基本情報 共通知識 明治神宮 皇居東御苑 浅草寺 また、個々のページのみを印刷したい場合は印刷したいページで右クリックなどから印刷を選択することで印刷できます。 誤植を見つけた際は このマテリアルはOUESS・WRESSガイドセクションによって管理されています。誤植を見つけた際は、私たちに連絡をいただけると助かります。"
+url: "https://wress.github.io/guide-materials/info/materials/",
+title: "マテリアル",
+body: "マテリアル マテリアルとは マテリアルとは、ガイドをするための資料のことです。各観光地に何があり、どのようなことを説明したらよいのかを記載してあります。 各大学のESSが独自に製作しており、このマテリアルもそのうちの一つです。 2019年現在では東京外国語大学ESSや東京大学ESSの作ったマテリアルが主流なようです。 マテリアルの使い方 マテリアルには様々な知識が書いてあり、英文も記載しています。丸暗記しても良いのですが、会話の中で取り出す知識や言い回しを覚えておいて、会話の中で自然に取り出せるようになると良いでしょう。 ガイドの一番の目的は、会話などを通して楽しむことです。もちろん案内させていただく以上最低限の知識がないとまずいですが、まずは異国の地からはるばるやってきた方と会話を楽しむことを忘れないでください。"
 },
 {
 url: "https://wress.github.io/guide-materials/asakusa/spots/nakamise/",
@@ -70,11 +65,6 @@ title: "同心番所",
 body: "同心番所 番所 「番所」とは警備用の小屋であり、現在３つ残っている。奥にほど位の高い役人が配属されていた。 同心番所 「同心」とは下級の武士ことである。主に大名の従者を監視することが仕事であった。 This is Dohshin-bansho. Dohshin means a guard-man, and bansho means guardhouse. Guardhouses were set at important places near the gates."
 },
 {
-url: "https://wress.github.io/guide-materials/common/kamon/",
-title: "家紋",
-body: "家紋 家紋 家紋は日本の家庭が持つ紋章です。"
-},
-{
 url: "https://wress.github.io/guide-materials/print/meiji-jingu/",
 title: "明治神宮 - 印刷用ページ",
 body: "明治神宮 - 印刷用ページ"
@@ -85,9 +75,14 @@ title: "酒樽・ワイン樽",
 body: "酒樽・ワイン樽 南参道には酒樽201本とワインの樽がある。これらは明治神宮に祀られている明治天皇への献上品である。 酒樽 酒樽は日本各地から送られたものである。樽にはお酒の名前が書いてある。 残念ながらこれらは展示用であり、すべて空である。 ちなみに日本酒を英語で\u0026rdquo;sake\u0026ldquo;という。発音記号は\u0026rdquo;sάːki\u0026rdquo; 基本的にキャッチしたらざっと自己紹介した後すぐにこれを説明することになるのでパッといえるように。 These are sake ballels. Have you ever drunk sake? Meiji Jingu enshrines Meiji Emperor. They are given to him by all over Japan. They are empty and just for display. Tips 外国の方の中には酒樽に書いてある言葉がどんな意味なのか気になる方もたまにいる。大体は地名などなので、意味を理解してもらうのは難しい。わかりやすいものとしては真ん中下段のあたりに「富士」と書いた樽がある。Mt.Fujiは日本に旅行に来る外国人にもわかるはずなのでそれを説明すると良いかも。 ワイン樽 振り向くとそこにはワイン樽がある。これらはワイン好きだった明治天皇のためにフランスから寄贈されたものである。ガイドしたヨーロッパの人から聞いた話だが、やっぱりどれも高級なワインらしい。 フランスのワインなのでそれぞれフランスの地名が名前になっている様子。 These are wine ballels. They are sent by France because Meiji Emperor loved it very much. Tips ここから次のガイドスポットの大鳥居まではある程度距離があるので\u0026rdquo;Do you often drink wine?\u0026ldquo;なんて話をしても良いかも。"
 },
 {
+url: "https://wress.github.io/guide-materials/info/guide-materials/",
+title: "このサイトについて",
+body: "このサイトについて Guide Materials 今までのマテリアルはPDF形式で制作されていました。PDF形式では印刷しやすく、表示も崩れにくいという利点もありますが、見たい記事にすぐには飛べない、スマホの小さい画面では見づらいなどの弱点があります。 このマテリアルはWebサイトとして作られており、スマホでもPCでも、更に印刷しても見やすいものを目指しています。 また、PDF形式では情報量を多くしすぎると縦に長くなって見づらくなるという弱点がありました。このマテリアルでは必要度によって記事を振り分けることにより、難解な記事までもカバーしつつ余計な情報は省いて見ることもできます。 このマテリアルは記事の追加が簡単にできるようになっています。記事の追加については記事の追加をご覧ください。 なお、制作にあたっては東京大学ESS、東京外国語大学ESS制作のマテリアル、および明治神宮公式サイト、宮内庁参観音声ガイドアプリ、浅草寺公式サイトなどを参考にさせていただきました。 印刷について このサイトでは印刷用のページを用意しています。この印刷用のページを用いることで、全てのページを一度に印刷することができます。印刷する場合は次のページをそれぞれご利用ください。 基本情報 共通知識 明治神宮 皇居東御苑 浅草寺 また、個々のページのみを印刷したい場合は印刷したいページで右クリックなどから印刷を選択することで印刷できます。 誤植を見つけた際は このマテリアルはOUESS・WRESSガイドセクションによって管理されています。誤植を見つけた際は、私たちに連絡をいただけると助かります。"
+},
+{
 url: "https://wress.github.io/guide-materials/meiji-jingu/spots/otori/",
 title: "大鳥居",
-body: "大鳥居 大鳥居 日本一大きいヒノキ製の木造鳥居であり、高さ12m、柱間9.1m、柱の径1.2m、重さ13tもある。 実はこの鳥居は二代目であり、初代は昭和41年(1966)に落雷のため破損してしまい、現在は昭和50年(1975年)12月に新しくできたものである。鳥居の上の方には皇室のご紋である十六葉八重表菊がついている。 再建の際には日本に大樹が残っていなかったことからわざわざ台湾から樹齢1500年以上の大樹を取り寄せたそう。 \u0026ldquo;Can you guess how tall the gate is?\u0026ldquo;みたいな感じでクイズ形式にするのも面白いかも。 This is the biggest wooden Torii in Japan. It is made with cedar and the height is 12m, column 9.1m, beam diameter 1.2m, weight is 13t. This Torii is not the original. The original one was destroyed by lightning in 1966 and this one was put in place in 1975. Because there was no huge tree enough to be made into tori in Japan, trees which is 1500 years old were imported from Taiwan. 鳥居の三つの役割 鳥居には三つ役割があります。この鳥居に来たら説明することの定番です！　明治神宮以外でも使えるので、まずはぜひこれを覚えてください。 神社の神域と私たちの世界との境界を示すもの 邪悪なものを入れないようにする結界 私たちの身を清めるため。 It is the boundary between human area and sacred area. It prevents evil spirits from coming into sacred area. It purifies people passing through. 菊の紋章 鳥居の上の方に見える丸い紋章は菊の花。秋頃ガイドに行くと、菊が参道に飾られているのも、菊が皇室の紋章だからである。 菊(Chrysanthemum) = 太陽 = 太陽の子 = 天皇　ということで、皇室の紋章は菊になった。太陽と聞けば、「sun flower = ひまわり」となりそうだが、現在見かけるひまわりは、西洋ひまわりといい元々日本にあるものではない。ちなみに、形が似て見えるタンポポも西洋タンポポがほとんど。日本原産のものはほぼ絶滅に近い。 ちなみに、菊は国花でもある(桜と菊の二つ)。ただし、原産国は中国で7世紀ごろに日本にもたらされた。"
+body: "大鳥居 大鳥居 日本一大きいヒノキ製の木造鳥居であり、高さ12m、柱間9.1m、柱の径1.2m、重さ13tもある。 実はこの鳥居は二代目であり、初代は昭和41年(1966)に落雷のため破損してしまい、現在は昭和50年(1975年)12月に新しくできたものである。鳥居の上の方には皇室のご紋である十六葉八重表菊がついている。 再建の際には日本に大樹が残っていなかったことからわざわざ台湾から樹齢1500年以上の大樹を取り寄せたそう。 \u0026ldquo;Can you guess how tall the gate is?\u0026ldquo;みたいな感じでクイズ形式にするのも面白いかも。 This is the biggest wooden Torii in Japan. It is made with cedar and the height is 12m, column 9.1m, beam diameter 1.2m, weight is 13t. This Torii is not the original. The original one was destroyed by lightning in 1966 and this one was put in place in 1975. Because there was no huge tree enough to be made into tori in Japan, trees which is 1500 years old were imported from Taiwan. 日本人でもしていない人は多いですが，一応鳥居の前ではお辞儀をするのが作法です。 Bow once when entering. Bow once when leaving. 鳥居の三つの役割 鳥居には三つ役割があります。この鳥居に来たら説明することの定番です！　明治神宮以外でも使えるので、まずはぜひこれを覚えてください。 神社の神域と私たちの世界との境界を示すもの 邪悪なものを入れないようにする結界 私たちの身を清めるため。 It is the boundary between human area and sacred area. It prevents evil spirits from coming into sacred area. It purifies people passing through. 菊の紋章 鳥居の上の方に見える丸い紋章は菊の花。秋頃ガイドに行くと、菊が参道に飾られているのも、菊が皇室の紋章だからである。 菊(Chrysanthemum) = 太陽 = 太陽の子 = 天皇　ということで、皇室の紋章は菊になった。太陽と聞けば、「sun flower = ひまわり」となりそうだが、現在見かけるひまわりは、西洋ひまわりといい元々日本にあるものではない。ちなみに、形が似て見えるタンポポも西洋タンポポがほとんど。日本原産のものはほぼ絶滅に近い。 ちなみに、菊は国花でもある(桜と菊の二つ)。ただし、原産国は中国で7世紀ごろに日本にもたらされた。"
 },
 {
 url: "https://wress.github.io/guide-materials/common/tenno/",
@@ -97,12 +92,7 @@ body: "天皇制 天皇 天皇は日本の His Majesty 天照大神 神武天皇
 {
 url: "https://wress.github.io/guide-materials/asakusa/spots/hozo-mon/",
 title: "宝蔵門",
-body: "宝蔵門 宝蔵門 942年に建立されたといわれている。 1649年、3代徳川家光により仁王門として再建される。 国宝の法華経や大蔵経などが、この門の2階に収蔵されている。 宝蔵門の像は金剛力士像（または仁王像）で、金剛力士は仏教での神（インド土着の神。天と呼ばれる）にあたり、守護神としての役割を持つため門に祀られている。 こちらの像も「あうん」になっているが、雷門が右が「あ」左が「うん」であるのに対し、左が「あ」右が「うん」となっている。あえて逆にすることで、より強い力でこの寺を守ろうとしたと言われている。 Houzou-mon Gate The second gate is called Hozo-mon Gate, the main gate of Senso-ji Temple. Hozo-mon means \u0026ldquo;Treasure Gate\u0026rdquo;. The invaluable Japanese sutras (Buddhist literature) are placed at the second floor. It has two guardians called \u0026ldquo;Nio-zou\u0026rdquo; . They are protecting the temple. The guardian on the left hand says ”A” and the one on the right hand says “UM”. It has the same meaning as those in “Kaminari-mon”, but their position is different. Tips こちらの提灯には「小舟町」と書かれている。これはこの提灯が日本橋小舟町から寄付されたからである。"
-},
-{
-url: "https://wress.github.io/guide-materials/info/necessity/",
-title: "必要度",
-body: "必要度 必要度とは 各記事の知識がどれくらいガイドに必要かを☆の数で表したものです。 ☆、☆☆、☆☆☆の三段階で評価しています。 星の数 説明 ☆ ガイドするにあたってあまり必要とされない知識 ☆☆ ガイドするのに知っていると便利だが、必ずしも必須というわけではない知識 ☆☆☆ ガイドするなら必ず知っておいてほしい知識 各地のガイドスポットページの上部にあるチェックボックスをオンオフすることで各必要度の表示をオンオフすることができます。これに応じて各記事の一番下にある「前のページへ」「次のページへ」のボタンも、チェックボックスを外した必要度の記事を除いたものに変化します。"
+body: "宝蔵門 宝蔵門 942年に建立されたといわれている。 1649年、3代徳川家光により仁王門として再建された。 国宝の法華経や大蔵経などが、この門の2階に収蔵されている。 宝蔵門の像は金剛力士像（または仁王像）で、金剛力士は仏教での神（インド土着の神。天と呼ばれる）にあたり、守護神としての役割を持つため門に祀られている。 こちらの像も「あうん」になっているが、雷門が右が「あ」左が「うん」であるのに対し、左が「あ」右が「うん」となっている。あえて逆にすることで、より強い力でこの寺を守ろうとしたと言われている。 Houzou-mon Gate The second gate is called Hozo-mon Gate, the main gate of Senso-ji Temple. Hozo-mon means \u0026ldquo;Treasure Gate\u0026rdquo;. The invaluable Japanese sutras (Buddhist literature) are placed at the second floor. It has two guardians called \u0026ldquo;Nio-zou\u0026rdquo; . They are protecting the temple. The guardian on the left hand says ”A” and the one on the right hand says “UM”. It has the same meaning as those in “Kaminari-mon”, but their position is different. Tips こちらの提灯には「小舟町」と書かれている。これはこの提灯が日本橋小舟町から寄付されたからである。"
 },
 {
 url: "https://wress.github.io/guide-materials/kokyo/spots/hyakunin/",
@@ -115,11 +105,6 @@ title: "皇居東御苑 - 印刷用ページ",
 body: "皇居東御苑 - 印刷用ページ"
 },
 {
-url: "https://wress.github.io/guide-materials/common/omikuji/",
-title: "おみくじ",
-body: "おみくじ おみくじ"
-},
-{
 url: "https://wress.github.io/guide-materials/kokyo/spots/oh-bansho/",
 title: "大番所・中之門跡",
 body: "大番所・中之門跡 中之門 江戸時代には中之門と呼ばれる門がありました。本丸に入る前の最初の門として厳重に作られており、今でも石垣にその様子を伺うことができます。 In Edo period, a gate called Nakano-mon. The structure is built strongly because the gate was the most important as the first gate on the slope leading up the Hon-maru. 大番所 他の番所より格上で、最も強い同心がいた。 ただ、同心番所と百人番所が十分強かったために、ここまで敵が到達することはなかったと言われている。 The strongest guardiands guarded here. However, it is said that they don\u0026rsquo;t have to fight enemies because Dohshin-bansho and Hyakunin-bansho were strong enough. 大番所先の坂 大番所から本丸広場に向けてえらく急な坂がある。これには、敵の乗ってくる馬が進みにくくする目的があった。よくみてみると、坂の横の壁には大手門と同じような小さい穴が見つけられる。この坂の勾配により、スピードが落ちた馬をその穴から狙う作戦だったようだ。 また、坂が右側にカーブしているのも、馬が反時計周りのカーブが苦手だったからと言われている。 In old days, enemies attacked with horses. Horses are not good at going up a steep hill and turning to the right compare to turning to the left. The center of the castle was over there. It is difficult for enemies to attack the main castle."
@@ -128,6 +113,11 @@ body: "大番所・中之門跡 中之門 江戸時代には中之門と呼ば�
 url: "https://wress.github.io/guide-materials/asakusa/spots/straw/",
 title: "大草履",
 body: "大草履 大草履 仁王像制作者である村岡久作氏の出身地と言うご縁で山県村山市楯岡の有志らが村から奉納したもの。浅草寺は、その信者も多くおり、彼らもそのうちの何人かである。浅草寺にはこんな大きなわらじをはく人がいるならと驚いて魔が去っていくという、魔除けと健脚を願い「わらじ」に触れていく人もいるそう。左右一対になっている。 Big Straw Sandals On the back side of Hozo-mon Gate, we can see a pair of big straw sandals. They were donated from the village in Yamagata Prefecture (in the north area of Japan) as believers of Senso-ji Temple. People believed that evil spirits would escape from the temple when they saw the big sandals thinking that God in Asakusa is so big."
+},
+{
+url: "https://wress.github.io/guide-materials/info/necessity/",
+title: "必要度",
+body: "必要度 必要度とは 各記事の知識がどれくらいガイドに必要かを☆の数で表したものです。 ☆、☆☆、☆☆☆の三段階で評価しています。 星の数 説明 ☆ ガイドするにあたってあまり必要とされない知識 ☆☆ ガイドするのに知っていると便利だが、必ずしも必須というわけではない知識 ☆☆☆ ガイドするなら必ず知っておいてほしい知識 各地のガイドスポットページの上部にあるチェックボックスをオンオフすることで各必要度の表示をオンオフすることができます。これに応じて各記事の一番下にある「前のページへ」「次のページへ」のボタンも、チェックボックスを外した必要度の記事を除いたものに変化します。"
 },
 {
 url: "https://wress.github.io/guide-materials/meiji-jingu/spots/gyoen/",
@@ -140,11 +130,6 @@ title: "浅草寺 - 印刷用ページ",
 body: "浅草寺 - 印刷用ページ"
 },
 {
-url: "https://wress.github.io/guide-materials/info/question/",
-title: "よくある質問",
-body: "よくある質問 ここでは、今までで聞かれると少し困った質問とその回答を載せておきます。私たち日本人が当たり前に感じていることも、外国の方には新鮮で、思いもしない質問が飛んでくることもあります。その時に備えてさらっと目を通しておくといいでしょう。 食べ物に関して 日本食の話の流れから、食べ物関係の質問は多いです。 オススメのレストランはある？ もうこの回答は人それぞれです。比較的聞かれる回数が多いので、自分が聞かれたらここを答えるというのを決めておくといいと思います。 参考までに、かつて喜んでいただいた例をいくつか紹介します。 まず、「大戸屋」。これはチェーン店なので外国の方も見つけやすいと思います。また、メニューに日本の家庭料理が多いので、外国の方がイメージするようないわゆる日本食（寿司、天ぷらなど）とはまた違った日本食を食べられます。 次に、今日本で流行っているもの。 先日はタピオカを紹介しました。ガイドの活動で出会ったからこそ、今大学生の間で流行っているものを紹介できます。ネットではまだ取り上げられていないようなディープな好みでも紹介する価値ありだと思います。 文化・習慣に関して 日本の文化や習慣に関しての質問です。 漢字はだいたい何字あるの？ 日本の漢和辞典に載っているのは、1万(ten thousand)前後です。 漢字をいくつ覚えているの？ 常用漢字表には、2136字載っています。これらのほとんどを中学までに習います。ちなみに、小学校6年間で約半分にあたる1000字少しを習います。//英検の範囲で例えるなら、高校卒業レベルの2級で2136字、大学・一般程度の準1級だと約3000字、1級で約6000字です。 * 明治神宮での質問 (結婚式が見れた時に)日本人はみんなこの形式の結婚式なの？ 皇居での質問 天皇は実際ここに住んでいるの？ 近くには住んでいますが、そこに入ることはできません。高台からもお住いの方は見えないようになっています。 松の木とか盆栽ってなんでこんな形なの？ 浅草での質問 「せんべい」を指差して、あれ何？\\ こういう寺とかに、日本人はよく来るの？ （この質問は、自分の感覚で答えてくれればいいですが、一応例として答えやすい回答も載せておきます） 年末年始とか、七五三とかの節目のイベントの時にはくるけど、お祈りのためにくる人は少ないです。ただの、観光目的でくる人も大勢います。"
-},
-{
 url: "https://wress.github.io/guide-materials/info/catch/",
 title: "キャッチ",
 body: "キャッチ 外国人を捕まえることをキャッチといいます（あまり聞こえのいい言葉ではないですが……）。 キャッチのフレーズ まず、英語圏の方か確認しましょう。 Excuse me, do you speak English? Yesとかえってきたらまず、私たちの身分を明かし、目的を伝えましょう。 We are university students learning English. We would like to guide you around here to improve our English skills and to enjoy talking with you. 無料であることを伝えるのも大切です。 Of course, it\u0026rsquo;s free of charge. 最後にもう一回確認しましょう。 Could I join you? 相手が承諾してくれたら、いよいよガイドスタートです！自己紹介をして、ガイドを始めましょう！ なお、急いでいる人や、すでに何回かきたことがあると言って、ガイドを断る方ももちろんいます。そんな方には、 Have a good time :) などと気持ちよく挨拶して別れましょう。 キャッチのポイント あまり急いでなさそうなゆっくり観光している方がオススメです。 仲の良さそうな若いカップル(手を繋いでいるなど)は遠慮しましょう。きっと二人で仲良く観光したいはずです。 子どもづれもやめましょう。子どもが飽きてしまいます。 もちろん、日本人がすでについているグループもやめておきましょう。"
@@ -153,11 +138,6 @@ body: "キャッチ 外国人を捕まえることをキャッチといいます
 url: "https://wress.github.io/guide-materials/asakusa/spots/five/",
 title: "五重の塔",
 body: "五重の塔 五重の塔 浅草寺本堂・雷門・宝蔵門と同じ942年に建立されたといわれる。現在のものは戦後1973年に再建されたもの。 高さは48.32mで、京都の東寺の五重の塔に次いで日本で2番目に大きい。 ５階にはスリランカから送られた仏陀の骨（聖仏舎利）がおさめられている。 各階はそれぞれ、下から順に、地・水・火・風・空の世界を表しており、一つの塔で仏教的な宇宙観を表していると言われている。 the Five-storied Pagoda The Five Storied Pagoda in Asakusa seemed to be built in 942. The today’s pagoda was rebuilt in 1973 after World War II. If we consider only the height of pagoda, it is the second tallest pagoda in Japan (the tallest one is in To-ji Temple in Kyoto). On the fifth floor, the bone of Buddha given from a temple in Sri Lanka is placed. Each floor has each meaning. First floor represents the ground. Second floor represents water. Third floor represents fire. Fourth floor represents wind. Fifth floor represents the sky. So it is said that this five-storied pagoda itself represents the earth. Tips 戦前は、本堂の東にあったが、戦後再建の時西側に移された。建物の上に塔を建てる塔院造りが採用されていて、中には、信徒食堂・会議室・文庫もある。また永代供養の霊牌12000鉢、観音像100体が安置されている。 江戸時代には江戸四塔または江戸六塔の一つとして数えられ、絵画には必ず描かれる浅草のランドマークであった。"
-},
-{
-url: "https://wress.github.io/guide-materials/common/chozu/",
-title: "手水",
-body: "手水 手水 あああ"
 },
 {
 url: "https://wress.github.io/guide-materials/meiji-jingu/spots/masugata/",
@@ -170,14 +150,19 @@ title: "おみくじ",
 body: "おみくじ おみくじ 参道を歩いているとカラカラ音がして、「なにこの音？」と突っ込んできた外国の方がいたら説明して一緒にやるか聞いてみましょう。（もちろん、突っ込まれる前に説明するのも大丈夫です◎） おみくじのひき方 百円玉を入れる 箱を振る 箱をひっくり返して振る 出てきた棒の先に書かれた番号を見つけておみくじを引く おみくじを読む 運が悪ければ紐に結ぶ Fortune-telling Paper Insert ¥100 coin Shake the box Turn it upside down and shake again Find the same number as is written at the tip of the stick and take one paper Read it carefully If the fortune on the paper is bad, tie it on the rope to brush away bad fortune"
 },
 {
+url: "https://wress.github.io/guide-materials/info/question/",
+title: "よくある質問",
+body: "よくある質問 ここでは、今までで聞かれると少し困った質問とその回答を載せておきます。私たち日本人が当たり前に感じていることも、外国の方には新鮮で、思いもしない質問が飛んでくることもあります。その時に備えてさらっと目を通しておくといいでしょう。 食べ物に関して 日本食の話の流れから、食べ物関係の質問は多いです。 オススメのレストランはある？ もうこの回答は人それぞれです。比較的聞かれる回数が多いので、自分が聞かれたらここを答えるというのを決めておくといいと思います。 参考までに、かつて喜んでいただいた例をいくつか紹介します。 まず、「大戸屋」。これはチェーン店なので外国の方も見つけやすいと思います。また、メニューに日本の家庭料理が多いので、外国の方がイメージするようないわゆる日本食（寿司、天ぷらなど）とはまた違った日本食を食べられます。 次に、今日本で流行っているもの。 先日はタピオカを紹介しました。ガイドの活動で出会ったからこそ、今大学生の間で流行っているものを紹介できます。ネットではまだ取り上げられていないようなディープな好みでも紹介する価値ありだと思います。 文化・習慣に関して 日本の文化や習慣に関しての質問です。 漢字はだいたい何字あるの？ 日本の漢和辞典に載っているのは、1万(ten thousand)前後です。 漢字をいくつ覚えているの？ 常用漢字表には、2136字載っています。これらのほとんどを中学までに習います。ちなみに、小学校6年間で約半分にあたる1000字少しを習います。//英検の範囲で例えるなら、高校卒業レベルの2級で2136字、大学・一般程度の準1級だと約3000字、1級で約6000字です。 * 明治神宮での質問 (結婚式が見れた時に)日本人はみんなこの形式の結婚式なの？ 皇居での質問 天皇は実際ここに住んでいるの？ 近くには住んでいますが、そこに入ることはできません。高台からもお住いの方は見えないようになっています。 松の木とか盆栽ってなんでこんな形なの？ 浅草での質問 「せんべい」を指差して、あれ何？ こういう寺とかに、日本人はよく来るの？ （この質問は、自分の感覚で答えてくれればいいですが、一応例として答えやすい回答も載せておきます） 年末年始とか、七五三とかの節目のイベントの時にはくるけど、お祈りのためにくる人は少ないです。ただの、観光目的でくる人も大勢います。"
+},
+{
 url: "https://wress.github.io/guide-materials/info/free-talk/",
 title: "フリートーク",
-body: "フリートーク フリートーク ガイドの一番の目的は、案内することではなく、会話を楽しむことです。実際各ガイド地にはガイドするスポット間の距離が離れており、フリートークが必要になる場面も多くあります。そこで、このページではフリートークのノウハウを記述します。 話題 フリートークの話題にはある程度典型的なものがあります。この項ではその話題に関して記述します。 出身地系 Where are you from? 鉄板です。キャッチが成功したら真っ先に聞きましょう。派生の話題として、自分が行ったことがあるかどうかや、その地で有名なものの話題につながります。 旅系 When did you come to Japan? Why did you come to Japan? かなり重要な質問です。 Is this your first trip to Japan? 日本に初めて来たかどうか。 Where did you go in Japan? Where will you go in Japan? What do you do? 食べ物系 Did you try Japanese food? 日本食は食べたことがある人がほとんどですが、この質問から、昨日あれを食べたとか、オススメはなに？とかいろんな話題に広がります。 好きな日本食やぜひ行ってほしいレストランがあればオススメしてみましょう。 イベント系 How do you spend on Christmas day? How do you spend on New Year\u0026rsquo;s Day? What is the most big event in your country? クリスマス、正月、バレンタイン、ハロウィンなど日本でもメジャーなイベントも海外では、違った楽しみ方、伝統的な過ごし方があるかもしれません。日本のも紹介しつつ、文化の違いが聞けるのもガイドの楽しみの一つです。"
+body: "フリートーク フリートーク ガイドの一番の目的は、案内することではなく、会話を楽しむことです。実際各ガイド地にはガイドするスポット間の距離が離れており、フリートークが必要になる場面も多くあります。そこで、このページではフリートークのノウハウを記述します。 話題 フリートークの話題にはある程度典型的なものがあります。この項ではその話題に関して記述します。 出身地系 Where are you from? 鉄板です。キャッチが成功したら真っ先に聞きましょう。派生の話題として、自分が行ったことがあるかどうかや、その地で有名なものの話題につながります。 旅系 When did you come to Japan? Why did you come to Japan? 大多数は日本へ観光しに来た人ですが，時には日本に住んでいる人も見かけます。まずはバックグラウンドを知ることから始めましょう。 Is this your first trip to Japan? 日本に来たことのある人とない人では持つ感想が異なるはずです。ぜひ聞いてみましょう。 Where did you go in Japan? Where will you go in Japan? What do you do? 相手が観光しに日本に来ているようであれば旅のプランを聞いてみましょう。 お勧めの観光地を教えたり，これ以前に行ったところでのエピソードなども聞けるはずです。 食べ物系 Did you try Japanese food? 日本食は食べたことがある人がほとんどですが、この質問から、昨日あれを食べたとか、オススメはなに？とかいろんな話題に広がります。 好きな日本食やぜひ行ってほしいレストランがあればオススメしてみましょう。 イベント系 How do you spend on Christmas day? How do you spend on New Year\u0026rsquo;s Day? What is the most big event in your country? クリスマス、正月、バレンタイン、ハロウィンなど日本でもメジャーなイベントも海外では、違った楽しみ方、伝統的な過ごし方があるかもしれません。日本のも紹介しつつ、文化の違いが聞けるのもガイドの楽しみの一つです。 天気・気候の話 It\u0026rsquo;s too hot. Is it as hot in Japan as in your country? 特に夏・冬はしやすい天気の話です。地理の話になりますが，日本はケッペンの気候区分でいうところの温暖湿潤気候に属しています。ヨーロッパ・アメリカに多く分布している西岸海洋性気候や地中海性気候の地域と比べると，暑く湿っている日本の夏の気候は，故郷とはかなり違っているはずです。冬も日本の井戸は欧州主要各国と比べて低めなので少し暖かい？　かな？　聞いてみると面白いと思います。"
 },
 {
 url: "https://wress.github.io/guide-materials/info/core/",
 title: "コア",
-body: "コア コアとは コアというのは簡単にいうとガイドの班のリーダーのことです。 コアがやること 班行動中の代表 班行動中の代表はコアの一番大切な仕事です。途中で班員が帰る場合にその日の代表と連絡を取ったり、集合場所に時間に連れていくのが役割です。 班員のサポート 班員がガイドに困っているのを見かけたら声をかけてあげてください。 昼食の場所の決定 別に必ずしもコアが決めなきゃいけないわけではないですが、良い感じに意見集めてください。"
+body: "コア コアとは コアというのは簡単にいうとガイドの班のリーダーのことです。ディビの一番上に名前が書いてある人がコアをやります。 コアがやること 班行動中の代表 班行動中の代表はコアの一番大切な仕事です。途中で班員が帰る場合にその日の代表と連絡を取ったり、集合場所に時間に連れていくのが役割です。 班員のサポート 班員がガイドに困っているのを見かけたら声をかけてあげてください。 ガイド前の解説 ガイド前に基本ガイド地を一周するのですが，その時の解説はコアの仕事です。 昼食の場所の決定 別に必ずしもコアが決めなきゃいけないわけではないですが、良い感じに意見を集めてください。"
 },
 {
 url: "https://wress.github.io/guide-materials/asakusa/spots/burner/",
@@ -187,7 +172,12 @@ body: "香炉 香炉 この香炉には屋根がついており、常に煙が�
 {
 url: "https://wress.github.io/guide-materials/asakusa/spots/chozu/",
 title: "お水舎",
-body: "お水舎 お水舎 浅草にも手水舎がありここで体を清める。手水のやり方に関してはcommonページを参照のこと。 なお、ここに置かれている銅像は龍神像（沙竭羅龍王像）。明治36年（1903）8月奉安、高村 光雲 作。 以前、本堂裏にあった噴水に安置されていた像である。仏法を守護する龍王の1人。龍や龍神は、水をつかさどる神である。"
+body: "お水舎 お水舎 浅草にも手水舎がありここで体を清める。 なお、ここに置かれている銅像は龍神像（沙竭羅龍王像）。明治36年（1903）8月奉安、高村 光雲 作。 以前、本堂裏にあった噴水に安置されていた像である。仏法を守護する龍王の1人。龍や龍神は、水をつかさどる神である。 手水のやり方 ここは実演しながら説明できる場所なので、初心者でもだいぶやりやすいです！　ぜひ覚えてください！ ひしゃくで水をすくう。 ひしゃくを右手に持って、左手を洗う。 ひしゃくを左手に持ち替えて、右手を洗う。 ひしゃくを右手に持ち替えて、左手で水をすくい、口を漱ぐ。 左手をあらう。 ひしゃくの柄を洗う。 これを一杯の水で行います！ Over there, there is a main area of this shrine. We should purify our body in that. There is a particular way to purify. I\u0026rsquo;ll show you. Please imitate me! Scoop the water. Wash your left hand. Wash your right hand. If you are OK, rinse your mouth.（嫌そうだったら強要する必要はありません） Wash your left hand again. Finally, wash the stick. Now you are purified! 口をゆすぐは、必ずrinse your mouthです！ 間違えても、wash your mouthとは言わないように！ wash your mouth は汚い言葉を使った小さい子をなだめる慣用句として使われているようなので。"
+},
+{
+url: "https://wress.github.io/guide-materials/info/difference/",
+title: "寺と神社の違い",
+body: "寺と神社の違い お寺と神社の違い 浅草には、お寺と神社が同じ敷地内にあります。 寺は仏教の建物であり、神社は神道の建物であす。 仏教はインドから伝わった宗教で、神道は日本固有の宗教だと説明すると、だいたい理解してくれます。 Temples are places for Buddhism, and Shrines are places for Shinto. Buddhism is from India, and Shinto is Japanese original religion. また、大きな違いとしては、仏教がブッダを祀る一神教であるのに対し、神社は多神教です。「八百万の神」という言葉にもあるように、山、川、葉っぱ、玄関などいろんなものや場所に神様が宿っていると考えます。 In Shinto, people believe that gods are in everything. The god of water, the god of wind, the god of sun and so on. However, in Buddhism, people believe only Buddha. This is one of the biggest differences. 参拝方法 宗教 参拝方法 仏教 一礼 神道 二礼二拍手一礼 これは実際にお参りするときに一緒にやって見せれば大丈夫です ちなみになぜお寺でお辞儀だけなのかというと、目の前にご本尊がいらっしゃるから！ 神社では、手を叩くことでいろんなところにいる神様に気が付いてもらうという目的があります。"
 },
 {
 url: "https://wress.github.io/guide-materials/meiji-jingu/spots/chozu/",
@@ -207,7 +197,7 @@ body: "本丸広場 本丸広場 かつての江戸城の中心。36000平方メ
 {
 url: "https://wress.github.io/guide-materials/meiji-jingu/spots/honden/",
 title: "本殿",
-body: "本殿 本殿 1920年創建。第二次世界大戦中の1945（昭和20）年4月14日に空襲により焼失（このあたりはセンシティブなので触れなくても良い）。1958年に再建されて今に至ります。 屋根は銅でできており、2018年の春頃に張り替えられました。そのため今は銅の茶色をしていますが、少し前までは緑青が生じ緑色の屋根でした。 本殿の中には平時は入れません。 ここでの参拝が終わったら集合写真を撮ることが多いです。 That building is the main shrine. It was burned down during WWII. It is reconstracted in 1958. The roof is made from copper. It is reroofed in 2018. Now the roof is brown but it was green before 2018 because of oxidation of copper. 柱の傷 本殿の柱には傷がたくさんついています。これは昔、初詣の列に並んだ客がお賽銭を投げてあたったときにできたものだそうです。 よって、柱の裏側にはこの傷がほとんどありません。 Those pillars have many scratches bacause many visitors threw coins on New Year\u0026rsquo;s Day. 注意 本殿の階段はたくさんの人が行きかうため、あまりここで立ち止まらないようにしましょう。 五円とご縁 お賽銭には五円玉を使うのが一般的です。理由は\u0026rdquo;五円\u0026rdquo;と\u0026rdquo;ご縁\u0026rdquo;が同じ発音だからです。本殿についたら五円玉を持っているか聞いてみましょう。 また、十円玉は\u0026rdquo;遠縁\u0026rdquo;となり縁起が悪いので、五円玉がないからといって似た十円玉を代用しようとしていたら教えてあげてください。たくさん五円玉を集めておいて両替してあげるのが良いでしょう。 You can make a wish in front of the main building. Do you have 5 yen coins? In Japanese, they are called goen and it is homonym. Goen also means good relationship. So they are the best coins to make a wish with, and we usually use 5 yen coins. 二礼二拍手一礼 言わずと知れた神社の参拝方法ですが外国人にとっては異国のしきたり、丁寧に説明しましょう。 お賽銭を投げる。 二回お辞儀をする。 手を二回たたく。 祈る。 もう一度お辞儀をする。 Throw a coin. Bow twice. Clap your hands twice. Make a wish. Finally, bow once again. 一応英語の説明書きもありますが、一緒に実演すると良いでしょう。 また、一応願い事は口外しない方が良いと言われているので、あまり何を願ったかという話をするのはお勧めしません。 結婚式 よくここで結婚式が開かれています。日本式の結婚式ということで外国の方の注目を集めるポイントです。もし結婚式の列を見たら日本の結婚式について説明できると良いでしょう。 また、日本の結婚式はほとんどキリスト教式の教会で行われていることや、ほとんどの日本人が無宗教なことも派生して説明できると面白いでしょう。"
+body: "本殿 本殿 1920年創建。第二次世界大戦中の1945（昭和20）年4月14日に空襲により焼失（このあたりはセンシティブなので触れなくても良い）。1958年に再建されて今に至ります。 屋根は銅でできており、2018年の春頃に張り替えられました。そのため今は銅の茶色をしていますが、少し前までは緑青が生じ緑色の屋根でした。 本殿の中には平時は入れません。 ここでの参拝が終わったら集合写真を撮ることが多いです。 That building is the main shrine. It was burned down during WWII. It is reconstracted in 1958. The roof is made from copper. It is reroofed in 2018. Now the roof is brown but it was green before 2018 because of oxidation of copper. 柱の傷 本殿の柱には傷がたくさんついています。これは昔、初詣の列に並んだ客がお賽銭を投げてあたったときにできたものだそうです。 よって、柱の裏側にはこの傷がほとんどありません。 Those pillars have many scratches bacause many visitors threw coins on New Year\u0026rsquo;s Day. 注意 本殿の階段はたくさんの人が行きかうため、あまりここで立ち止まらないようにしましょう。 五円とご縁 お賽銭には五円玉を使うのが一般的です。理由は\u0026rdquo;五円\u0026rdquo;と\u0026rdquo;ご縁\u0026rdquo;が同じ発音だからです。本殿についたら五円玉を持っているか聞いてみましょう。 また、十円玉は\u0026rdquo;遠縁\u0026rdquo;となり縁起が悪いので、五円玉がないからといって似た十円玉を代用しようとしていたら教えてあげてください。たくさん五円玉を集めておいて両替してあげるのが良いでしょう。 You can make a wish in front of the main building. Do you have 5 yen coins? In Japanese, they are called goen and it is homonym. Goen also means good relationship. So they are the best coins to make a wish with, and we usually use 5 yen coins. 二礼二拍手一礼 言わずと知れた神社の参拝方法ですが外国人にとっては異国のしきたり、丁寧に説明しましょう。 お賽銭を投げる。 二回お辞儀をする。 手を二回たたく。 祈る。 もう一度お辞儀をする。 Throw a coin. Bow twice. Clap your hands twice. Make a wish. Finally, bow once again. 一応英語の説明書きもありますが、一緒に実演すると良いでしょう。 また、一応願い事は口外しない方が良いと言われているので、あまり何を願ったかという話をするのはお勧めしません。 結婚式 時期にもよりますが明治神宮ではかなり高い頻度で結婚式が開かれています。ここでは神道の結婚式の一部である参進の儀を見ることができることがあります。 日本式の結婚式ということで外国の方の注目を集めるポイントです。もし結婚式の列を見たら日本の結婚式について説明できると良いでしょう。 参進の儀では2人の司祭と2人の巫女が一番最初に、続いて赤い傘の下に夫婦が、最後に家族と友人が列を作ります。 日本の結婚式はほとんどキリスト教式の教会で行われていることや、ほとんどの日本人が無宗教なことも派生して説明できると面白いでしょう。 Look at that! This is a Shinto wedding ceremony! A typical procession is led by two priests and two shrine maidens, followed by the couple under a red umbrella, and finally family and friends. This style of wedding is not popular in Japan. We have weddings at churches even though we are not Christian. Most Japanese don\u0026rsquo;t follow a religion. We celebrate cristmas as Christian do and hold funerals as buddist do."
 },
 {
 url: "https://wress.github.io/guide-materials/info/adding/",
@@ -237,7 +227,7 @@ body: "記事の追加（その２） 基本的なMarkdown記法 ここでは基
 {
 url: "https://wress.github.io/guide-materials/meiji-jingu/spots/votive-tablet/",
 title: "絵馬",
-body: "絵馬 絵馬 昔は本物の馬を神社に奉納していた。その名残で馬の絵が書かれている。干支の動物(the twelve zodiac signs)が描かれたものも多い。願い事を書くと叶うと信じられている。外国語で書かれたものも多いので一緒に探すと楽しい。 1つ500円で購入可。 “E” means a picture and “ma” means a horse in Japanese. In the old days, people would offer real horses to the shrine. So now pictures of horses are drawn on the tablets. The name of “Ema” is derived from this. It is believed that if you write your wish, the wish will come true."
+body: "絵馬 絵馬 昔は本物の馬を神社に奉納していた。その名残で馬の絵が書かれている。干支の動物(the twelve zodiac signs)が描かれたものも多い。願い事を書くと叶うと信じられている。外国語で書かれたものも多いので一緒に探すと楽しい。 1つ500円で購入可。本殿を抜けてすぐ右手にある建物で変えます。 “E” means a picture and “ma” means a horse in Japanese. In the old days, people would offer real horses to the shrine. So now pictures of horses are drawn on the tablets. The name of “Ema” is derived from this. It is believed that if you write your wish, the wish will come true. Tips 昔は本物の馬が奉納されていましたが、馬を奉納できない人は木造の馬、それも出来ない人は木の板に馬の絵を書いたもので代用してよいとされていて、それが次第に一般化して現在の絵馬になりました。 祈願文 絵馬の前にあるテーブルで祈願文が書けます。願い事やお礼を書くのが一般的なようです。紙に神様への文章を書いたのち，封筒にに自分で決めた額と紙を入れます。 You can write a letter to gods here. There are people who write wishes or gratitude toward gods. Usually, the letter is put into an envelope together with a monetary offering of any amount."
 },
 {
 url: "https://wress.github.io/guide-materials/info/adding3/",
@@ -246,8 +236,8 @@ body: "記事の追加（その３） このページでは、実際にどのよ
 },
 {
 url: "https://wress.github.io/guide-materials/meiji-jingu/spots/omamori/",
-title: "お守り",
-body: "お守り お守り おみくじ 現在見られる吉凶を占う「おみくじ」の形は、近世以降のもの。明治神宮のおみくじは第二次世界大戦後、明治天皇、昭憲皇太后の合わせて約13万首の中から30首を選んで作った独自の形。「明治」の元号も明治天皇がくじを引いて決めた。即位当時16才で今の中学3年相当。数え年ですから15才ですね。 上にあるように、ここのおみくじは吉凶などの運勢は出ない。「おみくじ」というと自分の運勢を占うものだと思う方が多いので、ここのおみくじは運勢ではなく、天皇からのメッセージがもらえるが、それでもいいかということをきちんと確認すること。引いた後にがっかりしたら、お互いに気まずいので。 You can buy a fortune-telling paper here. The fortune-telling paper is different from other one. You cannot know whether you are lucky or unlucky but get a message form Meiji Emperor. また、おみくじは英語版があるので、そっちを引いてもらうのがベター。 日本語版は和歌なので、古文の解釈もできて、かつ英語で訳さないと納得してくれません。 逐語訳をするだけでは、意味が全く伝わらないと考えてください。 ただ、挑戦してみたい！という方は挑戦してみる価値はあるかもしれないですね！"
+title: "授与所",
+body: "授与所 授与所 本殿を抜けるとお守り・おみくじ・絵馬を売っている建物があります。この建物のことを授与所といいます。 This building is called Juyosho, a souvenir shop in shrines. You can buy charms and fotune-teller here. お守り お守りが売っています。それぞれの願いに応じて一緒に選ぶと楽しいと思います。 You can buy charms here. There are charms for all kinds of occasions and purposes such as traffic safety, health, successful studies. 大御心 おおみこころ、と読みます。他の神社で見られる吉凶を占うおみくじではなく、祭神である明治天皇さまの御製(天皇のつくられた詩文あるいは和歌)93,032首、昭憲皇太后様の御歌(皇后、皇太子、皇太后などの詠まれた和歌)27,825首より、特に人倫道徳を指針とする教訓的なものを15首ずつ、合計30首選び、それに解説文を入れたものとなっています。 「おみくじ」というと自分の運勢を占うものだと思う方が多いので、ここのおみくじは運勢ではなく、天皇からのメッセージがもらえるが、それでもいいかということをきちんと確認しましょう。 You can buy a fortune-telling paper here. The fortune-telling paper is different from other one. You cannot know whether you are lucky or unlucky but get a message form Meiji Emperor. また、おみくじは英語版があるので、そっちを引いてもらうのがベター。 日本語版は和歌なので、古文の解釈もできて、かつ英語で訳さないと納得してくれません。 逐語訳をするだけでは、意味が全く伝わらないと考えてください。 ただ、挑戦してみたい！という方は挑戦してみる価値はあるかもしれないですね！"
 },
 {
 url: "https://wress.github.io/guide-materials/info/adding4/",
@@ -262,7 +252,12 @@ body: "石室 石室 「いしむろ」と読む。 火事やその他の緊急�
 {
 url: "https://wress.github.io/guide-materials/meiji-jingu/spots/kaguraden/",
 title: "神楽殿",
-body: "神楽殿 正式名所は明治神宮神楽殿。1993年10月に工事が完了した。周囲の景観を損なわないように地下に空間を作っており、この施設では祈願祭を行っている。 実は3階建ての建物で、地上に見える部分は3階に当たる。 結婚式もこちらで行われている。 結婚式の関係者、神宮関係者出ないと入れないので注意。"
+body: "神楽殿 正式名所は明治神宮神楽殿。1993年10月に工事が完了した。周囲の景観を損なわないように地下に空間を作っており、この施設では祈願祭を行っている。 実は3階建ての建物で、地上に見える部分は3階に当たる。 結婚式もこちらで行われている。 結婚式の関係者、神宮関係者出ないと入れないので注意。 This is Kaguraden. It means hall of Shinto Music and Dance. This is a three-storied building, but only one floor is over the ground in order not to spoil the surrounding scenery. The other two floors are under ground. The basement has a hall which can hold 800 people. In that hall people hold wedding reception."
+},
+{
+url: "https://wress.github.io/guide-materials/meiji-jingu/spots/car/",
+title: "車のお祓い",
+body: "車のお祓い 明治神宮では交通安全を願って車のお祓いをお願いすることができます。神楽殿を抜けてしばらく行った左手にそれ用のスペースがあります。 You can have your car purified here. A purification ritual for cars is rare."
 },
 {
 url: "https://wress.github.io/guide-materials/kokyo/spots/tenshudai/",
@@ -277,7 +272,7 @@ body: "桃華楽堂 桃華楽堂 皇太后良子(ながこ)の還暦を記念し
 {
 url: "https://wress.github.io/guide-materials/kokyo/spots/shiomi/",
 title: "汐見坂",
-body: "汐見坂 汐見坂 昔はこの坂から海が見えたのでこう呼ばれる。 海岸が埋め立てられた上に、高層ビルが建てられたので、今は海を見ることはできない。 ちょっと先は高層ビルなのに、周りは自然でいっぱいなところが意外と外国の方に人気。 Shiomizaka, or Sea-viewing slope This slope is called Shiomizaka, or Sea-viewing slope. Literally, in old days the ocean could be seen　from this slope. Tips seaとseeの発音で混乱を招き、必死にシーシー連呼する人が時々いますが、そんな時はoceanという逃げ方があります。 watchには「動くものを観察する、じっと見る」というニュアンスがあるので、「海流を観察した」ならともかく、単に「海を眺めた」程度であろうこの場面に用いると非常に不自然。You could got a good [nice/ fine] view of the sea at that time. はOK。"
+body: "汐見坂 汐見坂 昔はこの坂から海が見えたのでこう呼ばれる。 海岸が埋め立てられた上に、高層ビルが建てられたので、今は海を見ることはできない。 ちょっと先は高層ビルなのに、周りは自然でいっぱいなところが意外と外国の方に人気。 Shiomizaka, or Sea-viewing slope This slope is called Shiomizaka, or Sea-viewing slope. Literally, in old days the see could be seen from this slope."
 },
 {
 url: "https://wress.github.io/guide-materials/kokyo/spots/garden/",
