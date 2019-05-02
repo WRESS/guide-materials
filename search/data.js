@@ -302,7 +302,7 @@ body: ""
 {
 url: "https://wress.github.io/guide-materials/asakusa/food/montblanc/",
 title: "モンブラン",
-body: "モンブラン"
+body: "モンブラン 有名人のサインがいっぱいある(ので、私は有名だと思ってる)ハンバーグやさん。がっつり洋食の割には、1000円前後で食べられ、しかも美味しい。いつも店の外まで待っている人が居るが、以外と回転が早く、見た目ほど待たない。　食べログも参照してみてください！ https://tabelog.com/tokyo/A1311/A131102/13009804/"
 },
 {
 url: "https://wress.github.io/guide-materials/kokyo/food/paresu/",
@@ -317,7 +317,7 @@ body: "丸の内永楽ビルディング 大手門正面の交差点から１区
 {
 url: "https://wress.github.io/guide-materials/asakusa/food/bono/",
 title: "坊～乃",
-body: "坊～乃"
+body: "坊～乃 海鮮丼やさん。じぇらぁとやを浅草寺方面に進むと見つかる。 とても小さいお店ですが、フレンドリーなお店の方と1000円前後のリーズナブルだけど美味しい海鮮丼が魅力的です。 ESSの活動のことも知っているので、ここに行くとお店のおじさんに恐らくいじられます。 陽気な方なので、話してみると楽しいです。 https://tabelog.com/tokyo/A1311/A131102/13138355/"
 },
 {
 url: "https://wress.github.io/guide-materials/meiji-jingu/about/",
