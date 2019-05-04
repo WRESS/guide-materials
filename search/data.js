@@ -235,6 +235,11 @@ title: "記事の追加（その２）",
 body: "記事の追加（その２） 基本的なMarkdown記法 ここでは基本的なMarkdown記法を解説します。ここで紹介するもので基本的には事足りると思いますが、ほかにもMarkdown記法はあり、そのほとんどがこのサイトでも使えるので、各自調べてみてください。 また、このサイトでは独自に画像の追加などの機能を拡張しています。それに関しては記事の追加（その４）で解説します。 改行 段落の変更は行を一つあけることによってできます。 記述例 これは一つ目の段落です。これは一つ目の段落です。これは一つ目の段落です。これは一つ目の段落です。これは一つ目の段落です。これは一つ目の段落です。これは一つ目の段落です。これは一つ目の段落です。これは一つ目の段落です。 段落が変わりました。これが二つ目の段落です。 表示例 　これは一つ目の段落です。これは一つ目の段落です。これは一つ目の段落です。これは一つ目の段落です。これは一つ目の段落です。これは一つ目の段落です。これは一つ目の段落です。これは一つ目の段落です。これは一つ目の段落です。 　段落が変わりました。これが二つ目の段落です。 このように、段階が変わると行頭の文字が一字下がります。基本的に改行はこの方法で行ってください。 行を一行空けないただの改行は、Markdownからは無視されます。 記述例 改行が無視されます。 改行したけど無視されてます。 表示例 改行が無視されます。 改行したけど無視されてます。 また、改行にはもう一つ方法があります。「\\\\」を使う方法です。 記述例 改行します。\u0026#x5c;\u0026#x5c; 改行しました。 表示例 改行します。 改行しました。 こちらは一行空けと違い、段落は変わりませんので、行頭一字が下がりません。 強調 文字を太字にできます。 記述例 そんなことは**しないで**ください \r\r表示例 そんなことはしないでください 見出し 見出しは文字が大きくなります。↑の見出しの文字が見出しです。見出しを書くには#を使います。 記述例 ## 見出し2 ### 見出し3 \r\r表示例 見出し２ 見出し3 #は必ず半角で記述してください。また、#と文字との間に一つ半角スペースを入れるのを忘れないでください。 見出し１として#を一つ使うという記法もMarkdownにありますが、このサイトでは見出し１をタイトルの表示に使っています。 この赤丸で囲った部分が見出し１です。この部分は自動で追加されるため、自分で書くと二重になってしまいます。そのため、#を一つ使う見出し１は使わず、見出し２、３と使い続けていってください。 また、見出し２、３は順番に使ってください。 悪い例 ## 果物について 果物について紹介していくよ ## みかんについて オレンジ色の果物だよ ## ぶどうについて 紫色の果物だよ \r\rこの例では「みかん」「ぶどう」のセクションに「果物」と同じ見出し２を使っているため、構造的におかしいです。文章の構造的には「果物」についての紹介の中に「みかん」「ぶどう」についての紹介があるはずなので、次のように訂正できます。 良い例 ## 果物について 果物について紹介していくよ ### みかんについて オレンジ色の果物だよ ### ぶどうについて 紫色の果物だよ \r\r箇条書きリスト 箇条書きリストは次のようなものです. 表示例 一つ目の箇条書き項目 二つ目 三つ目 書き方はとてもシンプルです。 記述例 * 一つ目の箇条書き項目 * 二つ目 * 三つ目 \r\r「*」の他に「-」や「+」でも書けます。「・」では書けません（全角なのでパーサが対応してない）。また、見出しと同じように、各文字は半角で、文字と「*」の間には半角スペースを入れるのを忘れないでください。 番号付きリスト 順序があるものの列挙にはこちらを使ってください。 記述例 1. まず～ 1. 次に～ 1. 最後に～ \r\r表示例 まず～ 次に～ 最後に～ 数字には「1」を使いましたが、この数字は何でもOKです。とにかく「（数字）. 」と入力することで、順番通りに数字が割り当てられます。普通に1,2,3と割り振っても大丈夫です。 記述例（別解、表示は同じ） 1. まず～ 2. 次に～ 3. 最後に～ \r\r"
 },
 {
+url: "https://wress.github.io/guide-materials/asakusa/spots/niten/",
+title: "二天門",
+body: "二天門 二天門 1649年に造られた本堂の東に建つ朱塗りの門。戦災を免れた数少ない建物の一つ。二天門は境内に残る江戸時代初期の古建築として貴重であり、国の重要文化財に指定されている。 二天像という二つの像がおかれている。それぞれ持国天と増長天という四天王に数えられる仏さまである。 This is Nitemmon-Gate. \u0026ldquo;Ni\u0026rdquo; means two, \u0026ldquo;ten\u0026rdquo; means a class of Buddhism gods. So this is the gate of two gods. These two gods prevent evil spirits from coming inside. It survived the destruction of air raids and now it is an important cultural asset."
+},
+{
 url: "https://wress.github.io/guide-materials/kokyo/spots/fujimitamon/",
 title: "富士見多門",
 body: "富士見多門 富士見多門 少し奥まったところにあるのでわざわざ行かないことも多いが、本丸広場の中腹あたりに富士見多門と呼ばれる建物がある。 多門というのは長細い櫓の事で、石垣を上ってこようとする攻め手に窓から攻撃するための拠点となった。多門の下には蓮池濠が広がっており、水面から約19メートルの石垣の上にある。 「富士見」とついているのは昔ここから富士山が見えたことから。 This building is called the Fujimi-tamon Defence House. Through the narrow windows, they could shoot at enemies climbing the walls.It stands 19 meters above the surface of the pond. The word \u0026ldquo;Fujimi\u0026rdquo; means Mt.Fuji was visible from here, but it can nolonger be seen. Tips もっと手前のガイドコースを外れたところに「富士見櫓」という建物がある。名前は似ているが全くの別物なので注意。"
@@ -290,6 +295,11 @@ title: "汐見坂",
 body: "汐見坂 汐見坂 昔はこの坂から海が見えたのでこう呼ばれる。 海岸が埋め立てられた上に、高層ビルが建てられたので、今は海を見ることはできない。 ちょっと先は高層ビルなのに、周りは自然でいっぱいなところが意外と外国の方に人気。 This slope is called Shiomizaka, or Sea-viewing slope. Literally, in old days the ocean could be seen from this slope."
 },
 {
+url: "https://wress.github.io/guide-materials/kokyo/spots/zokibayashi/",
+title: "二の丸雑木林",
+body: "二の丸雑木林 二の丸雑木林 汐見坂を降りると広がっている樹林を二の丸雑木林と呼びます。昭和天皇のご提案により、開発が進む東京の樹林を保存しようと造成されました。 The wooded area is the Ninomaru Grove. Showa Emperor suggested that Tokyo\u0026rsquo;s gradually disappearing woods should be recreated in the East Gardens."
+},
+{
 url: "https://wress.github.io/guide-materials/kokyo/spots/todofuken/",
 title: "都道府県の木",
 body: "都道府県の木 都道府県の木 皇居東御苑の開園に際して47都道府県から寄贈された木がある。 ちなみに、東京の木は奥の方にある。 余裕があれば、下見の時に場所だけでも確認しておくと安心。 These trees were presented by all the prefectures and are their symbol trees. Tips フリートークのネタとして、ここで自分の出身地の木について紹介したり、外国の方がこれまで訪れた場所や、行く予定の場所を木をきっかけにして話したりすると盛り上がるかもしれないです。"
@@ -297,7 +307,7 @@ body: "都道府県の木 都道府県の木 皇居東御苑の開園に際し�
 {
 url: "https://wress.github.io/guide-materials/kokyo/spots/suwa/",
 title: "諏訪の茶屋",
-body: "諏訪の茶屋 諏訪の茶屋 明治天皇の指示で皇居西側の吹上御苑に1912年に建てられた茶室。皇居東御苑の整備にあたり、優美な外観が評価され、ここに移された。明治45年に再建されたもので、現在は茶室としての利用はできない。 In old days, this room was used for tea ceremonies. Now, we are not allowed to use it. Tips 吹上御苑にこの茶室があったところには、昔は諏訪の神をまつる諏訪社があったことからこの名前がついた。"
+body: "諏訪の茶屋 諏訪の茶屋 明治天皇の指示で皇居西側の吹上御苑に1912年に建てられた茶室。皇居東御苑の整備にあたり、優美な外観が評価され、ここに移された。明治45年に再建されたもので、現在は茶室としての利用はできない。 In old days, this room was used for tea ceremonies. Now, we are not allowed to use it. Tips 吹上御苑のこの茶室があった場所には、昔は諏訪の神をまつる諏訪社があったことからこの名前がついた。"
 },
 {
 url: "https://wress.github.io/guide-materials/kokyo/spots/garden/",
@@ -308,6 +318,11 @@ body: "二の丸庭園 二の丸庭園 かつては二の丸があり、表と�
 url: "https://wress.github.io/guide-materials/common/imperial/",
 title: "天皇制",
 body: "天皇制 皇族に関する豆知識 元号も変わり、皇族や天皇制についての質問が増えることが予想されます。ガイドの前にさらっと確認してみてください! よく使う用語 天皇家　：Imperial Family 天皇　：Emperor 天皇陛下　：His Majesty the Emperor 皇后　：Empress 皇后陛下　：Her Majesty the Empress 皇太子　：Crown Prince 皇太子殿下：His Imperial Highness the Crown Prince 上皇　：Emperor Emeritus 上皇陛下　：His Majesty the Emperor Emeritus 宮内庁　：Imperial Household Agency 王座　：the throne 公務　：official duty, public activity 退位する　：abdicate, leave the throne 即位する　：enthrone, take (assume) the throne ちなみに、イギリスの皇太子はThe Prince of Walesという独特の呼ばれ方をするそう。イギリスの方には、この表現の方がピンとくるかもしれない。 また、現在の天皇のことを「今上(きんじょう)天皇」と呼ぶ。「明治天皇」や「昭和天皇」のように元号をつけて呼ぶのは陛下が崩御なさった後。間違っても「平成天皇」や「令和天皇」と呼ばないように。 日本の象徴 日本国憲法 第一条 天皇は、日本国の象徴であり日本国民統合の象徴であつて、この地位は、主権の存する日本国民の総意に基く。 とあるが、このまま説明するとわかりにくいので以下の表現でよいでしょう。 After the World War II, the emperor became the symbol of Japan under the new constitution. 天皇の仕事 皇室の歴史 皇室の歴史は日本神話から始まっている。初代天皇である神武天皇は、天岩戸の神話で有名な天照大神の男系の来孫（孫のひ孫）であり，紀元前660年2月11日（建国記念日になっている）に即位した。しかし古事記では137歳、日本書紀では127歳まで生きたとされ、実存しなかったとみられている。 実存がほぼ確実とされている天皇から数えても現在の皇族はすでに1500年以上も続いている。 歴史上、形式的な存在だった時期も長かったが、明治から終戦までは現人神として不可侵の存在とされていた。 現在は政治的権力のない象徴的存在とされている。 It is said that unbroken line of descent from the Great Sun Goddess continues to today from some thousands years ago. Japanese imperial family is the oldest royal family in the world. Emperors had been figureheads for a long time over the course of history. Then, the emperor was considered as inviolable living god during the period between the beginning of the 19th century and end of the war in 1945. After the World War II, the emperor became the symbol of Japan without any political power. 歴代の天皇 お名前を聞かれることも多いです。少なくとも、今上天皇と上皇陛下の名前は覚えておくとよいでしょう。 明治天皇：睦仁(むつひと)さま 大正天皇：嘉仁(よしひと)さま 昭和天皇：裕仁(ひろひと)さま 上皇　：明仁(あきひと)さま 今上天皇：徳仁(なるひと)さま 在位期間がもっとも長い天皇は昭和天皇で62年2週間となっている。 明仁上皇の在位期間は30年であった。 また、今回の皇位継承により、皇位継承権第1位は徳仁天皇の弟である秋篠宮家の文仁さま、第2位はそのご子孫の悠仁さまとなっている。 Naruhito\u0026rsquo;s brother Prince Fumihito will be next in line to the throne, followed by the new emperor\u0026rsquo;s nephew, 12-year-old Prince Hisahito. New emperor has a daughter, Princess Aiko, who was born in 2001. However, Japanese law prohibits women from inheriting the throne. 皇位継承 生前退位が行われたのは、202年ぶり。君主が存命の間に、その地位を後継者に引き渡す行為は譲位とも呼ばれ、こちらの方が昔から使われている。これまでにに50回以上行われている。 Emperor Akihito left (abdicated) the throne on April 30, and his son, Crown Prince Naruhito took (assumed) the throne on May 1. Emperor Akihito left the throne while he is alive for the first time in 202 years. 元号 みんなご存知の通り、天皇が変わるタイミングで日本の元号は変わります。 The era in Japan corresponds to the reign of each emperor. It means that when an emperor leaves the throne and the following emperor takes the throne, the era in Japan changes into next one."
+},
+{
+url: "https://wress.github.io/guide-materials/kokyo/spots/aki-nanakusa/",
+title: "秋の七草",
+body: "秋の七草 秋の七草 現在の上皇陛下の提案により、この場所には秋の七草が植えられている。秋の七草という言葉自体は有名だが、なかなか見る機会はないというのがその理由。 看板には山上憶良の詠んだ秋の七草に関する和歌が描かれている。 The Seven Flowers of Spring and Seven Flowers of Autumn have been symbolic of their respective seasons in Japan. While many Japanese know the list of plants, they rarely see them. This is why the section is created. There is a sign board with two poems about the Seven Flowers of Autumn."
 },
 {
 url: "https://wress.github.io/guide-materials/search/data.js",
