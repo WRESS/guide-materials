@@ -317,7 +317,7 @@ body: ""
 {
 url: "https://wress.github.io/guide-materials/asakusa/food/montblanc/",
 title: "モンブラン",
-body: "モンブラン"
+body: "モンブラン 有名人のサインがいっぱいある(ので、私は有名だと思ってる)ハンバーグやさん。がっつり洋食の割には、1000円前後で食べられ、しかも美味しい。いつも店の外まで待っている人が居るが、以外と回転が早く、見た目ほど待たない。　食べログも参照してみてください！ https://tabelog.com/tokyo/A1311/A131102/13009804/"
 },
 {
 url: "https://wress.github.io/guide-materials/kokyo/food/paresu/",
