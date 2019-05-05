@@ -37,7 +37,7 @@ body: "ガイドの基本知識 ガイドの基本スタンス 基本的には�
 {
 url: "https://wress.github.io/guide-materials/kokyo/spots/shozokan/",
 title: "三の丸尚蔵館",
-body: "三の丸尚蔵館 三の丸尚蔵館 時期ごとに異なる皇室所蔵の品を展示している博物館で、入場無料。すぐ近くに土産物屋（皇室ゆかりのおみやげがある）と休憩所、お手洗いがある。 展示物には英語の注釈もついているので、もし入りたいといわれても皇室に関する高度な説明を要求されることはなく、安心して入って大丈夫です。 This is Sannommaru Museum, which exhibits pictures and Japanese traditional goods. 済寧館 向かいにある建物は済寧館と呼ばれる建物で、皇宮警察が所有する道場。一般人は立ち入り禁止だが建物は順路から見えるので、これは何？と聞かれたら教えてあげよう。"
+body: "三の丸尚蔵館 三の丸尚蔵館 時期ごとに異なる皇室所蔵の品を展示している博物館で、入場無料。すぐ近くに土産物屋（皇室ゆかりのおみやげがある）と休憩所、お手洗いがある。 展示物には英語の注釈もついているので、もし入りたいといわれても皇室に関する高度な説明を要求されることはなく、安心して入って大丈夫。ただし館内で大声で喋っていると怒られるので注意。 This is Sannommaru Museum, which exhibits pictures and Japanese traditional goods. 済寧館 向かいにある建物は済寧館と呼ばれる建物で、皇宮警察が所有する道場。一般人は立ち入り禁止だが建物は順路から見えるので、これは何？と聞かれたら教えてあげよう。"
 },
 {
 url: "https://wress.github.io/guide-materials/print/common/",
@@ -142,7 +142,7 @@ body: "キャッチ 外国人に声をかけることをキャッチといいま
 {
 url: "https://wress.github.io/guide-materials/kokyo/spots/mons/",
 title: "中之門・中雀門跡",
-body: "中之門・中雀門跡 中之門 大番所の付近には江戸時代には中之門と呼ばれる門があった。本丸に入る前の最初の門として厳重に作られており、今でも石垣にその様子を伺うことができる。 In Edo period, a gate called Nakano-mon stood. The structure is built strongly because the gate was the most important as the first gate on the slope leading up the Hon-maru. 大番所先の坂 大番所から本丸広場に向けてとても急な坂がある。これには、敵の乗ってくる馬が進みにくくする目的があった。よくみてみると、坂の横の壁には大手門と同じような小さい穴が見つけられる。この坂の勾配により、スピードが落ちた馬をその穴から狙う作戦だったようだ。 また、坂がカーブしているのも、馬がカーブが苦手だったからと言われている。 In old days, enemies attacked with horses. Horses are not good at going up a steep hill and turning to the right, compared to turning to the left. The center of the castle was over there. It is difficult for enemies to attack the main castle. 中雀門 坂の最後には中雀門と呼ばれる門があった。この辺りは坂が急になっているが、もともと石の階段になっていて、重い装備の兵士が容易に駆け上がれないようになっていた。 この辺りにはところどころに黒い石がある。これは1863年の本丸の火災の際に石垣に接続していた建物が焼けたことによるものだそう。 There used to be a gate called Chujaku-mon. At that time, this steep slope was a stone staircase which prevent soldiers with heavy equipment from easily climbing up. In 1863, there was a big fire in the castle. The blackened stones were damaged by fire at that time."
+body: "中之門・中雀門跡 中之門 大番所の付近には江戸時代には中之門と呼ばれる門があった。本丸に入る前の最初の門として厳重に作られていた。 In Edo period, a gate called Nakano-mon stood. The structure is built strongly because the gate was the most important as the first gate on the slope leading up the Hon-maru. 今でも石垣が残っている他、地面を見ると柱の跡がある。 Fondations of pillars remain. 大番所先の坂 大番所から本丸広場に向けてとても急な坂がある。これには、敵の乗ってくる馬が進みにくくする目的があった。よくみてみると、坂の横の壁には大手門と同じような小さい穴が見つけられる。この坂の勾配により、スピードが落ちた馬をその穴から狙う作戦だったようだ。 また、坂がカーブしているのも、馬がカーブが苦手だったからと言われている。 In old days, enemies attacked with horses. Horses are not good at going up a steep hill and turning to the right, compared to turning to the left. The center of the castle was over there. It is difficult for enemies to attack the main castle. 中雀門 坂の最後には中雀門と呼ばれる門があった。この辺りは坂が急になっているが、もともと石の階段になっていて、重い装備の兵士が容易に駆け上がれないようになっていた。 この辺りにはところどころに黒い石がある。これは1863年の本丸の火災の際に石垣に接続していた建物が焼けたことによるものだそう。 There used to be a gate called Chujaku-mon. At that time, this steep slope was a stone staircase which prevent soldiers with heavy equipment from easily climbing up. In 1863, there was a big fire in the castle. The blackened stones were damaged by fire at that time."
 },
 {
 url: "https://wress.github.io/guide-materials/asakusa/spots/five/",
@@ -255,6 +255,11 @@ title: "記事の追加（その３）",
 body: "記事の追加（その３） このページでは、実際にどのようにページを追加するかを解説します。 フォルダの構造 基本的には「WRESS2019ルートフォルダ/Guide/新マテリアル/guide-materials」内のcontentフォルダを編集します。逆に「WRESS2019ルートフォルダ/Guide/新マテリアル/guide-materials」内のcontentフォルダ以外には触らないでください。 各ガイド地のガイドスポットと、食事スポットの記事がここから追加・編集できます。 Markdownで書いた記事のファイル名 WRESS2019ルートフォルダ/Guide/新マテリアル/guide-materials/content/meiji-jingu/spots/first-tori/index.md WebサイトでのURLhttps://wress.github.io/guide-materials/meiji-jingu/spots/first-tori/ spotsフォルダにはガイドスポットの、foodフォルダには食事スポットの記事が入っています。 記事の編集 ここでは大鳥居の例を示します。 大鳥居は明治神宮のガイドスポットですから、「WRESS2019ルートフォルダ/Guide/新マテリアル/guide-materials/content/spots/meiji-jingu/spots/first-tori/」を参照します。ここには「index.md」というファイルがあるはずです。これを編集した後、WRESSガイドセクションの人に声をかけてください。タイミングによりますが、確認後すぐに記事が反映されると思います。 記事の追加 例えば明治神宮の食事スポット「ブルーガーデン」を追加してみましょう。明治神宮の食事スポットですから、「WRESS2019ルートフォルダ/Guide/新マテリアル/guide-materials/content/spots/meiji-jingu/food/」を参照します。この下に、フォルダを作ってください。フォルダ名はURLの一部になります。例えばここで「blue-garden」という名前を付ければ、「https://wress.github.io/guide-materials/meiji-jingu/food/blue-garden/」というURLになります。 この中に、「index.md」というファイルを作り、これを編集してください。 簡単に言えば、ここでいうblue-gardenフォルダ内でページに関するものを作っていく形になります。次の項で紹介する画像を追加する際もこのフォルダを利用します。また、常にMarkdownファイルのファイル名は「index.md」としてください。 記事のフロントマター 前述のMarkdown形式で文章を書いていくのですが、index.mdの最初にフロントマターと呼ばれるパーツを組み込む必要があります。フロントマターは次のように記述します。 --- title: \u0026quot;《記事のタイトルをここに書く》\u0026quot; weight: 《記事の順番の指定》 necessity: 《必要度の指定》 image: \u0026quot;《一覧に表示する画像の指定》\u0026quot; author: \u0026quot;《著者の名前》\u0026quot; ---\r\r---でくくるのを忘れないでください。 以降はフロントマター内の各項目について解説します。 title titleは記事のタイトルになります。各記事の一番上の中央に出てくるのがこれです。\u0026quot;\u0026quot;でくくるのを忘れないでください。 title: \u0026quot;記事のタイトル\u0026quot;\r\rweight weightは、一覧のページ（ex: ガイドスポット ）で順番を決めるのに重要になる数字です。任意の有理数（少数表記）で指定し、数字が小さいほど前に、大きいほど後ろに並びます。主に記事をガイドする順に並べるためにこの数字を使っています。 weight: 3 necessity necessityはspotsフォルダ内の記事に必要です。必要度の指定をしており、これがそのまま☆の数になります。1,2,3のいずれかの数字を指定してください。 なお、spotsフォルダ内の記事にこの値を指定し忘れたり、無効な値が設定されていると 重要度：未設定 と表示され、一覧ページ でチェックボックスの有無にかかわらず常に表示されるようになってしまいます。ガイドスポットの記事を書く際には必ず指定してください。 逆に、foodフォルダ内の記事には不要です。指定しても☆は出ません。 necessity: 3 image imageは、一覧のページに表示する際、カードの上部に表示する画像の指定になります。 これを書かなかった場合は基本情報ページのように記事の一部を抜粋した文章が代わりに入ります。 imageを追加する方法を説明します。 まずは記事のフォルダ（index.mdが入っているフォルダ）を開きます。この南参道鳥居であれば、「WRESS2019ルートフォルダ/Guide/新マテリアル/guide-materials/meiji-jingu/spots/first-tori/」というフォルダです。この中に画像ファイルを入れます。 画像ファイルの名前は何でも良いですが、短くてわかりやすい名前が良いと思います。基本的には全角文字は使わないでください。 すると次の画像のようになるはずです。 この状態で、フロントマターに次のように画像のファイル名をそのまま記述します。 image: \u0026quot;first-tori.jpg\u0026quot; これでこの画像が一覧ページで表示されるようになります。「\u0026quot;\u0026quot;」でくくるのを忘れないでください。 author authorには著者の名前を記入してください。これは誰が編集したかを管理するために使う値で、実際のWebサイトには表示されません。 author: \u0026quot;あやな\u0026quot; 複数人の名前を入力したい際は次のように入力します。 author: - \u0026quot;はやと\u0026quot; - \u0026quot;あやな\u0026quot; draft \u0026ldquo;draft: true\u0026rdquo;と入力するとその記事は下書き状態になります。この状態の記事はファイルとしては存在していても実際のWebサイトには表示されません。普通に表示したい記事に指定する必要はないです。 記事の例 大鳥居の例を示します。 --- title: \u0026quot;大鳥居\u0026quot; weight: 4 image: \u0026quot;meji-jingu.jpg\u0026quot; necessity: 3 --- 日本一大きいヒノキ製の木造鳥居であり、高さ12m、柱間9.1m、柱の径1.2m、重さ13tもある。実はこの鳥居は二代目であり、初代は昭和41年(1966)に落雷のため破損してしまい、現在は昭和50年(1975)12月に新しくできたものである。鳥居の上の方には皇室のご紋である十六葉八重表菊がついている。 ## 鳥居の三つの役割 1. 神社の神域と私たちの世界との境界を示すもの 2. 邪悪なものを入れないようにする結界 3. 私たちの身を清めるため。\r\r各フロントマターとMarkdown記法で書いた内容は次のように変換されます。"
 },
 {
+url: "https://wress.github.io/guide-materials/kokyo/spots/rose/",
+title: "バラ園",
+body: "バラ園 バラ園 バラ園がある。昭和天皇が献上をお受けになって吹上御苑でお育てになっていたバラが植えられている。 名はバラだが一般的に思い浮かべるようなバラとは少し違うような花が春に咲く。"
+},
+{
 url: "https://wress.github.io/guide-materials/meiji-jingu/spots/omamori/",
 title: "授与所",
 body: "授与所 授与所 本殿を抜けるとお守り・おみくじ・絵馬を売っている建物がある。この建物のことを授与所という。 This building is called Juyosho, a souvenir shop in shrines. You can buy charms and fotune-teller here. お守り お守りが売っている。それぞれの願いに応じて一緒に選ぶと良い。 You can buy charms here. There are charms for all kinds of occasions and purposes such as traffic safety, health, successful studies. 大御心 「おおみこころ」と読む。他の神社で見られる吉凶を占うおみくじではなく、祭神である明治天皇と昭憲皇太后様の作られた詩や歌の中から特に人倫道徳を指針とする教訓的なものを15首ずつ、合計30首選び、それに解説文を入れたもの。 「おみくじ」というと自分の運勢を占うものだと思う方が多いので、ここのおみくじは運勢ではなく、天皇からのメッセージがもらえるが、それでもいいかということをきちんと確認しましょう。 You can buy a fortune-telling paper here. The fortune-telling paper is different from other one. You cannot know whether you are lucky or unlucky but get a message form Meiji Emperor. また、おみくじは英語版があるので、そっちを引いてもらうのがベター。 日本語版は和歌なので、古文の解釈もできて、かつ英語で訳さないと納得してくれません。 逐語訳をするだけでは、意味が全く伝わらないと考えてください。 ただ、挑戦してみたい！という方は挑戦してみる価値はあるかもしれないですね！"
@@ -273,6 +278,11 @@ body: "石室 石室 「いしむろ」と読む。 火事やその他の緊急�
 url: "https://wress.github.io/guide-materials/meiji-jingu/spots/kaguraden/",
 title: "神楽殿",
 body: "神楽殿 正式名所は明治神宮神楽殿。明治神宮70周年を記念して1990年から工事が開始され、1993年10月に工事が完了した比較的新しい建物。一階建てに見えるが、周囲の景観を損なわないように地下に空間を作っており、実は3階建ての建物である。 地価には800人ほどの人が入るホールがある。この施設では祈願祭や結婚式、さらには御朱印帳の記帳も行っている。 This is Kaguraden. It means hall of Shinto Music and Dance. This is a three-storied building, but only one floor is over the ground not to spoil the surrounding scenery. The other two floors are under ground. The basement has a hall which can hold 800 people. In that hall people hold wedding reception. Tips 祈願祭は予約いらずで、神楽殿に来て、日本語で書類を書けば5000円で受けられる。30分に一回行われるとのこと。"
+},
+{
+url: "https://wress.github.io/guide-materials/kokyo/spots/bamboo/",
+title: "竹林・桜の島",
+body: "竹林・桜の島 竹林 皇居の西側にあった竹を移したもの。日本のものだけでなく、中国の品種も植えられている。 Those are Japanese and Chinese bamboo. Tips 竹は東アジアに固有な植物。少し珍しがられる。 桜の島 皇居東御苑にある30種類ほどの桜のうち、この辺りには15種類ほどの桜が植えられている。2月から4月まで、この付近にはいろいろな桜が咲いている。"
 },
 {
 url: "https://wress.github.io/guide-materials/meiji-jingu/spots/car/",
@@ -297,7 +307,7 @@ body: "汐見坂 汐見坂 昔はこの坂から海が見えたのでこう呼�
 {
 url: "https://wress.github.io/guide-materials/kokyo/spots/zokibayashi/",
 title: "二の丸雑木林",
-body: "二の丸雑木林 二の丸雑木林 汐見坂を降りると広がっている樹林を二の丸雑木林と呼びます。昭和天皇のご提案により、開発が進む東京の樹林を保存しようと造成されました。 The wooded area is the Ninomaru Grove. Showa Emperor suggested that Tokyo\u0026rsquo;s gradually disappearing woods should be recreated in the East Gardens."
+body: "二の丸雑木林 二の丸雑木林 汐見坂を降りると広がっている樹林を二の丸雑木林と呼ぶ。昭和天皇のご提案により、開発が進む東京の樹林を保存しようと造成された。 The wooded area is the Ninomaru Grove. Showa Emperor suggested that Tokyo\u0026rsquo;s gradually disappearing woods should be recreated in the East Gardens."
 },
 {
 url: "https://wress.github.io/guide-materials/kokyo/spots/todofuken/",
@@ -312,7 +322,7 @@ body: "諏訪の茶屋 諏訪の茶屋 明治天皇の指示で皇居西側の�
 {
 url: "https://wress.github.io/guide-materials/kokyo/spots/garden/",
 title: "二の丸庭園",
-body: "二の丸庭園 二の丸庭園 かつては二の丸があり、表と奥とからなる御殿があった。前将軍の個室があり、晩年を過ごす場所となっていた。3度の火事で焼失し、今あるのは30年前に作り直されたもの。 この庭園は説明よりも、ただ日本庭園を楽しんでもらうことに注力するのもいいと思います！ This place was once called Ninomaru or The Second citadel. There used to be a wonderful palace consist of Omote and Oku. Ninomaru was used as the place where a pre-Shogun\u0026rsquo;s wife spent her last years. It was burned out three times and reconstructed 30 years ago. 池の鯉 この庭園の池には、金色やいろんな色の鯉がいる。この鯉は、インドネシアと日本のハーフである。この鯉が綺麗と、意外と人気。ちなみに、鯉は英語でCarpですが、こちらよりも Koi fish のほうが通じる。むしろ、Carpだと通じないことも。 人面魚がいるという噂がある。 花菖蒲 庭園の出口の近くに、木札が添えられて植えられている花菖蒲がある。 見頃は6月。しかし、ガイドする際は時期的に、ほとんど花が見れないのでイネみたいになっているが、実は花菖蒲。 英語名はIris。ここはもし聞かれたら答えれば良い。"
+body: "二の丸庭園 二の丸庭園 かつては二の丸があり、表と奥とからなる御殿があった。前将軍の個室があり、晩年を過ごす場所となっていた。3度の火事で焼失し、今あるのは30年前に作り直されたもの。 この庭園は説明よりも、ただ日本庭園を楽しんでもらうことに注力するのもいいと思います！ This place was once called Ninomaru or The Second citadel. There used to be a wonderful palace consist of Omote and Oku. Ninomaru was used as the place where a pre-Shogun\u0026rsquo;s wife spent her last years. It was burned out three times and reconstructed 30 years ago. 池の鯉 この庭園の池には、金色やいろんな色の鯉がいる。この鯉は、インドネシアと日本の品種を交配して生まれた。通常より長いヒレが綺麗だと、意外と人気。ちなみに、鯉は英語でCarpですが、こちらよりも Koi fish のほうが通じる。むしろ、Carpだと通じないことも。 人面魚がいるという噂がある。 藤棚 春には藤も咲く。藤は英語で\u0026rdquo;wisteria\u0026rdquo;という。藤棚は\u0026rdquo;a wisteria trellis\u0026rdquo;という。普段カタカナでも使わない単語なので春には覚えておくと良いだろう。 花菖蒲 庭園の出口の近くに、木札が添えられて植えられている花菖蒲がある。 見頃は6月。しかし、ガイドする際は時期的に、ほとんど花が見れないのでイネみたいになっているが、実は花菖蒲。 英語名はIris。ここはもし聞かれたら答えれば良い。"
 },
 {
 url: "https://wress.github.io/guide-materials/common/imperial/",
