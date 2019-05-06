@@ -2,7 +2,7 @@ var data = [
 {
 url: "https://wress.github.io/guide-materials/info/guide/",
 title: "ガイド",
-body: "ガイド ガイドとは ガイドとは、ESSの活動の一種で観光地へ行き外国人観光客に声をかけ、その場所を英語で案内することによって会話を楽しむとともに、英語で話す力を鍛える活動です。 ESSの活動の中でも特に一番外国の方と接する機会が多い活動です。ネイティブの英語はもちろん、それだけでなく、欧州や南米の各地の訛りを持った“生きた英語”を聞くことができ、実践的な英語を身に着けることができます。 OUESS・WRESSは東京学生ガイド連盟に加盟しており、普段は明治神宮・皇居・浅草の三か所で活動しています。 夏休みには京都ガイドというイベントで京都をガイドしたり、お誘いを受けた際には鎌倉をガイドすることもあります。 WRESS公式サイトのガイド紹介ページ も併せてご覧ください。"
+body: "ガイド ガイドとは ガイドとは、ESSの活動の一種で観光地へ行き外国人観光客に声をかけ、その場所を英語で案内することによって会話を楽しむとともに、英語で話す力を鍛える活動です。 ESSの活動の中でも特に一番外国の方と接する機会が多い活動です。ネイティブの英語はもちろん、それだけでなく、欧州や南米の各地の訛りを持った“生きた英語”を聞くことができ、実践的な英語を身に着けることができます。また、外国の方々と接することで、刺激を受け、さらに国際情勢も肌で感じることができます。 OUESS・WRESSは東京学生ガイド連盟に加盟しており、普段は明治神宮・皇居・浅草の三か所で活動しています。 夏休みには京都ガイドというイベントで京都をガイドしたり、お誘いを受けた際には鎌倉をガイドすることもあります。 WRESS公式サイトのガイド紹介ページ も併せてご覧ください。"
 },
 {
 url: "https://wress.github.io/guide-materials/meiji-jingu/spots/first-tori/",
@@ -17,7 +17,7 @@ body: "基本情報 - 印刷用ページ"
 {
 url: "https://wress.github.io/guide-materials/kokyo/spots/otemon/",
 title: "大手門",
-body: "大手門 大手門 旧江戸城の正門である。１６２０年に敵進行を防ぐため桝形式（直角のこと）にしたといわれてる。壁にはところどころに穴があり、そこから銃の先を出して攻めてくる敵を撃てるようになっている。 2つの門が直角に設けられているのは、敵が侵入する際、速度を落とさせ、猛スピードで攻めてこられないようにするためである。これは全国のお城に共通のよく見られる構造であり、二つの門に挟まれた広間を桝形と呼ぶ。 This gate is called \u0026ldquo;Ote-mon\u0026rdquo;. It served as the main gate of Edo Castle during the time of the Tokugawa shogunate. The gate is made up of two gates set in order to make enemies slow down. There are small windows in the wall to attack outside enemies. 鯱 読み方は「しゃち」。しゃちほこのそれである。城のような建物の屋根に飾られるもので、家事を防ぐ力があると信じられていた。消失前の門の屋根にあった鯱が一基現存しており、大手門に静置されている。 The figures is often found on the roof of old buildings like a castle. It is a kind of talisman against fire. This was on the roof of the gate in the past."
+body: "大手門 大手門 旧江戸城の正門である。１６２０年に敵進行を防ぐため桝形式（直角のこと）にしたといわれてる。壁にはところどころに穴があり、そこから銃の先を出して攻めてくる敵を撃てるようになっている。 2つの門が直角に設けられているのは、敵が侵入する際、速度を落とさせ、猛スピードで攻めてこられないようにするためである。これは全国のお城に共通のよく見られる構造である。二つの門に挟まれた広間を桝形と呼ぶ。 This gate is called \u0026ldquo;Ote-mon\u0026rdquo;. It served as the main gate of Edo Castle during the time of the Tokugawa shogunate. The gate is made up of two gates set in order to make enemies slow down. There are small windows in the wall to attack outside enemies. 鯱 読み方は「しゃち」。しゃちほこのそれである。城のような建物の屋根に飾られるもので、家事を防ぐ力があると信じられていた。消失前の門の屋根にあった鯱が一基現存しており、大手門に静置されている。 The figures is often found on the roof of old buildings like a castle. It is a kind of talisman against fire. This was on the roof of the gate in the past."
 },
 {
 url: "https://wress.github.io/guide-materials/common/shinbutsu/",
@@ -77,7 +77,7 @@ body: "酒樽・ワイン樽 南参道には酒樽201本とワインの樽があ
 {
 url: "https://wress.github.io/guide-materials/info/guide-materials/",
 title: "このサイトについて",
-body: "このサイトについて Guide Materials 今までのマテリアルはPDF形式で制作されていました。PDF形式では印刷しやすく、表示も崩れにくいという利点もありますが、見たい記事にすぐには飛べない、スマホの小さい画面では見づらいなどの弱点があります。 このマテリアルはWebサイトとして作られており、スマホでもPCでも、更に印刷しても見やすいものを目指しています。 また、PDF形式では情報量を多くしすぎると縦に長くなって見づらくなるという弱点がありました。このマテリアルでは必要度によって記事を振り分けることにより、難解な記事までもカバーしつつ余計な情報は省いて見ることもできます。 なお、制作にあたっては東京大学ESS・東京外国語大学ESS制作のマテリアル、および明治神宮公式サイト、宮内庁参観音声ガイドアプリ、浅草寺公式サイトなどを参考にさせていただきました。 誤植を見つけた際は このマテリアルはOUESS・WRESSガイドセクションによって管理されています。誤植を見つけた際は、私たちに連絡をいただけると助かります。 注意 このマテリアルはOUESS・WRESS向けに制作されており、OUESS・WRESS以外の人が使用することを一切想定していません。 また、このサイトはGoogleなどの検索結果には表示されず、URLを知っている人のみがアクセスできるようになっています。 無用なトラブルを避けるため、SNSなどのパブリックな場でこのサイトのURLを公開したり、OUESS・WRESS以外のメンバーにこのマテリアルのURLを教えたりしないでください。"
+body: "このサイトについて Guide Materials 今までのマテリアルはPDF形式で制作されていました。PDF形式では印刷しやすく、表示も崩れにくいという利点もありますが、見たい記事にすぐには飛べない、スマホの小さい画面では見づらいなどの弱点があります。 このマテリアルはWebサイトとして作られており、スマホでもPCでも、更に印刷しても見やすいものを目指しています。また、必要度で記事を振り分けることができ、初心者には必要な情報のみを、玄人には細かい知識までを表示することができます。 なお、制作にあたっては東京大学ESS・東京外国語大学ESS制作のマテリアル、および明治神宮公式サイト、宮内庁参観音声ガイドアプリ、浅草寺公式サイトなどを参考にさせていただきました。 誤植を見つけた際は このマテリアルはOUESS・WRESSガイドセクションによって管理されています。誤植を見つけた際は、私たちに連絡をいただけると助かります。 注意 このマテリアルはOUESS・WRESS向けに制作されており、OUESS・WRESS以外の人が使用することを一切想定していません。 また、このサイトはGoogleなどの検索結果には表示されず、URLを知っている人のみがアクセスできるようになっています。 無用なトラブルを避けるため、SNSなどのパブリックな場でこのサイトのURLを公開したり、OUESS・WRESS以外のメンバーにこのマテリアルのURLを教えたりしないでください。"
 },
 {
 url: "https://wress.github.io/guide-materials/info/app/",
@@ -142,7 +142,7 @@ body: "キャッチ 外国人に声をかけることをキャッチといいま
 {
 url: "https://wress.github.io/guide-materials/kokyo/spots/mons/",
 title: "中之門・中雀門跡",
-body: "中之門・中雀門跡 中之門 大番所の付近には江戸時代には中之門と呼ばれる門があった。本丸に入る前の最初の門として厳重に作られていた。 In Edo period, a gate called Nakano-mon stood. The structure is built strongly because the gate was the most important as the first gate on the slope leading up the Hon-maru. 今でも石垣が残っている他、地面を見ると柱の跡がある。 Fondations of pillars remain. 大番所先の坂 大番所から本丸広場に向けてとても急な坂がある。これには、敵の乗ってくる馬が進みにくくする目的があった。よくみてみると、坂の横の壁には大手門と同じような小さい穴が見つけられる。この坂の勾配により、スピードが落ちた馬をその穴から狙う作戦だったようだ。 また、坂がカーブしているのも、馬がカーブが苦手だったからと言われている。 In old days, enemies attacked with horses. Horses are not good at going up a steep hill and turning to the right, compared to turning to the left. The center of the castle was over there. It is difficult for enemies to attack the main castle. 中雀門 坂の最後には中雀門と呼ばれる門があった。この辺りは坂が急になっているが、もともと石の階段になっていて、重い装備の兵士が容易に駆け上がれないようになっていた。 この辺りにはところどころに黒い石がある。これは1863年の本丸の火災の際に石垣に接続していた建物が焼けたことによるものだそう。 There used to be a gate called Chujaku-mon. At that time, this steep slope was a stone staircase which prevent soldiers with heavy equipment from easily climbing up. In 1863, there was a big fire in the castle. The blackened stones were damaged by fire at that time."
+body: "中之門・中雀門跡 中之門 大番所の付近には江戸時代には中之門と呼ばれる門があった。本丸に入る前の最初の門として厳重に作られていた。 In Edo period, a gate called Nakano-mon stood. The structure is built strongly because the gate was the most important as the first gate on the slope leading up the Hon-maru. 今でも石垣が残っている他、地面を見ると柱の跡がある。 Fondations of pillars remain. 大番所先の坂 大番所から本丸広場に向けてとても急な坂がある。これには、敵の乗ってくる馬が進みにくくする目的があった。よくみてみると、坂の横の壁には大手門と同じような小さい穴が見つけられる。この坂の勾配により、スピードが落ちた馬をその穴から狙う作戦だったようだ。 また、坂がカーブしているのも、馬がカーブが苦手だったからと言われている。 In old days, enemies attacked with horses. They are not good at going up a steep slope and turning. The center of the castle was at the top of the slope. It was difficult for enemies to attack the main castle. 中雀門 坂の最後には中雀門と呼ばれる門があった。この辺りは坂が急になっているが、もともと石の階段になっていて、重い装備の兵士が容易に駆け上がれないようになっていた。 この辺りにはところどころに黒い石がある。これは1863年の本丸の火災の際に石垣に接続していた建物が焼けたことによるものだそう。 There used to be a gate called Chujaku-mon. At that time, this steep slope was a stone staircase which prevent soldiers with heavy equipment from easily climbing up. In 1863, there was a big fire in the castle. The blackened stones were damaged by fire at that time."
 },
 {
 url: "https://wress.github.io/guide-materials/asakusa/spots/five/",
@@ -197,7 +197,7 @@ body: "本堂 本堂 942年に元々の浅草寺は建立された。その後�
 {
 url: "https://wress.github.io/guide-materials/kokyo/spots/honmaru/",
 title: "本丸広場",
-body: "本丸広場 本丸広場 かつての江戸城の中心。36000平方メートルの御殿があった。本丸広場の南半分が「表」と呼ばれる将軍の昼の仕事場、北半分に「裏」と呼ばれた夜の仕事場があった。 1863年の火事で焼け、今は見ての通り広大な芝生が広がり、木々が生い茂る公園となっている。桜の時期にはここでピクニックする人も多い。 ただ、お酒だけは飲めない ので注意！（持っていくと入口の手荷物検査で引っ掛かります） ここの周辺は長いですが、フリートークで盛り上げましょう！！ Here used to be the center of the Edo castle and a great palace existed, but it was burnt down in 1863 and as you see now, the vast grass spreads and many trees grow thickly. In the southern half of the Honmaru called \u0026ldquo;Omote (Front)\u0026rdquo;. Shogun(The leader of the samurai and also of the government) worked in daytime. In the northern half of the Honmaru called “Ura (Back)” Shogun worked at night. Tips 将軍の正妻を象徴として形成された大奥は、ここに存在した。大奥は将軍以外の男性は一切立ち入り禁止。本丸大奥だけでも500~600人の女性がおり、他の場所も合わせると優に1000人を超える女性が江戸城で生活をしていた計算になる。 ちなみに忠臣蔵で有名な松の廊下は本丸大広間と将軍に拝謁する白書院とを結んだもの(忠臣蔵を知らない外国人に対し説明するのは超難関 +「ふーん、でも分かんない」と苦労のわりに報われない確率高し)"
+body: "本丸広場 本丸広場 かつての江戸城の中心、本丸御殿があった。その大きさは36000平方メートルだった。江戸時代から何度も繰り返し火事で焼失し、再建を繰り返していたが、最終的には1863年の火事で焼け、再建されなかった。今は見ての通り広大な芝生が広がり、木々が生い茂る公園となっている。桜の時期にはここでピクニックする人も多い。 ただ、お酒だけは飲めないので注意！（持っていくと入口の手荷物検査で引っ掛かります） ここの周辺は長いですが、フリートークで盛り上げましょう！！ Here used to be the center of the Edo castle and a great palace existed. It was burnt down and reconstructed several times. However finally it was burnt down in 1863 and as you see now, the vast grass spreads and many trees grow thickly. Tips 手前側から表御殿・中奥・大奥の3つで構成されていた。 有名な大奥は将軍以外の男性は一切立ち入り禁止。本丸大奥だけでも500~600人の女性がおり、他の場所も合わせると優に1000人を超える女性が江戸城で生活をしていた計算になる。"
 },
 {
 url: "https://wress.github.io/guide-materials/meiji-jingu/spots/honden/",
@@ -292,7 +292,7 @@ body: "車のお祓い 明治神宮では交通安全を願って車のお祓い
 {
 url: "https://wress.github.io/guide-materials/kokyo/spots/tenshudai/",
 title: "天守台",
-body: "天守台 天守台 江戸城の天守台があったところ。1657年の「振袖火事」で全焼してしまった。 また、ここで集合写真を取ることが多い。 This is the foundation of Observation tower. There were six storied tower. It was burned out in the big fire of 1657. 振袖火事 ある女の人が、火事のときに一度助けられたカッコいい消防士のことが忘れられず、もう一度会いたいと思い、自分の着物に火を付けたところ、それが広がって江戸の町の3分の2が焼けてしまったと言われている。 Once a woman had been helped by a fire-fighter. He was very cool guy, so she wanted to meet him again, then, she set fire to her own kimono, and the fire burned out two-thirds of Tokyo (Edo). 日本武道館 1964 年に東京オリンピックで使用するためにつくられた。いまでも、柔道や剣道やコンサートに利用されている。また、2020年の東京オリンピックでも、ここが柔道と空手の会場予定となっている。 ここでコンサートをすることは有名アーティストとしてのステータス・シンボルでもある。ちなみに、ここで初めてコンサートをしたのは、あのビートルズである。 イギリスの方は特に、このビートルズの話を伝えると喜ばれます。 ちなみに、天守台の上から指差して示す時は、You can see the golden onion! というとわかりやすいかもしれないです。 That was built in 1964 for Tokyo Olympic Games. That is used for Judo and any other sports and concerts. In 2020, that will be used for the match venue of karate and judo. Holding a concert in that hall is the status symbol of famous musicians. The first musician who held a concert there is The Beatles."
+body: "天守台 天守台 江戸城の天守があった場所。3度の火災で焼失しそのたびに再建されたが、1657年の明暦の大火以降は「平和が保たれている時代に天守は不要」として再建されることはなかった。 また、ここで集合写真を取ることが多い。 This is the foundation of Observation tower. There were six storied tower. It was burned out in the big fire of 1657. At that time, it was no longer necessary because it was peaceful. So the tower was not rebuilt. 日本武道館 1964 年に東京オリンピックで使用するためにつくられた。いまでも、柔道や剣道やコンサートに利用されている。また、2020年の東京オリンピックでも、ここが柔道と空手の会場予定となっている。 ここでコンサートをすることは有名アーティストとしてのステータス・シンボルでもある。ちなみに、ここで初めてコンサートをしたのは、あのビートルズである。 イギリスの方は特に、このビートルズの話を伝えると喜ばれます。 ちなみに、天守台の上から指差して示す時は、You can see the golden onion! というとわかりやすいかもしれないです。 That was built in 1964 for Tokyo Olympic Games. That is used for Judo and any other sports and concerts. In 2020, that will be used for the match venue of karate and judo. Holding a concert in that hall is the status symbol of famous musicians. The first musician who held a concert there is The Beatles. 火事に関する逸話 説明するのもなかなか難しいので必須ではないが、江戸時代の火事には二つ逸話があり、話題としては面白いので、記載しておく。飽くまで逸話である。 外大・東大の制作したマテリアルには、振袖家事と八百屋お七の話が混ざって記述されている。混同しないように注意。 たまにこれらの話が強烈すぎて一度しか火事で燃えていないと思っている人がいるが、江戸は何度も大火に襲われており、本丸や天守、二の丸御殿など江戸城の建物も何度も焼失しては再建されている。 八百屋お七（天和の大火） ある女の人が、火事で避難しているときに出会った男性と恋に落ちた。もう一度会いたいと思い、自分の着物に火を付けたところ、それが広がって江戸の町の3分の2が焼けてしまったと言われている。 Once a woman evacuated because of fire. At that time, she fell in love with a man. She wanted to meet him again, then, she set fire to her own kimono, and the fire burned out two-thirds of Tokyo (Edo). 振袖火事（明暦の大火） ある女性がすれ違った人に美少年に一目惚れ。しかし女性はその後病に倒れてしまう。案じる両親に彼が着ていた服と同じ模様の振袖を作ってもらい、その振袖を女性は大切にした。だがしばらくして女性は命を散らしてしまう。 両親は葬礼の日、せめてもの供養にと娘の棺に生前愛した形見の振袖をかけてやった。住職が読経しながら護摩の火の中に振袖を投げこむと、裾に火のついた振袖は空に舞い上がり、これが元となり江戸の町を焼き尽くす大火となった。"
 },
 {
 url: "https://wress.github.io/guide-materials/kokyo/spots/music-hall/",
@@ -312,7 +312,7 @@ body: "二の丸雑木林 二の丸雑木林 汐見坂を降りると広がっ�
 {
 url: "https://wress.github.io/guide-materials/kokyo/spots/todofuken/",
 title: "都道府県の木",
-body: "都道府県の木 都道府県の木 皇居東御苑の開園に際して47都道府県から寄贈された木がある。 ちなみに、東京の木は奥の方にある。 余裕があれば、下見の時に場所だけでも確認しておくと安心。 These trees were presented by all the prefectures and are their symbol trees. Tips フリートークのネタとして、ここで自分の出身地の木について紹介したり、外国の方がこれまで訪れた場所や、行く予定の場所を木をきっかけにして話したりすると盛り上がるかもしれないです。"
+body: "都道府県の木 都道府県の木 皇居東御苑の開園に際して47都道府県から寄贈された木がある。 ちなみに、東京の木は奥の方にある。 余裕があれば、下見の時に場所だけでも確認しておくと安心。 These trees were presented by all the prefectures and are their symbol trees. Tips フリートークのネタとして、ここで自分の出身地の木について紹介したり、外国の方がこれまで訪れた場所や、行く予定の場所を木をきっかけにして話したりすると盛り上がるかも。 ちなみに被りがあるので32品種しかない。"
 },
 {
 url: "https://wress.github.io/guide-materials/kokyo/spots/suwa/",
@@ -322,7 +322,7 @@ body: "諏訪の茶屋 諏訪の茶屋 明治天皇の指示で皇居西側の�
 {
 url: "https://wress.github.io/guide-materials/kokyo/spots/garden/",
 title: "二の丸庭園",
-body: "二の丸庭園 二の丸庭園 かつては二の丸があり、表と奥とからなる御殿があった。前将軍の個室があり、晩年を過ごす場所となっていた。3度の火事で焼失し、今あるのは30年前に作り直されたもの。 この庭園は説明よりも、ただ日本庭園を楽しんでもらうことに注力するのもいいと思います！ This place was once called Ninomaru or The Second citadel. There used to be a wonderful palace consist of Omote and Oku. Ninomaru was used as the place where a pre-Shogun\u0026rsquo;s wife spent her last years. It was burned out three times and reconstructed 30 years ago. 池の鯉 この庭園の池には、金色やいろんな色の鯉がいる。この鯉は、インドネシアと日本の品種を交配して生まれた。通常より長いヒレが綺麗だと、意外と人気。ちなみに、鯉は英語でCarpですが、こちらよりも Koi fish のほうが通じる。むしろ、Carpだと通じないことも。 人面魚がいるという噂がある。 藤棚 春には藤も咲く。藤は英語で\u0026rdquo;wisteria\u0026rdquo;という。藤棚は\u0026rdquo;a wisteria trellis\u0026rdquo;という。普段カタカナでも使わない単語なので春には覚えておくと良いだろう。 花菖蒲 庭園の出口の近くに、木札が添えられて植えられている花菖蒲がある。 見頃は6月。しかし、ガイドする際は時期的に、ほとんど花が見れないのでイネみたいになっているが、実は花菖蒲。 英語名はIris。ここはもし聞かれたら答えれば良い。"
+body: "二の丸庭園 二の丸庭園 かつては二の丸があり、表と奥とからなる御殿があった。前将軍の個室があり、晩年を過ごす場所となっていた。 現在の庭園は江戸時代の庭園の図面をもとに造られたもの。 この庭園は説明よりも、ただ日本庭園を楽しんでもらうことに注力するのもいいと思います！ This place was once called Ninomaru or The Second citadel. There used to be a wonderful palace consist of Omote and Oku. Ninomaru was used as the place where a pre-Shogun\u0026rsquo;s wife spent her last years. It is made in reference to gardens in Edo period. 池の鯉 この庭園の池には、金色やいろんな色の鯉がいる。この鯉は、インドネシアと日本の品種を交配して生まれた。通常より長いヒレが綺麗だと、意外と人気。ちなみに、鯉は英語でCarpだが、こちらよりも Koi fish のほうが通じる。むしろ、Carpだと通じないことも。 人面魚がいるという噂がある。 藤棚 春には藤も咲く。藤は英語で\u0026rdquo;wisteria\u0026rdquo;という。藤棚は\u0026rdquo;a wisteria trellis\u0026rdquo;という。普段カタカナでも使わない単語なので春には覚えておくと良いだろう。 花菖蒲 庭園の出口の近くに、木札が添えられて植えられている花菖蒲がある。 見頃は6月。しかし、ガイドする際は時期的に、ほとんど花が見れないのでイネみたいになっているが、実は花菖蒲。 英語名はIris。ここはもし聞かれたら答えれば良い。"
 },
 {
 url: "https://wress.github.io/guide-materials/common/imperial/",
