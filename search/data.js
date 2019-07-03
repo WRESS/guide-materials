@@ -177,7 +177,7 @@ body: "コア コアとは コアというのは簡単にいうとガイドの�
 {
 url: "https://wress.github.io/guide-materials/asakusa/spots/burner/",
 title: "香炉",
-body: "香炉 香炉 この香炉には屋根がついており、常に煙が上がっているので、常香炉とも呼ばれる。 身体の調子のよくない部分に煙を洗うようにつけるとそれが回復するといわれている。 また、科学的には、この線香の香りに気持ちを落ち着ける効果があるらしい。 The smoke of this incense burner is believed to cure bad parts and illness of our body. If you have any problems with your body or you would like to improve your health, please try to put the smoke on bad parts. Moreover, the smoke is scientifically proven to make us feel calm."
+body: "香炉 香炉 この香炉には屋根がついており、常に煙が上がっているので、常香炉とも呼ばれる。 身体の調子のよくない部分に煙を洗うようにつけるとそれが回復するといわれている。 また、線香の香りには気持ちを落ち着ける効果がある。 The smoke of this incense burner is believed to cure bad parts and illness of our body. If you have any problems with your body or you would like to improve your health, please try to put the smoke on bad parts. Moreover, the smoke makes us feel calm."
 },
 {
 url: "https://wress.github.io/guide-materials/asakusa/spots/chozu/",
