@@ -22,7 +22,7 @@ body: "大手門 大手門 旧江戸城の正門である。１６２０年に�
 {
 url: "https://wress.github.io/guide-materials/common/shinbutsu/",
 title: "神仏習合・分離",
-body: "神仏習合・分離 神仏習合 神仏習合（しんぶつしゅうごう）は、日本で外来の仏教と日本で生まれた神道が区別されず一つの状態にあったことを指す言葉です。 神仏分離 神仏分離（しんぶつぶんり）とは、明治時代に神道と仏教がはっきり区別されるようになったことを指す言葉です。"
+body: "神仏習合・分離 神仏習合 神仏習合（しんぶつしゅうごう）は、日本で外来の仏教と日本で生まれた神道が区別されず一つの状態にあったことを指す言葉です。 日本にはもともと今日神道と呼ばれるものの原型である，土着の信仰がありました。6世紀頃から仏教が日本に伝来すると，これが日本古来の信仰と混同され，一体化しました。神道の神々は護法善神と呼ばれる仏教の神が仮の姿で現れたものだという思想が広がりました。 奈良時代以降には神社と寺が一緒に作られることも多くなり，例えば神社に仏具を奉納することが一般化するなどして，ますます一体化が進んでいきます。 神仏分離 神仏分離（しんぶつぶんり）とは、明治時代の頃に神道と仏教がはっきり区別されるようになったことを指す言葉です。 江戸時代に国学が発展し，仏教の影響を受ける以前の日本の信仰について研究が進んでいました。明治維新後，王政復古による天皇の政治を推し進めるために，神道を国教化する動きがありました。そのために神仏分離令などが下され，全国的に神仏分離が進んでいくこととなります。"
 },
 {
 url: "https://wress.github.io/guide-materials/asakusa/spots/kaminari-mon/",
@@ -278,6 +278,11 @@ body: "天守台 天守台 江戸城の天守があった場所。3度の火災�
 url: "https://wress.github.io/guide-materials/kokyo/spots/music-hall/",
 title: "桃華楽堂",
 body: "桃華楽堂 桃華楽堂 皇太后良子(ながこ)の還暦を記念して造られた八角形の建物で各面はタイルで優雅な絵が描かれている。音書効果が素晴らしいようだが一般人が使うことは許されていない。 屋根はキンポウゲ科の「テッセン」の花弁（八弁花）を形どっている。 This is called Tokagakudo music hall. This building was built in commemoration of the ex-Empress’s 61st birthday in 1963. (This building was the birthday present for the ex-Empress.) It is octagonal and the acoustics are excellent. Each face has an elegant picture of tiles. It has the flower-shaped roof. If you could see the roof from the sky, it would look like a flower. Tips 「桃華」の由来は、香淳皇后さまの御誕生日が三月なので桃の節句にちなんで桃とし、華の字形は十が六個と一で構成されていることから還暦（数え年61歳）を意味するということで命名された。 外壁のモザイク・タイルの図柄は、各面とも大きく羽ばたく鳥を抽象的に描いたものに、日月星・衣食住・風水火・春夏秋冬・鶴亀・雪月花・楽の音・松竹梅を施したもの。 楽部庁舎 この先に、ベージュ色の建物がある。これは宮内庁の内部組織である楽部の庁舎。楽部は、雅楽の保存や演奏演舞を担当する部署。毎年秋には、楽部による雅楽の一般公開が行われている。通常は一般の人は入れない。 ここはただの事務所なので、あまり説明しなくても良いかも。 This is an office for workers. They are preserving Japanese traditional music."
+},
+{
+url: "https://wress.github.io/guide-materials/common/kamon/",
+title: "家紋",
+body: "家紋 家紋 家紋とは，家系に継承される日本の伝統的な紋章のことである。奈良時代に公家により使用されたことに端を発し，江戸時代には一般庶民まで家紋を持つようになりました。 江戸時代には，家紋は身分・階級を表すものとして用いられました。正装に家紋を入れる文化も起こりました。 このような文化は明治維新後も廃れることはなく，家紋は広く使われていました。 しかし戦後，封建的な日本の文化の否定，そして洋服文化の広がりにより，家紋の出番は少なくなります。 現在では，冠婚葬祭に用いる着物や，墓石に用いる紋章として用いられています。"
 },
 {
 url: "https://wress.github.io/guide-materials/kokyo/spots/shiomi/",
