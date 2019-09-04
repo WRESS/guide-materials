@@ -227,7 +227,7 @@ body: "茶畑 茶畑 日本中の茶畑の様子を再現した茶畑がある�
 {
 url: "https://wress.github.io/guide-materials/asakusa/spots/niten/",
 title: "二天門",
-body: "二天門 二天門 1649年に造られた本堂の東に建つ朱塗りの門。戦災を免れた数少ない建物の一つ。二天門は境内に残る江戸時代初期の古建築として貴重であり、国の重要文化財に指定されている。 二天像という二つの像がおかれている。それぞれ持国天と増長天という四天王に数えられる仏さまである。 This is Nitemmon-Gate. \u0026ldquo;Ni\u0026rdquo; means two, \u0026ldquo;ten\u0026rdquo; means a class of Buddhism gods. So this is the gate of two gods. These two gods prevent evil spirits from coming inside. It survived the destruction of air raids and now it is an important cultural asset."
+body: "二天門 二天門 1649年に造られた本堂の東に建つ朱塗りの門。戦災を免れた数少ない建物の一つ。二天門は境内に残る江戸時代初期の古建築として貴重であり、国の重要文化財に指定されている。 二天像という二つの像がおかれている。それぞれ持国天と増長天という四天王に数えられる仏さまである。 This is the gate of two gods. The statues are gods in Buddhism and they are simbols of this gate. They prevent evil spirits from coming inside. It survived the destruction of air raids and now it is an important cultural asset."
 },
 {
 url: "https://wress.github.io/guide-materials/kokyo/spots/fujimitamon/",
