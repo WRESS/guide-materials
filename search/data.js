@@ -50,6 +50,16 @@ title: "南参道",
 body: "南参道 道幅は8間(約14.4m)であり明治神宮内の他の参道と比べて一番広い。お正月には参拝者で埋め尽くされる。 この参道には玉砂利と呼ばれる白く小さい石が敷き詰められている。日本人にとって神社にこのような砂利が引かれているのは当たり前だが、外国人にとっては「どうしてわざわざ歩きづらくするのか」と不思議に思うこともあるらしい。もはや当たり前すぎて詳しい理由はわかっていないそうだが、一説には、清浄な石を踏むことで身を清める効果があるとのこと（参考：明治神宮-Q\u0026amp;A-）。 参道の中央は「正中(しょうちゅう)」といって神様の通り道とされていて、昔の人は真ん中を歩かないようにしていたそうです。 These small stones are called Tamajari. Tama means soul, but also means beauty, jewel, and something precious. It is thought that Tamajari is laid to keep purity of the shrine. The center of this road is called Shochu, and it is thought as the road for gods. So in old days, people tried not to walk there."
 },
 {
+url: "https://wress.github.io/guide-materials/common/difference/",
+title: "寺と神社の違い",
+body: "寺と神社の違い お寺と神社の違い 浅草には、お寺と神社が同じ敷地内にあります。 寺は仏教の建物であり、神社は神道の建物です。 仏教はインドから伝わった宗教で、神道は日本固有の宗教だと説明すると、だいたい理解してくれます。 Temples are places for Buddhism, and Shrines are places for Shinto. Buddhism is from India, and Shinto is Japanese original religion. また、大きな違いとしては、仏教がブッダを祀る一神教であるのに対し、神道は多神教です。「八百万の神」という言葉にもあるように、山、川、葉っぱ、玄関などいろんなものや場所に神様が宿っていると考えます。 In Shinto, people believe that gods are in everything. The god of water, the god of wind, the god of sun and so on. However, in Buddhism, people believe only Buddha. This is one of the biggest differences. 参拝方法 宗教 参拝方法 仏教 一礼 神道 二礼二拍手一礼 これは実際にお参りするときに一緒にやって見せれば大丈夫です ちなみになぜお寺でお辞儀だけなのかというと、目の前にご本尊がいらっしゃるから！ 神社では、手を叩くことでいろんなところにいる神様に気が付いてもらうという目的があります。"
+},
+{
+url: "https://wress.github.io/guide-materials/common/semi/",
+title: "セミ",
+body: "セミ セミ 皆さんご存知のセミは我々日本人にとって夏の風物詩ですが、世界の一部の地域においては生息さえしておらず、「この音は何？」と聞かれることも多い。 セミは英語でcicadaという。これを使ってもいいし、セミ自体を知らないこともあるので、the insectのようにぼかしてもいいと思う。 The noise is made by a kind of insects. They live around Japan. The Japanese could feel the change of the seasons."
+},
+{
 url: "https://wress.github.io/guide-materials/info/materials/",
 title: "マテリアル",
 body: "マテリアル マテリアルとは マテリアルとは、ガイドをするための資料のことです。各観光地に何があり、どのようなことを説明したらよいのかを記載してあります。 各大学のESSが独自に製作しており、このマテリアルもそのうちの一つです。 2019年現在では東京外国語大学ESSや東京大学ESSの作ったマテリアルが主流なようです。 マテリアルの使い方 マテリアルには様々な知識が書いてあり、英文も記載しています。丸暗記しても良いのですが、会話の中で取り出す知識や言い回しを覚えておいて、会話の中で自然に取り出せるようになると良いでしょう。 ガイドで大切なのは会話を楽しむことです。もちろん案内させていただく以上最低限の知識がないとまずいですが、まずは異国の地からはるばるやってきた方と会話を楽しむことを忘れないでください。"
@@ -100,6 +110,11 @@ title: "宝蔵門",
 body: "宝蔵門 宝蔵門 942年に建立されたといわれている。 1649年、3代徳川家光により仁王門として再建された。 国宝の法華経や大蔵経などが、この門の2階に収蔵されている。 宝蔵門の像は金剛力士像（または仁王像）で、金剛力士は仏教での神（インド土着の神。天と呼ばれる）にあたり、守護神としての役割を持つため門に祀られている。 こちらの像も「あうん」になっているが、雷門が右が「あ」左が「うん」であるのに対し、左が「あ」右が「うん」となっている。あえて逆にすることで、より強い力でこの寺を守ろうとしたと言われている。 Houzou-mon Gate The second gate is called Hozo-mon Gate, the main gate of Senso-ji Temple. Hozo-mon means \u0026ldquo;Treasure Gate\u0026rdquo;. The invaluable Japanese sutras (Buddhist literature) are placed at the second floor. It has two guardians called \u0026ldquo;Nio-zou\u0026rdquo; . They are protecting the temple. The guardian on the left hand says ”A” and the one on the right hand says “UM”. It has the same meaning as those in “Kaminari-mon”, but their position is different. Tips こちらの提灯には「小舟町」と書かれている。これはこの提灯が日本橋小舟町から寄付されたからである。"
 },
 {
+url: "https://wress.github.io/guide-materials/common/kamon/",
+title: "家紋",
+body: "家紋 家紋 家紋とは、家系に継承される日本の伝統的な紋章のことである。奈良時代に公家により使用されたことに端を発し、江戸時代には一般庶民まで家紋を持つようになりました。 江戸時代には、家紋は身分・階級を表すものとして用いられました。正装に家紋を入れる文化も起こりました。 このような文化は明治維新後も廃れることはなく、家紋は広く使われていました。 しかし戦後、封建的な日本の文化の否定、そして洋服文化の広がりにより、家紋の出番は少なくなります。 現在では、冠婚葬祭に用いる着物や、墓石に用いる紋章として用いられています。"
+},
+{
 url: "https://wress.github.io/guide-materials/kokyo/spots/hyakunin/",
 title: "百人番所",
 body: "百人番所 百人番所 50mを超える長さの建物である。名前のとおり、百人同心４組が昼夜交代で護衛していた。1チーム100人のグループが4つあり、ローテーションを組んで警備に当たっていた。 百人番所の奥には、さりげなく百人番所と同じ形に剪定された植え込みがある。かわいいのでチェックしてみよう。 This is Hyakunin-bansho. Hyakunin means one hundred people, and bansho means guardhouse. More than 400 guardians made four groups and guarded by turns. 注意 近くにある「セルフガイド」という看板には「25人組×4」と書かれている。「100人組×4」は、皇居を管理している宮内庁のホームページ記載のデータ。そこには「甲賀組、根来組、伊賀組、二十五騎組の 4つの組があり、それぞれの組に同心100人ずつが配属されていた」と書かれている。"
@@ -118,6 +133,11 @@ body: "大番所 大番所 他の番所より格上で、最も位が高く強�
 url: "https://wress.github.io/guide-materials/asakusa/spots/straw/",
 title: "大草履",
 body: "大草履 大草履 仁王像制作者である村岡久作氏の出身地と言うご縁で山県村山市楯岡の有志らが村から奉納したもの。浅草寺は、その信者も多くおり、彼らもそのうちの何人かである。浅草寺にはこんな大きなわらじをはく人がいるならと驚いて魔が去っていくという、魔除けと健脚を願い「わらじ」に触れていく人もいるそう。左右一対になっている。 Big Straw Sandals On the back side of Hozo-mon Gate, we can see a pair of big straw sandals. They were donated from the village in Yamagata Prefecture (in the north area of Japan) as believers of Senso-ji Temple. People believed that evil spirits would escape from the temple when they saw the big sandals thinking that God in Asakusa is so big."
+},
+{
+url: "https://wress.github.io/guide-materials/common/imperial/",
+title: "天皇制",
+body: "天皇制 皇族に関する豆知識 元号も変わり、皇族や天皇制についての質問が増えることが予想されます。ガイドの前にさらっと確認してみてください! よく使う用語 天皇家　：Imperial Family 天皇　：Emperor 天皇陛下　：His Majesty the Emperor 皇后　：Empress 皇后陛下　：Her Majesty the Empress 皇太子　：Crown Prince 皇太子殿下：His Imperial Highness the Crown Prince 上皇　：Emperor Emeritus 上皇陛下　：His Majesty the Emperor Emeritus 宮内庁　：Imperial Household Agency 王座　：the throne 公務　：official duty, public activity 退位する　：abdicate, leave the throne 即位する　：enthrone, take (assume) the throne ちなみに、イギリスの皇太子はThe Prince of Walesという独特の呼ばれ方をするそう。イギリスの方には、この表現の方がピンとくるかもしれない。 また、現在の天皇のことを「今上(きんじょう)天皇」と呼ぶ。「明治天皇」や「昭和天皇」のように元号をつけて呼ぶのは陛下が崩御なさった後。間違っても「平成天皇」や「令和天皇」と呼ばないように。 日本の象徴 日本国憲法 第一条 天皇は、日本国の象徴であり日本国民統合の象徴であつて、この地位は、主権の存する日本国民の総意に基く。 とあるが、このまま説明するとわかりにくいので以下の表現でよいでしょう。 After the World War II, the emperor became the symbol of Japan under the new constitution. 天皇の仕事 皇室の歴史 皇室の歴史は日本神話から始まっている。初代天皇である神武天皇は、天岩戸の神話で有名な天照大神の男系の来孫（孫のひ孫）であり、紀元前660年2月11日（建国記念日になっている）に即位した。しかし古事記では137歳、日本書紀では127歳まで生きたとされ、実存しなかったとみられている。 実存がほぼ確実とされている天皇から数えても現在の皇族はすでに1500年以上も続いている。 歴史上、形式的な存在だった時期も長かったが、明治から終戦までは現人神として不可侵の存在とされていた。 現在は政治的権力のない象徴的存在とされている。 It is said that unbroken line of descent from the Great Sun Goddess continues to today from some thousands years ago. Japanese imperial family is the oldest royal family in the world. Emperors had been figureheads for a long time over the course of history. Then, the emperor was considered as inviolable living god during the period between the beginning of the 19th century and end of the war in 1945. After the World War II, the emperor became the symbol of Japan without any political power. 歴代の天皇 お名前を聞かれることも多いです。少なくとも、今上天皇と上皇陛下の名前は覚えておくとよいでしょう。 明治天皇：睦仁(むつひと)さま 大正天皇：嘉仁(よしひと)さま 昭和天皇：裕仁(ひろひと)さま 上皇　：明仁(あきひと)さま 今上天皇：徳仁(なるひと)さま 在位期間がもっとも長い天皇は昭和天皇で62年2週間となっている。 明仁上皇の在位期間は30年であった。 また、今回の皇位継承により、皇位継承権第1位は徳仁天皇の弟である秋篠宮家の文仁さま、第2位はそのご子孫の悠仁さまとなっている。 Naruhito\u0026rsquo;s brother Prince Fumihito will be next in line to the throne, followed by the new emperor\u0026rsquo;s nephew, 12-year-old Prince Hisahito. New emperor has a daughter, Princess Aiko, who was born in 2001. However, Japanese law prohibits women from inheriting the throne. 皇位継承 生前退位が行われたのは、202年ぶり。君主が存命の間に、その地位を後継者に引き渡す行為は譲位とも呼ばれ、こちらの方が昔から使われている。これまでにに50回以上行われている。 Emperor Akihito left (abdicated) the throne on April 30, and his son, Crown Prince Naruhito took (assumed) the throne on May 1. Emperor Akihito left the throne while he is alive for the first time in 202 years. 元号 みんなご存知の通り、天皇が変わるタイミングで日本の元号は変わります。 The era in Japan corresponds to the reign of each emperor. It means that when an emperor leaves the throne and the following emperor takes the throne, the era in Japan changes into next one."
 },
 {
 url: "https://wress.github.io/guide-materials/info/necessity/",
@@ -210,11 +230,6 @@ title: "夫婦楠",
 body: "夫婦楠 夫婦楠 読み方はめおとくす。くすのきです。 上の方を見ると一つの大きな木に見えますが、実は二つの木であることからこう呼ばれます。 These trees are called \u0026ldquo;Couple Tree\u0026rdquo;. The two trees look like one big tree when you look the upper part. It is said the trees bring happy marriage and family\u0026rsquo;s safety. しめ縄 夫婦楠にはしめ縄がかかっています。日本ではお正月飾りをはじめとしてあちこちで当たり前のように見るしめ縄ですが、外国の方にとっては不思議な飾りなようです。 神聖なものと普通のものを分ける役割があり、神が宿っているとされるものに取り付けられます。神道では八百万の神という言葉に代表されるように、すべてのものに神が宿っていると考えます。そのような考え方から夫婦岩や大木などの自然のものの中でも特殊なものに目を向け、その神を祀るためにしめ縄をしめるそうです。 It\u0026rsquo;s a \u0026ldquo;sacred rope\u0026rdquo;. In Japan, there is a custom of winding a sacred rope around sacred things. It separates a holy place from other unclean places and is considered a barrier against evil spirits. In Shintoninsm, it is believed that every thing has each god. This sacred rope enshrine the trees\u0026rsquo; god."
 },
 {
-url: "https://wress.github.io/guide-materials/common/difference/",
-title: "寺と神社の違い",
-body: "寺と神社の違い お寺と神社の違い 浅草には、お寺と神社が同じ敷地内にあります。 寺は仏教の建物であり、神社は神道の建物です。 仏教はインドから伝わった宗教で、神道は日本固有の宗教だと説明すると、だいたい理解してくれます。 Temples are places for Buddhism, and Shrines are places for Shinto. Buddhism is from India, and Shinto is Japanese original religion. また、大きな違いとしては、仏教がブッダを祀る一神教であるのに対し、神道は多神教です。「八百万の神」という言葉にもあるように、山、川、葉っぱ、玄関などいろんなものや場所に神様が宿っていると考えます。 In Shinto, people believe that gods are in everything. The god of water, the god of wind, the god of sun and so on. However, in Buddhism, people believe only Buddha. This is one of the biggest differences. 参拝方法 宗教 参拝方法 仏教 一礼 神道 二礼二拍手一礼 これは実際にお参りするときに一緒にやって見せれば大丈夫です ちなみになぜお寺でお辞儀だけなのかというと、目の前にご本尊がいらっしゃるから！ 神社では、手を叩くことでいろんなところにいる神様に気が付いてもらうという目的があります。"
-},
-{
 url: "https://wress.github.io/guide-materials/asakusa/spots/jinja/",
 title: "浅草神社",
 body: "浅草神社 浅草神社 浅草には、お寺と神社が同じ敷地内にある。これは神仏習合によるもの。これに関する説明は当該ページを参照のこと。 神社とお寺の違いも説明できると良い。こちらも「共通知識」ページに記事があるのでそちらを参照のこと。 この神社では隅田川で仏像を引き上げた2人の漁師、桧前浜成・竹成兄弟と、仏像を奉った郵司の土師直中知の3人が祠られているため、「三社さま」として親しまれている。後には徳川家康も祠られた。今の建物は、徳川家光が１６４９年に寄進したもの。 This is Asakusa Shrine. This shrine is liked as \u0026ldquo;Sanja-sama\u0026rdquo; which means \u0026ldquo;three holy gods\u0026rdquo;. The three gods are two fishermen who found the statue of the goddess of mercy and the head of village who enshrined it. The Shogun of 400 years ago was also enshrined later. The current building was founded by Iemitsu Tokugawa in 1649."
@@ -280,16 +295,6 @@ title: "桃華楽堂",
 body: "桃華楽堂 桃華楽堂 皇太后良子(ながこ)の還暦を記念して造られた八角形の建物で各面はタイルで優雅な絵が描かれている。音書効果が素晴らしいようだが一般人が使うことは許されていない。 屋根はキンポウゲ科の「テッセン」の花弁（八弁花）を形どっている。 This is called Tokagakudo music hall. This building was built in commemoration of the ex-Empress’s 61st birthday in 1963. (This building was the birthday present for the ex-Empress.) It is octagonal and the acoustics are excellent. Each face has an elegant picture of tiles. It has the flower-shaped roof. If you could see the roof from the sky, it would look like a flower. Tips 「桃華」の由来は、香淳皇后さまの御誕生日が三月なので桃の節句にちなんで桃とし、華の字形は十が六個と一で構成されていることから還暦（数え年61歳）を意味するということで命名された。 外壁のモザイク・タイルの図柄は、各面とも大きく羽ばたく鳥を抽象的に描いたものに、日月星・衣食住・風水火・春夏秋冬・鶴亀・雪月花・楽の音・松竹梅を施したもの。 楽部庁舎 この先に、ベージュ色の建物がある。これは宮内庁の内部組織である楽部の庁舎。楽部は、雅楽の保存や演奏演舞を担当する部署。毎年秋には、楽部による雅楽の一般公開が行われている。通常は一般の人は入れない。 ここはただの事務所なので、あまり説明しなくても良いかも。 This is an office for workers. They are preserving Japanese traditional music."
 },
 {
-url: "https://wress.github.io/guide-materials/common/semi/",
-title: "セミ",
-body: "セミ セミ 皆さんご存知のセミは我々日本人にとって夏の風物詩ですが、世界の一部の地域においては生息さえしておらず、「この音は何？」と聞かれることも多い。 セミは英語でcicadaという。これを使ってもいいし、セミ自体を知らないこともあるので、the insectのようにぼかしてもいいと思う。 The noise is made by a kind of insects. They live around Japan. The Japanese could feel the change of the seasons."
-},
-{
-url: "https://wress.github.io/guide-materials/common/kamon/",
-title: "家紋",
-body: "家紋 家紋 家紋とは、家系に継承される日本の伝統的な紋章のことである。奈良時代に公家により使用されたことに端を発し、江戸時代には一般庶民まで家紋を持つようになりました。 江戸時代には、家紋は身分・階級を表すものとして用いられました。正装に家紋を入れる文化も起こりました。 このような文化は明治維新後も廃れることはなく、家紋は広く使われていました。 しかし戦後、封建的な日本の文化の否定、そして洋服文化の広がりにより、家紋の出番は少なくなります。 現在では、冠婚葬祭に用いる着物や、墓石に用いる紋章として用いられています。"
-},
-{
 url: "https://wress.github.io/guide-materials/kokyo/spots/shiomi/",
 title: "汐見坂",
 body: "汐見坂 汐見坂 昔はこの坂から海が見えたのでこう呼ばれる。 海岸が埋め立てられた上に、高層ビルが建てられたので、今は海を見ることはできない。 ちょっと先は高層ビルなのに、周りは自然でいっぱいなところが意外と外国の方に人気。 This slope is called Shiomizaka, or Sea-viewing slope. Literally, in old days the ocean could be seen from this slope."
@@ -313,11 +318,6 @@ body: "諏訪の茶屋 諏訪の茶屋 明治天皇の指示で皇居西側の�
 url: "https://wress.github.io/guide-materials/kokyo/spots/garden/",
 title: "二の丸庭園",
 body: "二の丸庭園 二の丸庭園 かつては二の丸御殿があった。前将軍の個室があり、晩年を過ごす場所となっていた。二の丸御殿には庭園があり、現在の庭園はこの江戸時代の庭園の図面をもとに造られたもの。 この庭園は説明よりも、ただ日本庭園を楽しんでもらうことに注力するのもいいと思います！ This place was once called Ninomaru or The Second citadel. There used to be a wonderful palace. Ninomaru was used as the place where a pre-Shogun\u0026rsquo;s wife spent her last years. This garden is made in reference to the garden of the palace in Edo period. 池の鯉 この庭園の池には、金色やいろんな色の鯉がいる。この鯉は、インドネシアと日本の品種を交配して生まれた。通常より長いヒレが綺麗だと、意外と人気。ちなみに、鯉は英語でCarpだが、こちらよりも Koi fish のほうが通じる。むしろ、Carpだと通じないことも。 人面魚がいるという噂がある。 藤棚 春には藤も咲く。藤は英語で\u0026rdquo;wisteria\u0026rdquo;という。藤棚は\u0026rdquo;a wisteria trellis\u0026rdquo;という。普段カタカナでも使わない単語なので春には覚えておくと良いだろう。 花菖蒲 庭園の出口の近くに、木札が添えられて植えられている花菖蒲がある。 見頃は6月。しかし、ガイドする際は時期的に、ほとんど花が見れないのでイネみたいになっているが、実は花菖蒲。 英語名はIris。ここはもし聞かれたら答えれば良い。"
-},
-{
-url: "https://wress.github.io/guide-materials/common/imperial/",
-title: "天皇制",
-body: "天皇制 皇族に関する豆知識 元号も変わり、皇族や天皇制についての質問が増えることが予想されます。ガイドの前にさらっと確認してみてください! よく使う用語 天皇家　：Imperial Family 天皇　：Emperor 天皇陛下　：His Majesty the Emperor 皇后　：Empress 皇后陛下　：Her Majesty the Empress 皇太子　：Crown Prince 皇太子殿下：His Imperial Highness the Crown Prince 上皇　：Emperor Emeritus 上皇陛下　：His Majesty the Emperor Emeritus 宮内庁　：Imperial Household Agency 王座　：the throne 公務　：official duty, public activity 退位する　：abdicate, leave the throne 即位する　：enthrone, take (assume) the throne ちなみに、イギリスの皇太子はThe Prince of Walesという独特の呼ばれ方をするそう。イギリスの方には、この表現の方がピンとくるかもしれない。 また、現在の天皇のことを「今上(きんじょう)天皇」と呼ぶ。「明治天皇」や「昭和天皇」のように元号をつけて呼ぶのは陛下が崩御なさった後。間違っても「平成天皇」や「令和天皇」と呼ばないように。 日本の象徴 日本国憲法 第一条 天皇は、日本国の象徴であり日本国民統合の象徴であつて、この地位は、主権の存する日本国民の総意に基く。 とあるが、このまま説明するとわかりにくいので以下の表現でよいでしょう。 After the World War II, the emperor became the symbol of Japan under the new constitution. 天皇の仕事 皇室の歴史 皇室の歴史は日本神話から始まっている。初代天皇である神武天皇は、天岩戸の神話で有名な天照大神の男系の来孫（孫のひ孫）であり、紀元前660年2月11日（建国記念日になっている）に即位した。しかし古事記では137歳、日本書紀では127歳まで生きたとされ、実存しなかったとみられている。 実存がほぼ確実とされている天皇から数えても現在の皇族はすでに1500年以上も続いている。 歴史上、形式的な存在だった時期も長かったが、明治から終戦までは現人神として不可侵の存在とされていた。 現在は政治的権力のない象徴的存在とされている。 It is said that unbroken line of descent from the Great Sun Goddess continues to today from some thousands years ago. Japanese imperial family is the oldest royal family in the world. Emperors had been figureheads for a long time over the course of history. Then, the emperor was considered as inviolable living god during the period between the beginning of the 19th century and end of the war in 1945. After the World War II, the emperor became the symbol of Japan without any political power. 歴代の天皇 お名前を聞かれることも多いです。少なくとも、今上天皇と上皇陛下の名前は覚えておくとよいでしょう。 明治天皇：睦仁(むつひと)さま 大正天皇：嘉仁(よしひと)さま 昭和天皇：裕仁(ひろひと)さま 上皇　：明仁(あきひと)さま 今上天皇：徳仁(なるひと)さま 在位期間がもっとも長い天皇は昭和天皇で62年2週間となっている。 明仁上皇の在位期間は30年であった。 また、今回の皇位継承により、皇位継承権第1位は徳仁天皇の弟である秋篠宮家の文仁さま、第2位はそのご子孫の悠仁さまとなっている。 Naruhito\u0026rsquo;s brother Prince Fumihito will be next in line to the throne, followed by the new emperor\u0026rsquo;s nephew, 12-year-old Prince Hisahito. New emperor has a daughter, Princess Aiko, who was born in 2001. However, Japanese law prohibits women from inheriting the throne. 皇位継承 生前退位が行われたのは、202年ぶり。君主が存命の間に、その地位を後継者に引き渡す行為は譲位とも呼ばれ、こちらの方が昔から使われている。これまでにに50回以上行われている。 Emperor Akihito left (abdicated) the throne on April 30, and his son, Crown Prince Naruhito took (assumed) the throne on May 1. Emperor Akihito left the throne while he is alive for the first time in 202 years. 元号 みんなご存知の通り、天皇が変わるタイミングで日本の元号は変わります。 The era in Japan corresponds to the reign of each emperor. It means that when an emperor leaves the throne and the following emperor takes the throne, the era in Japan changes into next one."
 },
 {
 url: "https://wress.github.io/guide-materials/kokyo/spots/aki-nanakusa/",
