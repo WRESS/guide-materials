@@ -297,7 +297,7 @@ body: "桃華楽堂 桃華楽堂 皇太后良子(ながこ)の還暦を記念し
 {
 url: "https://wress.github.io/guide-materials/kokyo/spots/shiomi/",
 title: "汐見坂",
-body: "汐見坂 汐見坂 昔はこの坂から海が見えたのでこう呼ばれる。 海岸が埋め立てられた上に、高層ビルが建てられたので、今は海を見ることはできない。 ちょっと先は高層ビルなのに、周りは自然でいっぱいなところが意外と外国の方に人気。 This slope is called Shiomizaka, or Sea-viewing slope. Literally, in old days the ocean could be seen from this slope."
+body: "汐見坂 汐見坂 昔はこの坂から海が見えたのでこう呼ばれる。 海岸が埋め立てられた上に、高層ビルが建てられたので、今は海を見ることはできない。 ちょっと先は高層ビルなのに、周りは自然でいっぱいなところが意外と外国の方に人気。 This slope is called Shiomizaka, or Sea-viewing slope. Literally, in old days the sea could be seen from this slope. But we cannot see it now because of the landfill and the skyscraper. Tips 「see」と「sea」はどちらも同じ発音で，発音記号にすると[siː]。 自信をもって「see the sea」と言おう。 なお「she」の発音は[ʃi;]なので注意。 また、「ocean」は洋を表すが、ここから見えていたのは湾（現在の東京湾）であるため、これを使うのは厳密には間違い。 「sea」か「bay」を使おう。"
 },
 {
 url: "https://wress.github.io/guide-materials/kokyo/spots/zokibayashi/",
@@ -307,7 +307,7 @@ body: "二の丸雑木林 二の丸雑木林 汐見坂を降りると広がっ�
 {
 url: "https://wress.github.io/guide-materials/kokyo/spots/todofuken/",
 title: "都道府県の木",
-body: "都道府県の木 都道府県の木 皇居東御苑の開園に際して47都道府県から寄贈された木がある。 ちなみに、東京の木は奥の方にある。 余裕があれば、下見の時に場所だけでも確認しておくと安心。 These trees were presented by all the prefectures and are their symbol trees. Tips フリートークのネタとして、ここで自分の出身地の木について紹介したり、外国の方がこれまで訪れた場所や、行く予定の場所を木をきっかけにして話したりすると盛り上がるかも。 ちなみに被りがあるので32品種しかない。"
+body: "都道府県の木 都道府県の木 皇居東御苑の開園に際して47都道府県から寄贈された木がある。 ちなみに、東京の木は奥の方にある。 余裕があれば、下見の時に場所だけでも確認しておくと安心。 These trees were presented by all prefectures. The trees symbolize their prefecture. Tips フリートークのネタとして、ここで自分の出身地の木について紹介したり、外国の方がこれまで訪れた場所や、行く予定の場所を木をきっかけにして話したりすると盛り上がるかも。 ちなみに被りがあるので32品種しかない。"
 },
 {
 url: "https://wress.github.io/guide-materials/kokyo/spots/suwa/",
@@ -377,7 +377,7 @@ body: "浅草寺について 歴史 浅草寺の起源は628年までさかの�
 {
 url: "https://wress.github.io/guide-materials/kokyo/about/",
 title: "皇居東御苑について",
-body: "皇居東御苑について 歴史 12世紀の初頭、桓武平氏の流れをくむ江戸四郎が江戸の台地に館を作ったのに始まる。かつては江戸城で日本の政治の中心 だったが、1868年の明治維新（政治革命）の後、天皇が京都から江戸城一帯は皇居となり、首都も京都から東京に移された。江戸は革命前の東京の古称である。 The Imperial Palace was once called Edo Castle where the Shoguns administered the affairs of Japan in Edo era. After the political reform of 1868, known as the Meiji Restoration, the Imperial family moved from Kyoto. Edo Castle was taken place by the Imperial Palace, and the capital was transferred to Tokyo. Edo is the old name of Tokyo before the Meiji Restoration. 注意 入り口で通行証（無料）をもらうのでなくさないように！出るときに返します。（このことは外国人にも説明すること！） 皇居に入れるのは午前9時から午後4時30分まで。ただし、入園は午後4時まで。 所要時間 基本的には約50～90分で長めのコースである。場合によっては2時間程度になることも。キャッチ時間は20分くらい。一回のガイドで2組くらいが目安。 場合によっては二の丸庭園をショートカットすることもできるので時間と相談を。 ガイドスタイル ３か所のガイド地の中では一番距離が長い。ガイドスポット間が離れている場所も多いため、しっかりフリートークが楽しめる。特にここは江戸時代には江戸城があり、今では皇居であるという点から、日本の歴史の話ができると楽しい。 アクセス 東京メトロ千代田線、三田線、丸の内線、半蔵門線、東西線の大手町駅（c13出口）から約200m（徒歩約5分） JR 東京駅（丸の内北口もしくは中央口）から約1000ｍ（徒歩約15分） 集合場所 大手門付近の広場集合。大手門手前の交差点を南進してすぐの広場です。 集合場所への行き方 大手町駅C13b出口へ向かいます。 交差点を渡って左に曲がります（直進すると大手門ですが集合場所はそちらではありません）。 すぐ見えるちょっとした広場が集合場所です！"
+body: "皇居東御苑について 歴史 12世紀の初頭、桓武平氏の流れをくむ江戸四郎が江戸の台地に館を作ったのに始まる。かつては江戸城で日本の政治の中心だったが、1868年の明治維新の後、戊辰戦争を経て江戸城が無血開城され、江戸城一帯は皇居となり、首都も京都から東京に移された。江戸は革命前の東京の古称である。 The Imperial Palace was once called Edo Castle where the Shoguns administered the affairs of Japan in Edo era. After the political reform of 1868, known as the Meiji Restoration, the Imperial family moved from Kyoto. Edo Castle was taken place by the Imperial Palace, and the capital was transferred to Tokyo. Edo is the old name of Tokyo before the Meiji Restoration. 注意 入り口で通行証（無料）をもらうのでなくさないように！出るときに返します。（このことは外国人にも説明すること！） 皇居に入れるのは午前9時から午後4時30分まで。ただし、入園は午後4時まで。 所要時間 基本的には一周約50～90分で他のガイド地と比べると長い。時には2時間程度かかることも。キャッチ時間は20分くらい。一回のガイドで2組くらいが目安。 場合によっては二の丸庭園をショートカットすることもできるので時間と相談を。 ガイドスタイル ３か所のガイド地の中では一番距離が長い。ガイドスポット間が離れている場所も多いため、しっかりフリートークが楽しめる。特にここは江戸時代には江戸城があり、今では皇居であるという点から、日本の近代史の話ができると楽しい。 アクセス 東京メトロ千代田線、三田線、丸の内線、半蔵門線、東西線の大手町駅（c13出口）から約200m（徒歩約5分） JR 東京駅（丸の内北口もしくは中央口）から約1000ｍ（徒歩約15分） 集合場所 大手門付近の広場集合。大手門手前の交差点を南進してすぐの広場です。 集合場所への行き方 大手町駅C13b出口へ向かいます。 交差点を渡って左に曲がります（直進すると大手門ですが集合場所はそちらではありません）。 すぐ見えるちょっとした広場が集合場所です！"
 },
 {
 url: "https://wress.github.io/guide-materials/asakusa/food/hanamizuki/",
