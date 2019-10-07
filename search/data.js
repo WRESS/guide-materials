@@ -182,7 +182,7 @@ body: "おみくじ おみくじ おみくじは日本特有の文化なので�
 {
 url: "https://wress.github.io/guide-materials/info/free-talk/",
 title: "フリートーク",
-body: "フリートーク フリートーク ガイドの一番の目的は、会話を楽しむことです。実際各ガイド地にはガイドするスポット間の距離が離れており、フリートークが必要になる場面も多くあります。そこで、このページではフリートークのノウハウを記述します。 話題 フリートークの話題にはある程度典型的なものがあります。この項ではその話題に関して記述します。 出身地系 Where are you from? 鉄板です。キャッチが成功したら真っ先に聞きましょう。派生の話題として、自分が行ったことがあるかどうかや、その地で有名なものの話題につながります。 旅系 When did you come to Japan? Why did you come to Japan? 大多数は日本へ観光しに来た人ですが、時には日本に住んでいる人も見かけます。まずはバックグラウンドを知ることから始めましょう。 Is this your first trip to Japan? 日本に来たことのある人とない人では持つ感想が異なるはずです。ぜひ聞いてみましょう。 Where did you go in Japan? Where will you go in Japan? What do you do? 相手が観光しに日本に来ているようであれば旅のプランを聞いてみましょう。 お勧めの観光地を教えたり、これ以前に行ったところでのエピソードなども聞けるはずです。 食べ物系 Did you try Japanese food? 日本食は食べたことがある人がほとんどですが、この質問から、昨日あれを食べたとか、オススメはなに？とかいろんな話題に広がります。 好きな日本食やぜひ行ってほしいレストランがあればオススメしてみましょう。 イベント系 How do you spend on Christmas day? How do you spend on New Year\u0026rsquo;s Day? What is the most big event in your country? クリスマス、正月、バレンタイン、ハロウィンなど日本でもメジャーなイベントも海外では、違った楽しみ方、伝統的な過ごし方があるかもしれません。日本のも紹介しつつ、文化の違いが聞けるのもガイドの楽しみの一つです。 天気・気候の話 It\u0026rsquo;s too hot. Is it as hot in Japan as in your country? 特に夏・冬はしやすい天気の話です。地理の話になりますが、日本はケッペンの気候区分でいうところの温暖湿潤気候に属しています。ヨーロッパ・アメリカに多く分布している西岸海洋性気候や地中海性気候の地域と比べると、暑く湿っている日本の夏の気候は、故郷とはかなり違っているはずです。冬も日本の井戸は欧州主要各国と比べて低めなので少し暖かい？　かな？　聞いてみると面白いと思います。"
+body: "フリートーク フリートーク ガイドの一番の目的は、会話を楽しむことです。実際各ガイド地にはガイドするスポット間の距離が離れており、フリートークが必要になる場面も多くあります。そこで、このページではフリートークのノウハウを記述します。 話題 フリートークの話題にはある程度典型的なものがあります。この項ではその話題に関して記述します。 出身地系 Where are you from? 鉄板です。キャッチが成功したら真っ先に聞きましょう。派生の話題として、自分が行ったことがあるかどうかや、その地で有名なものの話題につながります。 旅系 When did you come to Japan? What brought you to Japan? 大多数は日本へ観光しに来た人ですが、時には日本に住んでいる人も見かけます。まずはバックグラウンドを知ることから始めましょう。 聞いたところによると「Why did you come to Japan?」だと少し攻撃的な感じがするそうなので、「What brought you to Japan?」が良いそうです。 Is this your first trip to Japan? 日本に来たことのある人とない人では持つ感想が異なるはずです。ぜひ聞いてみましょう。 Where did you go in Japan? Where will you go in Japan? What do you do? 相手が観光しに日本に来ているようであれば旅のプランを聞いてみましょう。 お勧めの観光地を教えたり、これ以前に行ったところでのエピソードなども聞けるはずです。 食べ物系 Did you try Japanese food? 日本食は食べたことがある人がほとんどですが、この質問から、昨日あれを食べたとか、オススメはなに？とかいろんな話題に広がります。 好きな日本食やぜひ行ってほしいレストランがあればオススメしてみましょう。 イベント系 How do you spend on Christmas day? How do you spend on New Year\u0026rsquo;s Day? What is the most big event in your country? クリスマス、正月、バレンタイン、ハロウィンなど日本でもメジャーなイベントも海外では、違った楽しみ方、伝統的な過ごし方があるかもしれません。日本のも紹介しつつ、文化の違いが聞けるのもガイドの楽しみの一つです。 天気・気候の話 It\u0026rsquo;s too hot. Is it as hot in Japan as in your country? 特に夏・冬はしやすい天気の話です。地理の話になりますが、日本はケッペンの気候区分でいうところの温暖湿潤気候に属しています。ヨーロッパ・アメリカに多く分布している西岸海洋性気候や地中海性気候の地域と比べると、暑く湿っている日本の夏の気候は、故郷とはかなり違っているはずです。冬も日本の井戸は欧州主要各国と比べて低めなので少し暖かい？　かな？　聞いてみると面白いと思います。"
 },
 {
 url: "https://wress.github.io/guide-materials/info/question/",
@@ -297,7 +297,7 @@ body: "桃華楽堂 桃華楽堂 皇太后良子(ながこ)の還暦を記念し
 {
 url: "https://wress.github.io/guide-materials/kokyo/spots/shiomi/",
 title: "汐見坂",
-body: "汐見坂 汐見坂 昔はこの坂から海が見えたのでこう呼ばれる。 海岸が埋め立てられた上に、高層ビルが建てられたので、今は海を見ることはできない。 ちょっと先は高層ビルなのに、周りは自然でいっぱいなところが意外と外国の方に人気。 This slope is called Shiomizaka, or Sea-viewing slope. Literally, in old days the sea could be seen from this slope. But we cannot see it now because of the landfill and the skyscraper. Tips 「see」と「sea」はどちらも同じ発音で，発音記号にすると[siː]。 自信をもって「see the sea」と言おう。 なお「she」の発音は[ʃi;]なので注意。 また、「ocean」は洋を表すが、ここから見えていたのは湾（現在の東京湾）であるため、これを使うのは厳密には間違い。 「sea」か「bay」を使おう。"
+body: "汐見坂 汐見坂 昔はこの坂から海が見えたのでこう呼ばれる。 海岸が埋め立てられた上に、高層ビルが建てられたので、今は海を見ることはできない。 ちょっと先は高層ビルなのに、周りは自然でいっぱいなところが意外と外国の方に人気。 This slope is called Shiomizaka, or Sea-viewing slope. Literally, in old days the sea could be seen from this slope. But we cannot see it now because of the landfill and the skyscraper. Tips 「see」と「sea」はどちらも同じ発音で、発音記号にすると[siː]。 自信をもって「see the sea」と言おう。 なお「she」の発音は[ʃi;]なので注意。 また、「ocean」は洋を表すが、ここから見えていたのは湾（現在の東京湾）であるため、これを使うのは厳密には間違い。 「sea」か「bay」を使おう。"
 },
 {
 url: "https://wress.github.io/guide-materials/kokyo/spots/zokibayashi/",
@@ -332,12 +332,22 @@ body: ""
 {
 url: "https://wress.github.io/guide-materials/meiji-jingu/food/bluegarden/",
 title: "Blue Garden",
-body: "Blue Garden 明治神宮ガイド定番の洋食屋さん。ジャニショの道を置くに行き、カスケード原宿を少し通り抜けて少し行ったところにある。 ハンバーグやパスタなどがあり、更にサラダはバイキング形式で食べ放題。予算は1000円程度。 席は大規模ガイドでもない限り空いているので迷ったらとりあずここに行ってみても良いかも。 公式サイトはこちら"
+body: "Blue Garden 明治神宮ガイド定番の洋食屋さん。ジャニーズショップの道を奥に行き、カスケード原宿を少し通り抜けて少し行ったところにある。 ハンバーグやパスタなどがあり、更にサラダはバイキング形式で食べ放題。予算は1000円程度。 席は大規模ガイドでもない限り空いているので迷ったらとりあずここに行ってみても良いかも。 公式サイトはこちら"
 },
 {
 url: "https://wress.github.io/guide-materials/meiji-jingu/food/gomayakuki/",
 title: "GOMAYA KUKI",
 body: "GOMAYA KUKI 自称「世界一濃いゴマアイス」を売ってるお店。 ゴマアイスの専門店というだけでも珍しいので、ガイド後時間が余った時など一度行ってみると良いと思います。 店内にはちょっとした座れるスペースもあるので、ある程度ならゆっくりできます。 アイス以外にもパフェやソイスムージーもあります！ 公式サイトはこちら"
+},
+{
+url: "https://wress.github.io/guide-materials/meiji-jingu/food/tamago_to_watashi/",
+title: "SALON 卵と私",
+body: "SALON 卵と私 ふわふわスフレのオムライスで有名なお店。ラフォーレ原宿の交差点を左に曲がると、ラフォーレ原宿側のビルの2階にある。ただ、人気店なので混雑していることが多い。少し待つけれどそれでもよい、という班員さんが多ければ並んでみても良いかも。（あとは、早めの時間に行くと比較的早く入れる。） 普通のオムライスもあるが、何と言ってもふわふわのスフレ状のオムライスがおすすめ！ふわふわ卵の下にハンバーグが入っているメニューも美味しかった。 前述のように少し混んでいるので、食べ終わると早く出なきゃの雰囲気になるのでゆっくりはできないが、とっても美味しいのでぜひ。 参考"
+},
+{
+url: "https://wress.github.io/guide-materials/meiji-jingu/food/rinka/",
+title: "りんか",
+body: "りんか 海鮮がメインでありながら、豚の生姜焼きもあり、魚好き・お肉好き共に楽しめるお店。 場所は、あのジャニーズショップの2階で、2階への階段はカスケード原宿側にある。 海鮮丼は少し高めで、1300-1500円ほど。私が行ったときは、もち豚の生姜焼きが一番安く950円。生姜焼き柔らかくてとっても美味しかった、 席数もそこそこあった上に、かなり空いていて隠れ家的なお店。とてもゆっくりできた。 参考"
 },
 {
 url: "https://wress.github.io/guide-materials/meiji-jingu/food/cascade/",
@@ -373,6 +383,11 @@ body: "明治神宮について 歴史 明治神宮は1920年（大正9年）に
 url: "https://wress.github.io/guide-materials/asakusa/about/",
 title: "浅草寺について",
 body: "浅草寺について 歴史 浅草寺の起源は628年までさかのぼります。桧前（ひのくま）兄弟二人が隅田川に漁に行ったところ網に観音像がかかり、それを祀ったのが始まり。江戸時代に浅草寺の境内の掃除など雑務を行うのと引き換えに、境内地に幕府が営業の許可を与えたことによって商店街＝仲見世が発展しました。 関東大震災(1923年)や東京大空襲(1945年)などで寺の建物のほとんどが破壊されましたが、1960 年代に全て再建されました。1970年代まで東京庶民の歓楽街としてにぎわいましたが、それ以降は衰退しつつあり、むしろ「下町らしさ」を主とした観光地としての側面の方が大きくなってきています。 The town Asakusa prospered as a temple town of Senso-ji temple. The temple dates back to 628. Hinokuma brothers went fishing in the Sumida River and found a statue of Goddess of Mercy in the cast net. Asakusa became one of the main towns of “Edo” after its residents were allowed to open stores in front of Sensoji temple by the government on condition that they cleaned up the temple, and the shopping arcade “Nakamise” developed. Almost all of the buildings of the temple were destroyed by the great earthquake in 1923 and the air raid attacks during World War Ⅱ, and they were rebuilt in the 1960s. Asakusa was the main amusement center of Tokyo until the 70s, but now it is rather a sightseeing spot where we can feel the atmosphere of the old Tokyo. 所要時間 ガイド自体は4～50分程度。ただ問題はキャッチで、定番の観光地だからかなかなかガイドさせてもらえない。ひどいときにはキャッチだけで一時間くらいかかることもある。根気強く頑張ろう。一回のガイドで2～3組くらいできると良い。 ガイドスタイル たいていの場合は仲見世通りでフリートークを、その他の場所では説明をすることになる。仲見世通りは人が多いうえ道幅が狭いためグループが離れ離れになりやすいので、外国人に常に気を配るようにしよう。また仲見世通りでの買い物に興味がありそうなら一緒にお店に入って買い物に付き合おう。（境内は食べ歩き禁止なので注意！） アクセス 東武スカイツリーライン：浅草駅より徒歩5分 東京メトロ銀座線：浅草駅より徒歩5分 つくばエクスプレス：浅草駅より徒歩5分 都営地下鉄浅草線：浅草駅A4出口より徒歩5分 集合場所 浅草ガイドの集合場所は「雷門横」と「浅草寺本殿と浅草神社の間」の二か所があり、参加人数によって変わります。 雷門横 雷門向かって右手のスペースに集合します。キャッチの待機場所が近いですが大人数が集合するには狭いため、人数が少ないときのみこちらで集合します。 浅草寺本堂と浅草神社の間 浅草寺本堂に向かって右手の浅草神社のわきに集合します。人数が多いときは少し遠いですがここに集合します。"
+},
+{
+url: "https://wress.github.io/guide-materials/meiji-jingu/food/seiko-en/",
+title: "清江苑",
+body: "清江苑 ラフォーレ原宿の向かいにあるビルの5階にある焼肉屋さん。カスケード原宿内にある焼肉KINTANも、ガイド界隈では有名だが、こちらも十分美味しく、ランチはとってもお得だった。 焼肉ランチは1300円ほどするので、他の所に比べたら割高ではあるが、焼肉ということを考えるととってもお得！10種類ほどの中から5種類好きなお肉を選んで1つのランチプレートにしてくれる。さらに、ご飯も大中小から選べ、サラダバー付き。お腹いっぱい大満足になること間違いなし！その他にも、スープランチやビビンバ等のランチメニューもある。 店内はとても広々としていて、咳が多いので待つことも少ないと思う。平日のガイドなら、もっとお手頃価格かも…！ 公式サイトはこちら"
 },
 {
 url: "https://wress.github.io/guide-materials/kokyo/about/",
